@@ -1,0 +1,505 @@
+id_pedido,data_pedido,id_cliente,nome_cliente,email,telefone,idade,cidade,estado,categoria_produto,produto,quantidade,preco_unitario,valor_total,forma_pagamento,status_pedido,avaliacao_cliente
+1041,26/07/23,306,Renan Ribeiro,leonardo88@example.org,,59,Florianópolis,SC,roupas,Camiseta Básica,2,"R$ 49,90","R$ 99,80",CARTÃO DE DÉBITO,Devolvido,5
+1047,27/03/2024,195,Diego Melo,novaisdavi@example.com,+55 11 97309-1356,70,CONTAGEM,MG,Roupas,Calça Jeans,4,"R$129,90","R$ 519,60",Cartão de Débito,processando,10
+1344,2023-10-16,165,Nicole Moreira,liviacaldeira@example.com,94400-6566,49,Porto Alegre,Rio Grande do Sul,Esporte e Lazer,Bola de Futebol Oficial,4,"89,90",359.60,boleto bancário,CANCELADO,1
+1137,08/01/2025,45,Fernanda Freitas,ucorreia@example.com,,41,Olinda,PE,Roupas,Vestido Casual,3,"159,90","R$ 479,70",boleto bancário,Em Transporte,1
+1110,27/08/2023,149,Cecilia Novaes,ryanborges@example.org,(85) 94156-8143,29,Petrópolis,RJ,Roupas,Calça Jeans,2,"R$129,90",259.80,Cartão de Crédito,Cancelado,-1
+1270,04-02-2024,152,HEITOR SILVA,ipiresexample.com,(79) 92170-1726,40,Contagem,MG,livros,Livro Técnico,1,"89,90",89.90,Boleto Bancário,processando,null
+1115,2025-06-14,102,  Marina das Neves  ,cardosobenicio@example.com,+55 51 97855-7089,38,RECIFE,Pernambuco,Beleza,Batom Matte,2,"R$ 39,90",79.80,BOLETO BANCÁRIO,entregue,5
+1018,2025-06-14,235,ENZO MACHADO,rnovaes@example.org,?,47, Rio de Janeiro,RJ,Eletronicos,Notebook,4,"R$ 3.299,00","R$ 13.196,00",PIX,PROCESSANDO,4
+1066,27/05/25,85,Daniel Castro,carlos-eduardo23@example.com,61 92334-1983,54,Maringá,Paraná,Eletrônicos,Smart TV 50pol,3,,6597.00,Boleto Bancário,ENTREGUE,4
+1449,02-06-2023,286,Srta. Maria Flor da Rocha,macedocecilia@example.net,(79) 92684-4153,35,Juazeiro do Norte,CE, Beleza,Creme Facial Anti-idade,2,"79,90","R$ 159,80",Boleto Bancário,DEVOLVIDO,5
+1067,2024-06-03,185,lorena moura,amandamachado@example.net,?,54,Fortaleza,CE,BELEZA,Creme Facial Anti-idade,1,"R$79,90","R$ 79,90", Cartão de Crédito ,devolvido,4
+1429,31/12/2023,61,ISAQUE ABREU,pcarvalho@example.com,41967913220,46,NULL,SC,Roupas,Vestido Casual,1,"R$ 159,90","R$ 159,90",Cartão de Crédito,processando,3
+1011,12/12/24,202,NULL,wcavalcante@example.com,21 91907-2384,36,Sobral,CE,Esporte e Lazer,Bola de Futebol Oficial,1,"89,90",89.90,pix,cancelado,N/A
+1019,15/02/2024,253,Lara Santos,rfogaca@example.com,+55 71 92785-9122,60,Santos,Não informado,Esporte e Lazer,Tênis de Corrida,1,"R$253,74","252,65", Cartão de Débito ,Cancelado,5
+1117,20-12-2023,252,Isadora Viana,camaraleonardo@example.org,(79) 94796-6632,NA,petrópolis,rj,Roupas,Camiseta Básica,2,"R$ 49,90","R$ 99,80",PIX,Processando,4
+1444,21-11-2023,105,srta. letícia pereira,casa-granderafaelexample.org,,20,Recife,Pernambuco,Esporte e Lazer,Bicicleta Aro 29,3,"R$ 899,00","R$ 2.697,00",Cartão de Crédito,PROCESSANDO,N/A
+1414,31/01/2024,341,nicole vasconcelos,yuricavalcanti@example.org,(81) 93469-2193,71,Brasília,DF,CASA E DECORAÇÃO,Sofá 3 Lugares,1,"R$ 2.314,92","2.314,92",Pix,Devolvido,4
+1437,2025-11-22,20,Esther Viana,antony51@example.net,91600-5610,22,Manaus,Amazonas,casa e decoração,Tapete Sala,1,"R$ 249,90",249.90,PIX,Cancelado,5
+1074,12/04/2024,186,Sofia Rios,ryan40@example.com,+55 85 99222-4357,41,Juazeiro do Norte,ceará,casa e decoração,Luminária de Mesa,2,"R$89,90","R$ 179,80",cartão de débito,Processando,
+1234,11/25/2023,149,Dr. Enrico da Costa,marcos-vinicius41@example.org,51964854447,75,Santos,sp, Eletrônicos,Câmera Digital,1,"R$ 1.599,00",1599.00,Pix,devolvido,-
+1400,05-02-2024,254,Erick Cavalcante,gabrielly20@example.com,91286-4757,29,-,são paulo,roupas,Calça Jeans,4,"R$129,90","R$ 519,60",cartão de débito,Cancelado,5
+1191,18/09/2025,136,Juan Moreira,ana-luiza95@example.net,,23,  Parintins  ,AM,Esporte e Lazer,Bicicleta Aro 29,1,,"R$ 882,90",Boleto Bancário,Cancelado,4
+1241,2023-10-29,84,Marina Dias,gael-henrique63@example.com,99384-9017,20,Petrópolis,RJ,BELEZA,Perfume Importado,5,"R$199,90","999,50",Cartão de Crédito,Em Transporte,N/A
+1159,28/11/2024,4,Gustavo da Cunha,peixotonicolas@example.org,(81) 93084-7308,25, Duque de Caxias,rio de janeiro,Eletrônicos,Notebook,3,3299.00,"R$ 9.897,00", Cartão de Crédito ,processando,2
+1375,14-05-2024,120,Vitor Gabriel da Rosa,LUIZAOLIVEIRA@EXAMPLE.COM,31973134720,57,CURITIBA,PR,Casa e Decoração,Luminária de Mesa,1,"89,90","R$ 89,90",Cartão de Débito,EM TRANSPORTE,4
+1336,30-05-2025,206,Thales Borges,jesusmaria-lizexample.org,31919481396,74,brasília,distrito federal,Beleza,Perfume Importado,2,"R$ 199,90","R$ 399,80",BOLETO BANCÁRIO,Processando,4
+1396,04/15/2024,4,Ana Clara Macedo,pintorhavi@example.org,(51) 96169-9212,71,Brasília,DF,CASA E DECORAÇÃO,Sofá 3 Lugares,2,"R$1.899,00","R$ 3.798,00", Cartão de Débito ,Em Transporte,4
+1339,09/08/2023,248, Sr. Lorenzo Vasconcelos,woliveira@example.org,+55 85 95313-6107,48, Jaboatão dos Guararapes,PE,Esporte e Lazer,Bicicleta Aro 29,2,"R$899,00","1.798,00",Cartão de Crédito,Cancelado,5
+1209,18/09/2025,260,SR. MATHIAS FARIAS,gabriellypires@example.net,61 94004-6939,72,duque de caxias,rj,Livros,Livro Técnico,3,"89,90","269,70", Cartão de Crédito ,Processando,5
+1377,08/13/2024,197,?,,99897-4641,24,,Pernambuco,Casa/Decoração,Mesa de Jantar 6 Lugares,3,"R$ 899,00","R$ 2.697,00", Cartão de Crédito ,Entregue,2
+1092,2023-09-01,324,Srta. Rebeca da Rocha,maria-fernanda77@example.org,N/A,55,Joinville,SC, Beleza,Perfume Importado,2,"R$199,90",NULL, Cartão de Crédito ,Entregue,4
+1464,10/02/2023,228,SRTA. MARIANE BORGES,iansiqueira@example.com,(85) 98117-2148,53,Duque de Caxias,RJ,CASA E DECORAÇÃO,Jogo de Cortinas,1,"R$99,90","R$ 99,90",boleto bancário,cancelado,2
+1102,11/06/2023,52,LAURA PORTO,theoda-mata@example.com,97674-4454,19,NULL,RJ,Casa e Decoracao,Tapete Sala,1,"249,90","R$ 249,90",cartão de débito,Cancelado,-
+1061,28/11/2023,181,Otávio Rocha,jade28@example.net,21 94729-9157,61,Florianópolis,santa catarina, Roupas,Jaqueta Corta-Vento,4,"199,90",,Cartão de Crédito,Entregue,5
+1050,06/05/2023,37,MILENA NOVAIS,?,91338-4990,24,Petrópolis,RJ,ESPORTE E LAZER,Bola de Futebol Oficial,Não informado,"89,90","359,60",Cartão de Débito,Entregue,2
+1080,2024-05-01,229,Daniela Ribeiro,uteixeira@example.net,+55 79 95254-1945,38,  Manaus  ,AM,Livros,HQ Coleção,1,"R$ 29,90",29.90,Pix,Entregue,1
+1068,22/05/25,71,EMANUELLY DA MATA,arthur-miguel40@example.org,81 93752-7012,N/A,recife,Pernambuco,LIVROS,Livro Técnico,0,"R$ 94,99","0,00",Pix,ENTREGUE,3
+1450,2025-02-14,265,Ravy Barros,pietra76@example.net,(71) 99889-6332,34,Juazeiro do Norte,CE,Beleza,Creme Facial Anti-idade,1,"R$ 79,90","79,90",cartão de crédito,Entregue,5
+1233,17-01-2025,163,kevin sá,leonardoda-cruz@example.net,98687-4617,69,Santos,são paulo, Esporte e Lazer,Bicicleta Aro 29,2,"R$ 899,00","1.798,00",BOLETO BANCÁRIO,Cancelado,1
+1133,23/09/2024,258,Francisco Rezende,tandrade@example.net,41 96313-2739,20,Salvador,Bahia,beleza,Shampoo Profissional,1,"29,90","R$ 29,90",Cartão de Crédito,Em Transporte,4
+1072,08/04/2023,35,dra. cecilia guerra,caue20@example.org,94960-1930,69,Pelotas,RS,ROUPAS,Jaqueta Corta-Vento,2,"199,90","R$ 399,80",boleto bancário,Entregue,4
+1171,27-08-2025,188,Mathias Borges, pedro-miguelpinto@example.com ,(79) 97896-7699,25,Petrópolis,rj,BELEZA,Creme Facial Anti-idade,5,"R$ 79,90",399.50,cartão de crédito,entregue,2
+1378,18/07/2025,185,Letícia Nascimento,stephany96@example.net,(11) 95288-6887,42,BRASÍLIA,Distrito Federal,Beleza,Batom Matte,1,"R$ 39,90","35,62",Boleto Bancário,Devolvido,6
+1456,18-01-2025,7,Ian Cirino,agathasouza@example.org,(61) 99199-1102,22,Belo Horizonte,MG,ESPORTE E LAZER,Bola de Futebol Oficial,3,"R$ 89,90","269,70",CARTÃO DE DÉBITO,Devolvido,2
+1138,2025-06-19,126,Sra. Ana Pires,zda-cruz@example.net,NA,,recife,Pernambuco,Roupas,Camiseta Básica,1,49.90,"49,90",boleto bancário,Devolvido,4
+1329,29/04/2023,163,diego porto,macedonatalia@example.com,(41) 92021-3670,54,Fortaleza,CE,livros,Livro Técnico,2,89.90,"R$ 179,80",boleto bancário,Cancelado,3
+1161,2025-07-19,101,Rafaela Azevedo,ybrito@,61 98327-7776,33,Manaus,AM,Eletrônicos,Câmera Digital,1,1599.00,"1.599,00",Cartão de Débito,Entregue,
+1433,2025-05-21,245,Bento da Mota,matteo14@example.com,71934154007,56,  Olinda  ,Pernambuco,Esporte e Lazer,Bola de Futebol Oficial,1,"R$ 89,90",89.90,Cartão de Crédito,Em Transporte,5
+1341,21/09/2024,147,Zoe Carvalho,da-cruzfelipe@example.org,Não informado,45,  Contagem  ,mg, Casa e Decoração,Luminária de Mesa,2,89.90,"R$ 179,80",Cartão de Débito,PROCESSANDO,5
+1182,30/01/2024,278,BENÍCIO PIMENTA, correiajoao@example.com ,NA,21,juazeiro do norte,ce,Eletrônicos,Notebook,4,3299.00,"R$ 13.196,00",BOLETO BANCÁRIO,Entregue,null
+1079,18/12/2025,341,matteo almeida,ana-julia31@example.net,+55 21 98541-3911,73, Ilhéus,bahia,Casa e Decoração,Jogo de Cortinas,1,"99,90","R$ 99,90",pix,Devolvido,3
+1457,10-01-2024,145,José Rezende,correiasofia@example.net,+55 79 95260-4617,23,Brasília,df,Casa e Decoração,Luminária de Mesa,3,"89,90","R$ 269,70",PIX,devolvido,4
+1119,30-09-2024,328,Davi Lucas da Conceição,ramosana-julia@example.org,NULL,31,Maringá,Paraná, Livros,HQ Coleção,Não informado,29.90,"59,80",Cartão de Crédito,entregue,4
+1355,2024-10-15,277,JULIANA ROCHA,vitoria09@example.org,(11) 99203-4074,37,Brasília,DF,Esporte e Lazer,Halteres 5kg (par),3,"R$185,38","556,14",Cartão de Débito,Devolvido,2
+1425,24/03/25,265,Sophie Vasconcelos,marianateixeira@example.org,95086-2434,36,uberlândia,MG,Esporte e Lazer,Bicicleta Aro 29,2,"899,00","1.798,00",Cartão de Crédito,Devolvido,null
+1201,30/09/2025,335,Benjamin Vasconcelos,albuquerquematteo@,21997602010,60,LAGARTO,Sergipe,BELEZA,Shampoo Profissional,2,"R$ 29,90",59.80,Cartão de Crédito,Processando,3
+1367,2024-04-25,118,MARIA SOUSA,moreirarael@example.net,,33,Caruaru,PE,Casa e Decoração,Sofá 3 Lugares,3,"1.899,00","R$ 5.697,00",Cartão de Crédito,em transporte,5
+1395,04/03/2025,161,RAEL PINTO,dalmeida@example.org,+55 71 93153-1171,66,,CE,Eletronico,Tablet,1,"R$ 999,00","R$ 999,00", Pix ,Processando,3
+1045,17/06/2023,186,Dr. Valentim Leão,,(31) 98967-4499,46,Brasília,DF,Livros,Livro Técnico,5,"R$89,90",449.50,CARTÃO DE CRÉDITO,Processando,5
+1450,2025-02-14,265,Ravy Barros,pietra76@example.net,(71) 99889-6332,34,Juazeiro do Norte,CE,Beleza,Creme Facial Anti-idade,1,"R$ 79,90","79,90",cartão de crédito,Entregue,5
+1288,01/05/2025,31,, manuellasiqueira@example.net ,21951285574,49,juazeiro do norte,ce,Livros,HQ Coleção,1,"R$ 29,90","29,90",cartão de crédito,Devolvido,5
+1428,2023-06-18,276,Luana Carvalho,mariahriosexample.com,(31) 91263-4425,42,Olinda,PE,roupas,Vestido Casual,4,159.90,null,Cartão de Débito,em transporte,N/A
+1065,09/10/2025,123,Maria Vitória da Mata,caiomoura@example.net,(21) 94727-3681,20,São Paulo,SP,Eletronico,Tablet,5,999.00,,Cartão de Crédito,CANCELADO,6
+1106,2024-05-08,58,Ravy Leão,alexia44@,(81) 94847-5617,47,Feira de Santana,BA, Casa e Decoração,Jogo de Cortinas,1,"R$99,90","99,90",BOLETO BANCÁRIO,processando,1
+1303,02/09/2025,128,Miguel Pacheco,REBECA57@EXAMPLE.NET,(85) 95842-1063,26, Manaus,Amazonas,CASA E DECORAÇÃO,Luminária de Mesa,1,"89,90","61,77",Cartão de Crédito,EM TRANSPORTE,4
+1180,19/08/23,251,Ana Cecília Aparecida,enzosiqueira@example.com,+55 21 93880-1379,52, Uberlândia,, Casa e Decoração,Tapete Sala,5,"R$ 249,90","R$ 1.249,50",Pix,devolvido,3
+1397,26/04/2024,176,Augusto Castro,ana-vitoriaabreu@example.com,+55 85 92243-6029,63,Salvador,BA,Eletronico,Smartphone,2,"R$ 1.899,90","R$ 3.799,80",Cartão de Débito,Cancelado,4
+1325,06/06/2023,325,Bianca Dias,hmendes@example.org,,32,Pelotas,RS,Casa e Decoração,Jogo de Cortinas,2,"R$ 99,90","199,80",Cartão de Crédito,Devolvido,10
+1094,2025-03-21,162,  Ana Vitória Montenegro  ,yda-mata@example.org,79997196006,33,Campinas,São Paulo,Casa e Decoracao,Mesa de Jantar 6 Lugares,2,"899,00","R$ 1.798,00",Boleto Bancário,Entregue,5
+1359,12/20/2025,15,Camila Moraes,ana-beatrizjesus@example.net,(61) 99219-7700,59,Canoas,RS,Esporte e Lazer,Halteres 5kg (par),4,149.90,"R$ 599,60",Pix,CANCELADO,3
+1435,2023-02-28,217,Enzo Gabriel Novais,aparecidaantonio@example.com,41911764276,62,Feira de Santana,BA,Roupas,Jaqueta Corta-Vento,2,"199,90","R$ 399,80",Pix,cancelado,4
+1445,2025-01-23,155,Pedro Miguel Porto,,?,50,Florianópolis,SC,Casa e Decoracao,Jogo de Cortinas,1,"R$ 99,90",null,Boleto Bancário,devolvido,4
+1382,06/09/23,236,Gabriel Leão,cguerra@example.net,81 96942-5393,71,Petrópolis,RJ,Eletrônicos,Câmera Digital,1,"R$ 1.599,00","R$ 1.599,00",Cartão de Crédito,Cancelado,5
+1090,23-05-2025,26,CLARA FARIAS,ana-julia99example.org,+55 51 97859-7730,31,Ponta Grossa,PR, Esporte e Lazer,Halteres 5kg (par),2,"149,90","R$ 299,80",Cartão de Débito,entregue,3
+1235,09/29/2025,216,Bella Costa,jcassiano@example.com,21949041679,65,Brasília,distrito federal,Roupa,Tênis Esportivo,3,219.90,"R$ 659,70",,Em Transporte,4
+1169,08-03-2024,169, Enrico Moreira,davi-luizcaldeira@example.com,(61) 98598-8704,69,Ilhéus,BA,roupas,Camiseta Básica,0,62.50,0.00,Boleto Bancário,Cancelado,5
+1156,25/04/24,2,Gabriel Peixoto,domfreitas@example.net,98052-8536,27,Caxias do Sul,RS, Casa e Decoração,Mesa de Jantar 6 Lugares,NA,"899,00",N/A,Cartão de Crédito,Em Transporte,?
+1051,04-08-2025,239,sr. joão guilherme machado,pmontenegro@example.net,41996111593,39,Pelotas,rio grande do sul, Eletrônicos,Smartphone,4,"R$ 1.899,90",7599.60,cartão de crédito,cancelado,4
+1218,04/10/2024,77,gabrielly da rocha,barbara64@example.org,71 97081-9768,58,Salvador,BA,livros,HQ Coleção,2,"29,90","R$ 59,80",pix,Processando,NA
+1289,12/01/2024,238,Benicio Fonseca,enzo-gabrielda-rochaexample.net,99092-1225,72,Sorocaba,são paulo, Livros,HQ Coleção,5,"R$ 29,90",149.50,boleto bancário,Cancelado,null
+1165,04/01/2024,332,FERNANDA GONÇALVES,acostela@example.com,85916966628,29, Lagarto,se,Eletrônicos,Tablet,1,"R$ 999,00","R$ 999,00",CARTÃO DE CRÉDITO,Em Transporte,3
+1124,18/05/2023,167,Lorena Araújo,correiamelina@example.net,(51) 93625-7181,69, Joinville,SC, Eletrônicos,Fone de Ouvido Bluetooth,2,"R$149,90",null,Boleto Bancário,Entregue,-
+1320,2023-02-04,62,HENRY BARBOSA,joao-lucas71@example.com,21943705024,43,Aracaju,SE, Casa e Decoração,Jogo de Cortinas,4,99.90,399.60,Cartão de Crédito,CANCELADO,1
+1177,19/12/2025,186,Alexandre Pinto,pmartins@example.com,21 95082-2686,57,Pelotas,,ROUPAS,Camiseta Básica,1,"R$ 49,90","R$ 49,90",BOLETO BANCÁRIO,Devolvido,3
+1226,2024-11-27,167,anna liz mendonça,piresbeatriz@example.com,97857-4682,58,Ribeirão Preto,SP,esporte e lazer,Bicicleta Aro 29,2,819.04,"1.638,08", Cartão de Crédito ,Cancelado,3
+1354,2025-12-04,126,mirella porto,aparecidabernardo@example.net,94806-6633,62,DUQUE DE CAXIAS,RJ, Beleza,Shampoo Profissional,1,"R$ 29,90","R$ 29,90",Cartão de Crédito,entregue,0
+1250,29-03-2025,336,Dra. Maria Pacheco,henrique34@,71981789012,19,Canoas,rio grande do sul, Eletrônicos,Câmera Digital,null,1599.00,3198.00,CARTÃO DE DÉBITO,EM TRANSPORTE,4
+1183,04/08/2023,242,  Enzo Rodrigues  ,davi-luccaferreira@example.net,null,47,MANAUS,am,Casa e Decoração,Jogo de Cortinas,1,"99,90","99,90",boleto bancário,Processando,4
+1283,2024-04-30,103,ANA JÚLIA MONTEIRO,camposlaura@example.net,(41) 94603-3251,61,Parintins,amazonas,beleza,Perfume Importado,2,"R$ 199,90","399,80",CARTÃO DE DÉBITO,Processando,-
+1024,01/01/2025,47,RODRIGO PORTO,maraujo@example.org,97635-4336,25,Florianópolis,SC,Livros,Biografia,1,"R$44,90",44.90,CARTÃO DE DÉBITO,Cancelado,
+1313,06/05/2025,55,Liam Nunes,feliperios@example.net,51 96867-1191,63,Joinville,Santa Catarina,Livros,HQ Coleção,4,30.70,"174,30",Boleto Bancário,Em Transporte,-1
+1216,22/07/2025,55,Bianca da Cruz,nicolascamargo@example.org,92843-9836,?,Lagarto,SE,Esporte e Lazer,Halteres 5kg (par),1,N/A,"R$ 149,90",Cartão de Débito,Entregue,2
+1199,18/03/24,317,Melina Pereira,kda-cruz@example.org,81990612331,71,Porto Alegre,RS,beleza,Batom Matte,1,39.90,NULL,Pix,em transporte,3
+1230,08/12/2025,350,Ana Beatriz Ferreira,NA,61962017252,-5,Curitiba,PR,Roupas,Camiseta Básica,5,"R$49,90","R$ 249,50",Boleto Bancário,Processando,4
+1211,2023-12-11,262,NULL,ana-lizvieira@example.org,(79) 93112-4292,30,JUAZEIRO DO NORTE,CE,Eletrônicos,Tablet,2,999.00,1998.00,Cartão de Débito,entregue,5
+1016,18/09/2023,282,Maria Cavalcante,monteirodante@example.org,71976554910,28,SALVADOR,bahia,Eletrônicos,Câmera Digital,2,"R$1.599,00","3.198,00",CARTÃO DE DÉBITO,entregue,3
+1187,04/07/2024,45,Lunna Garcia,viniciuscamargo@example.net,51953289344,32,Manaus,Amazonas,roupas,Camiseta Básica,4,"R$ 49,90","R$ 199,60",BOLETO BANCÁRIO,Em Transporte,2
+1458,24/10/23,163,Samuel da Conceição,icamara@example.net,79 98525-8572,NULL,Nossa Senhora do Socorro,Sergipe,Casa e Decoração,Jogo de Cortinas,2,99.90,"199,80",Cartão de Crédito,entregue,4
+1408,03/12/2023,39,Caroline Santos,lunna95@example.net,+55 61 96890-2279,?,Blumenau,santa catarina,Beleza,Batom Matte,2,"R$39,90","79,80",pix,Cancelado,4
+1324,23/05/24,292,Eduardo Alves,ana-carolina52@example.com,85952035435,73,  Uberlândia  ,MG,beleza,Batom Matte,5,"R$ 39,90",199.50,Pix,Devolvido,2
+1133,23/09/2024,258,Francisco Rezende,tandrade@example.net,41 96313-2739,20,Salvador,Bahia,beleza,Shampoo Profissional,1,"29,90","R$ 29,90",Cartão de Crédito,Em Transporte,4
+1139,29/03/2025,309,Ana Cecília Garcia,martinsdavi-lucas@example.org,(79) 99514-5976,18,Duque de Caxias,Rio de Janeiro,Eletronico,Notebook,1,3299.00,"R$ 3.299,00",Pix,Entregue,
+1203,06/08/2025,286,BENÍCIO DA ROSA,silveiramaria-liz@example.net,+55 11 99731-4450,53,Juiz de Fora,MG,Eletronico,Fone de Ouvido Bluetooth,3,149.90,"R$ 449,70",Boleto Bancário,DEVOLVIDO,4
+1461,03-04-2023,109,Maria Júlia Nogueira,NULL,,36,Joinville,SC,Roupas,Camiseta Básica,1,"R$ 49,90","49,90",Cartão de Débito,Processando,1
+1232,2023-05-27,191,ISABEL CARDOSO,maria-eduarda38@example.org,31 96956-8587,44,Brasília,N/A,Livros,Livro Técnico,1,"R$89,90",89.90,Cartão de Crédito,devolvido,3
+1098,2024-06-24,136,Milena Guerra,joao-miguel65@example.com,11 91724-3870,-1,ILHÉUS,BA,Esporte e Lazer,Bicicleta Aro 29,3,"R$ 899,00","R$ 2.697,00", Pix ,Em Transporte,3
+1248,2023-08-11,103,Dra. Maria Alice Porto,da-cunhayan@example.com,92618-2424,27,Maringá,PR,LIVROS,HQ Coleção,1,"R$29,90","41,60",Boleto Bancário,Cancelado,NULL
+1381,24/10/2025,338,Carlos Eduardo Jesus,melissa68@example.net,+55 85 96493-8816,53,  Jaboatão dos Guararapes  ,pe,Esporte e Lazer,Halteres 5kg (par),5,"R$149,90",749.50,cartão de crédito,em transporte,3
+1223,24-02-2023,208,BENJAMIM ABREU,mariane17@example.net,79 98671-5203,21,SÃO PAULO,sp,beleza,Creme Facial Anti-idade,3,"79,90","261,13",CARTÃO DE DÉBITO,Em Transporte,6
+1085,11/07/2023,133,allana pires,marianada-luz@example.org,79 96764-3000,51,  Olinda  ,pernambuco, Roupas,Calça Jeans,1,"129,90",129.90,Pix,entregue,5
+1258,2023-05-17,99,Luan Viana,sofiaferreira@example.net,41961864082,67,Juiz de Fora,MG,Casa e Decoração,Jogo de Cortinas,1,99.90,"99,90", Boleto Bancário ,Devolvido,5
+1296,2023-11-30,11,Isadora Garcia,yrodrigues@,97808-6635,67,,São Paulo, Casa e Decoração,Tapete Sala,2,"R$ 249,90",499.80,Pix,Cancelado,?
+1340,25-10-2024,90,Cauê Siqueira,gmachado@example.org,93547-6210,41,jaboatão dos guararapes,PE, Roupas,Tênis Esportivo,3,"R$219,90","659,70",Boleto Bancário,PROCESSANDO,3
+1334,28/11/2023,194,Gustavo Carvalho,ana-lizcosta@example.org,92097-4567,32,Ponta Grossa,PR,Esporte e Lazer,Tênis de Corrida,1,"289,90","R$ 289,90",cartão de crédito,Cancelado,5
+1468,2023-09-11,139,Sra. Alícia Pacheco,ycamargo@example.org,(21) 91517-6611,58,Fortaleza,ceará,Eletrônicos,Notebook,1,"3.299,00","R$ 3.299,00",cartão de débito,Cancelado,
+1342,25/02/2024,186,Emilly Cavalcante,das-nevestheodoro@example.net,?,62,Brasília,DF,LIVROS,Livro Técnico,-2,"R$ 89,90","R$ -179,80",CARTÃO DE CRÉDITO,Processando,2
+1476,12/07/2023,5,Lucas Gabriel Pacheco,ofarias@example.org,(11) 91849-1373,40,Blumenau,santa catarina,Eletrônicos,Câmera Digital,0,"R$1.599,00",0.00,Cartão de Débito,PROCESSANDO,2
+1236,13-06-2023,200,Sra. Maya da Mota,henriqueporto@example.org,?,46,Caxias do Sul,rio grande do sul,Casa e Decoração,Jogo de Cortinas,5,"R$ 99,90","R$ 499,50",Pix,Em Transporte,1
+1077,13/10/25,70,DR. BRYAN MELO,milena33@example.net,N/A,20,SOBRAL,ce,Eletrônicos,Notebook,2,3299.00,6598.00,Pix,Cancelado,4
+1091,14/10/24,200,Rodrigo Araújo,rda-mata@example.org,(21) 97405-9637,33,Lagarto,SE,Roupa,Jaqueta Corta-Vento,1,"R$199,90","R$ 199,90",Pix,Devolvido,3
+1262,2024-05-16,327,Caleb Rios,MIGUEL73@EXAMPLE.NET,71 93830-1912,26,Ilhéus,BA,Casa e Decoração,Sofá 3 Lugares,5,1899.00,"R$ 9.495,00",Cartão de Débito,Devolvido,NULL
+1044,20/10/2025,217,LUNNA DA LUZ,dcardoso@example.net,31 96070-1943,34,BELO HORIZONTE,MG,Casa e Decoração,Luminária de Mesa,4,"R$ 89,90","359,60",Pix,Processando,N/A
+1237,26/12/2023,283,Gustavo Gomes,aandrade@example.com,21988684505,24, Parintins,Amazonas,Esporte e Lazer,Tênis de Corrida,-1,289.90,"-289,90",boleto bancário,Processando,1
+1062,2025-07-16,45,Sabrina Sampaio,felipe40@example.net,(21) 99020-4101,34,ponta grossa,PR, Esporte e Lazer,Bola de Futebol Oficial,1,89.90,89.90,cartão de crédito,Em Transporte,4
+1317,2024-02-23,4,Sr. Gael Henrique Rocha,lunna17@example.com,NA,50,Feira de Santana,BA,Casa e Decoração,Luminária de Mesa,1,"R$ 89,90","R$ 89,90",Pix,ENTREGUE,Não informado
+1048,2024-03-08,86,Stella Moura,xviana@example.org,N/A,28,Nossa Senhora do Socorro,?,Eletrônicos,Fone de Ouvido Bluetooth,2,?,"299,80",PIX,processando,
+1259,27/09/2024,125,Alice Ribeiro,costeladiego@example.net,(31) 96714-7603,62,ilhéus,Bahia,Esporte/Lazer,Halteres 5kg (par),?,"R$ 149,90",299.80,cartão de débito,Devolvido,5
+1108,07/08/2024,165,maria júlia campos,lorenzobarbosa@example.org,-,48,Manaus,Amazonas, Casa e Decoração,Luminária de Mesa,1,"89,90","89,90",Pix,Em Transporte,null
+1441,08/12/2025,179,Luan Garcia,eduardadias@example.org,98283-6789,45,Manaus,AM,Beleza,Creme Facial Anti-idade,3,"R$ 79,90","R$ 239,70",Cartão de Débito,Devolvido,2
+1184,17/08/2025,74,null,maria-alice24@example.net,21943146637,57,Feira de Santana,ba, Casa e Decoração,Tapete Sala,1,"249,90","249,90",CARTÃO DE CRÉDITO,Devolvido,1
+1321,09/02/2023,99,BRENO MACHADO, ayla37@example.org ,(11) 95811-3437,28,-,SC,BELEZA,Creme Facial Anti-idade,3,"R$ 79,90","239,70",Pix,Processando,3
+1049,2024-01-29,90,ana laura da cruz,yuriaparecida@example.org,79994946695,49,Salvador,BA,Eletrônicos,Tablet,3,"R$ 999,00",2997.00,CARTÃO DE CRÉDITO,Devolvido,5
+1310,23/03/2025,180,Caroline da Cunha,fernandesmurilo@example.org,79944195204,44,Brasília,DF,Esporte e Lazer,Bicicleta Aro 29,2,899.00,"R$ 1.798,00",PIX,Entregue,4
+1126,2023-11-17,12,ANA BEATRIZ SAMPAIO,laura56@example.org,79 96930-7784,60,Brasília,df,Esporte e Lazer,Tênis de Corrida,1,339.73,339.73,Boleto Bancário,Entregue,3
+1231,2024-10-22,150,Luna Cavalcante,smacedo@example.com,99808-6086,32,Vitória da Conquista,BA,casa e decoração,Sofá 3 Lugares,3,"R$ 1.899,00","R$ 5.697,00",Boleto Bancário,Cancelado,
+1185,09/08/2025,269,  Giovanna Pastor  ,NA,-,18,Ponta Grossa,PR,Casa e Decoração,Sofá 3 Lugares,3,"R$ 1.899,00",NULL,CARTÃO DE DÉBITO,Devolvido,3
+1256,09/02/2025,260,Sra. Maria Alice da Cruz,aurora77@example.com,(85) 98153-9453,42,  Ilhéus  ,ba,Beleza,Perfume Importado,3,"199,90","R$ 599,70",Pix,Em Transporte,3
+1186,08/04/2024,312,Gael Henrique Cirino,ocastro@example.com,(21) 99198-9128,-5,Ribeirão Preto,São Paulo,Livros,Livro Técnico,3,"R$89,90","337,29", Boleto Bancário ,ENTREGUE,4
+1125,12/12/2023,198,mariah barros,rafael65@example.org,96908-2980,34,NULL,Paraná,Esporte e Lazer,Bola de Futebol Oficial,5,"R$ 65,95",NULL, Cartão de Crédito ,Entregue,-
+1052,2025-07-18,272,Joana Novais,NULL,+55 61 95354-5479,24,Belo Horizonte,mg,Casa e Decoração,Jogo de Cortinas,3,99.90,"299,70",PIX,Em Transporte,5
+1480,27/04/2023,70,PAULO PORTO,FONSECAALEXIA@EXAMPLE.ORG,11 95504-3557,54,Juiz de Fora,MG,Eletrônicos,Notebook,1,"R$3.299,00","R$ 3.299,00",pix,CANCELADO,5
+1189,2025-04-09,88,Maria Fernanda da Luz,kfreitas@example.org,(85) 94019-3666,58,Pelotas,rs, Eletrônicos,Notebook,5,"R$3.299,00","R$ 16.495,00",CARTÃO DE DÉBITO,Cancelado,3
+1212,11/01/2025,270,Ana Vitória Nunes,joao-vitorandrade@example.org,(41) 95291-3296,27,Uberlândia,MG,Roupas,Jaqueta Corta-Vento,3,"R$ 199,90","521,09",boleto bancário,Cancelado,4
+1388,2023-06-21,176,LEANDRO SANTOS,da-rosaisabella@example.org,(81) 96848-5366,200,-,SC,roupas,Camiseta Básica,1,"R$ 49,90","49,90",Boleto Bancário,Processando,2
+1202,01/17/2025,27,?,lpimenta@example.net,(11) 99064-2242,18,Manaus,Amazonas,Eletrônicos,Câmera Digital,2,1599.00,3198.00,Boleto Bancário,Devolvido,5
+1123,2025-06-04,201,renan moura,NULL,21 96994-7533,39,florianópolis,Santa Catarina,Livros,Romance Best-seller,-2,39.90,-79.80,Pix,Cancelado,3
+1149,2025-06-29,309,Emanuella da Conceição,laramarques@example.net,11927887636,999,Fortaleza,CE,LIVROS,Livro Técnico,4,"89,90","R$ 359,60",CARTÃO DE CRÉDITO,Processando,3
+1163,31/01/2025,141,sra. maria luísa da paz,lara04@example.net,98826-6834,,Fortaleza,Ceará,Esporte e Lazer,Bicicleta Aro 29,1,"R$ 899,00",null, Boleto Bancário ,Em Transporte,4
+1430,03/06/25,340, Sra. Catarina Santos,rodrigofarias@example.net,95326-9893,18,Blumenau,Santa Catarina, Eletrônicos,Câmera Digital,4,"R$ 1.599,00","R$ 6.396,00",pix,Em Transporte,3
+1322,27/07/2023,287,Maria Clara Casa Grande,pedro-miguel02@example.net,(31) 93483-8934,65,Caruaru,Pernambuco,Roupas,Camiseta Básica,1,"49,90","28,41",Pix,Entregue,4
+1454,30/04/2024,203,Melissa Sales,casa-grandeesther@example.net,(61) 98614-8777,57,Caxias do Sul,rs,Eletrônicos,Fone de Ouvido Bluetooth,3,"149,90",?,CARTÃO DE DÉBITO,devolvido,4
+1361,2023-04-17,241,hellena rezende,jcosta@example.net,-,35,Maringá,PR,Esporte e Lazer,Tênis de Corrida,3,"289,90","869,70",NA,Entregue,
+1210,2023-07-05,7,ZOE MELO,smoura@example.org,+55 71 94081-8283,60,Ilhéus,BA,CASA E DECORAÇÃO,Mesa de Jantar 6 Lugares,1,"R$ 899,00","899,00", Boleto Bancário ,EM TRANSPORTE,3
+1157,14/08/24,311,PIETRO PEREIRA,anthony-gabriel19@example.net,91015-7507,38,olinda,PE,Eletronicos,Notebook,4,"R$ 3.299,00","13.196,00", Boleto Bancário ,entregue,
+1046,07/07/2025,328,Allana Macedo,anthonyvasconcelos@example.org,96767-1971,21,Curitiba,paraná,Esporte e Lazer,Bicicleta Aro 29,2,,"R$ 1.798,00",Pix,Entregue,4
+1042,07/09/23,212,Anthony Gabriel Silveira, mourajoao-lucas@example.com ,71 94969-8385,67,Fortaleza,ceará,Eletronico,Câmera Digital,4,1599.00,NULL,Pix,ENTREGUE,0
+1331,2023-03-24,139,Luiz Miguel Lopes,jesuspedro-henrique@example.com,99370-9465,34,Caxias do Sul,rio grande do sul, Esporte e Lazer,Halteres 5kg (par),2,149.90,299.80,cartão de débito,PROCESSANDO,2
+1227,05/19/2024,173,MURILO GONÇALVES,limabenicio@example.com,-,-5,brasília,DF,ELETRÔNICOS,Notebook,3,"R$ 3.299,00","9.897,00",CARTÃO DE CRÉDITO,Em Transporte,N/A
+1294,2024-01-07,107,Júlia Viana,ana40@example.net,?,45,Ilhéus,BA,Casa e Decoração,Luminária de Mesa,1,"R$ 89,90",89.90, Boleto Bancário ,Processando,2
+1401,30/08/2023,276,Maria Cecília Camargo,sophie65@example.com,31 97175-5119,47,Não informado,rs,Casa e Decoracao,Luminária de Mesa,4,"R$89,90","359,60",boleto bancário,Processando,5
+1347,13/06/2023,220,Heloísa da Conceição,maria-eduardasouza@example.com,(79) 95250-8786,44,Recife,PE,Casa e Decoração,Sofá 3 Lugares,0,"R$ 1.899,00","0,00",Pix,PROCESSANDO,
+1244,2025-08-27,338,Rebeca Caldeira,da-cunhayasmin@example.org,(41) 93117-6994,53,OLINDA,PE,Livros,Romance Best-seller,4,"39,90","159,60",Boleto Bancário,Processando,4
+1311,28-09-2024,177,Antonella Alves,andradeester@example.net,(51) 96462-5901,56,CAXIAS DO SUL,RS,beleza,Shampoo Profissional,3,29.90,89.70,Cartão de Crédito,cancelado,-
+1112,2023-05-13,282,Sra. Maria Isis Jesus,fernandada-mata@example.com,79 99763-7754,18,FLORIANÓPOLIS,SC, Esporte e Lazer,Bola de Futebol Oficial,5,"89,90","R$ 449,50",CARTÃO DE CRÉDITO,EM TRANSPORTE,4
+1390,14/04/24,246,Juliana Ramos,migueljesus@example.net,85962306627,70,Itabaiana,Não informado,Livros,Livro Técnico,1,"R$ 89,90","89,90",PIX,Processando,3
+1003,11/08/2024,229,  Isaque Borges  ,karaujo@example.org,97580-5552,35,Nossa Senhora do Socorro,SE,Esporte e Lazer,Halteres 5kg (par),-1,"149,90","R$ -149,90", Cartão de Crédito ,cancelado,4
+1260,23/10/2023,339,JOSÉ PEREIRA,pachecojoao-pedro@example.org,41952397558,0,  Ilhéus  ,BA,Livros,Romance Best-seller,5,"R$ 39,90",199.50,Pix,em transporte,4
+1099,13/06/2025,182,SR. LUCAS ABREU,camila61@example.org,79 92409-8597,22, Aracaju,SE, Roupas,Jaqueta Corta-Vento,,"199,90","999,50",Cartão de Débito,Em Transporte,4
+1418,2025-01-14,173,  Kevin Cassiano  ,csousa@example.net,61916985136,51,Joinville,SC,Esporte/Lazer,Halteres 5kg (par),4,"149,90","R$ 599,60", Cartão de Crédito ,Em Transporte,NA
+1346,27/04/2023,22,Lara Camargo,camposjade@example.org,(11) 92173-6066,33,N/A,SP,Esporte e Lazer,Halteres 5kg (par),1,"149,90",149.90, Pix ,Cancelado,4
+1373,2024-11-30,91,NA,jmoura@example.net,N/A,22,Joinville,null,roupas,Vestido Casual,1,,159.90,Cartão de Débito,entregue,
+1130,2024-02-23,189,Ana Laura Peixoto,isabelaragao@example.org,+55 81 98875-4240,41,curitiba,Paraná,roupas,Vestido Casual,?,159.90,"R$ 799,50",Cartão de Crédito,Entregue,5
+1142,07/08/2023,293,Alexandre Silveira,alvesravi-lucca@example.org,(21) 95383-2150,19,vitória da conquista,bahia,Esporte e Lazer,Halteres 5kg (par),3,149.90,"449,70",Pix,CANCELADO,
+1452,09/28/2025,159,LETÍCIA NUNES,efreitas@example.net,,30,Contagem,Minas Gerais,Beleza,Batom Matte,1,39.90,39.90,pix,Cancelado,?
+1360,02/05/2025,245,João Guilherme da Cruz,sousazoe@example.com,+55 51 95181-3317,45,Santos,São Paulo, Eletrônicos,Tablet,5,"R$999,00","R$ 4.995,00",Cartão de Débito,Entregue,-1
+1013,10/27/2025,193,LUARA FERNANDES,maysa97@example.org,11 95350-4846,47,Porto Alegre,Rio Grande do Sul,esporte e lazer,Bicicleta Aro 29,3,"R$ 899,00","2.697,00",pix,Cancelado,4
+1114,16/11/2025,56,Caleb da Mata,hadassaguerra@example.net,-,70,Joinville,santa catarina,roupas,Jaqueta Corta-Vento,2,"R$ 199,90","R$ 399,80",cartão de crédito,em transporte,5
+1583,,N/A,?,-,N/A,,NULL,N/A,null,?,N/A,,N/A,,,Não informado
+1039,2024-10-18,286,Miguel Martins,fsouza@example.net,+55 41 92235-3957,NA,Sorocaba,SP,Livros,Livro Técnico,1,"89,90","R$ 89,90",boleto bancário,Cancelado,4
+1103,04/11/2024,84,Luara Correia,liz06@example.net,92717-1579,41,blumenau,SC,LIVROS,Biografia,1,"R$ 44,90","44,90",Cartão de Crédito,Entregue,2
+1406,10/06/25,182,Léo Fogaça,jadegarcia@example.net,-,58,Petrópolis,RJ,Eletronico,Fone de Ouvido Bluetooth,1,"R$ 149,90","R$ 149,90", Cartão de Débito ,Em Transporte,5
+1276,15/04/25,45,Maria Luiza Nogueira,guerraana-clara@example.org,+55 81 98562-8938,18,  Brasília  ,DF,Casa/Decoração,Jogo de Cortinas,2,"R$ 99,90",199.80,boleto bancário,Devolvido,NA
+1474,21/09/2023,79, Leonardo Cardoso,cunhalucca@example.com,(31) 98659-1465,28,Ribeirão Preto,são paulo, Esporte e Lazer,Bicicleta Aro 29,5,"899,00",4495.00,Boleto Bancário,Cancelado,-1
+1307,2025-01-13,10,Levi Peixoto,ferreiraalana@example.net,(81) 96732-9014,69,Brasília,DF,ROUPAS,Vestido Casual,4,"R$159,90",639.60,Cartão de Crédito,Em Transporte,5
+1341,21/09/2024,147,Zoe Carvalho,da-cruzfelipe@example.org,Não informado,45,  Contagem  ,mg, Casa e Decoração,Luminária de Mesa,2,89.90,"R$ 179,80",Cartão de Débito,PROCESSANDO,5
+1155,04/24/2023,203,Isabel Machado,bruno43@example.org,(11) 97201-6170,57,Ribeirão Preto,SP,Eletronico,Fone de Ouvido Bluetooth,-1,"R$ 149,90",,CARTÃO DE CRÉDITO,CANCELADO,4
+1305,07/04/2025,149,sra. maria cecília oliveira,Não informado,41957218463,49,BLUMENAU,,Eletrônicos,Smart TV 50pol,-2,"R$ 2.199,00",-4398.00,CARTÃO DE CRÉDITO,Cancelado,N/A
+1471,2025-07-09,343,  Luigi Cassiano  ,emontenegro@example.org,79 91276-9222,49,Fortaleza,ce,Beleza,Perfume Importado,2,"R$ 199,90",399.80,Cartão de Débito,CANCELADO,4
+1023,11/15/2025,119,Ana Júlia Marques,zgoncalves@example.com,(11) 96729-4565,NULL,Pelotas,rio grande do sul,Eletrônicos,Fone de Ouvido Bluetooth,1,"R$149,90","R$ 149,90",Cartão de Crédito,Entregue,?
+1358,28/02/2023,149,Juliana Barros,ipastor@example.org,(51) 99359-9817,18,Aracaju,sergipe,roupas,Vestido Casual,2,"R$ 159,90",319.80,boleto bancário,Entregue,2
+1439,11/10/2024,272, Apollo Vasconcelos,scasa-grande@example.com,+55 79 98479-3612,43,pelotas,Rio Grande do Sul,casa e decoração,Jogo de Cortinas,1,"R$99,90","99,90",Pix,Em Transporte,3
+1422,24/10/2024,7,Sr. Oliver Sales,nsouza@example.org,91660-9454,,Nossa Senhora do Socorro,SE,Casa e Decoração,Mesa de Jantar 6 Lugares,4,"899,00","3.596,00",boleto bancário,Devolvido,4
+1036,2025-07-24,6,Lucca Costela,npinto@example.org,85 96617-7723,29,Ponta Grossa,pr,Eletrônicos,Smartphone,1,"R$1.899,90","R$ 1.899,90",CARTÃO DE CRÉDITO,Cancelado,3
+1208,03/05/2024,200,Enzo Gabriel da Luz,nathancastro@example.net,98958-8446,71,,AM,BELEZA,Perfume Importado,5,"199,90","999,50",BOLETO BANCÁRIO,Processando,10
+1318,2023-10-20,315,DR. MATHIAS CAMPOS,maria-luisa62@example.com,96376-9405,38,Blumenau,SC,Roupas,Calça Jeans,1,129.90,,Pix,Cancelado,5
+1175,03-05-2023,244,mirella novaes,laura49@example.org,11 99298-3587,60,contagem,MG,Beleza,Creme Facial Anti-idade,1,"79,90","R$ 79,90", Boleto Bancário ,Entregue,4
+1220,10-08-2024,20,,balves@example.net,31 97172-5575,25,-,Rio de Janeiro,Roupa,Camiseta Básica,N/A,"R$49,90","64,31",Não informado,Cancelado,4
+1427,2023-02-11,347,Bento Cavalcante,?,98049-9776,34,null,Sergipe,Livros,Livro Técnico,5,"R$ 89,90","449,50", Cartão de Débito ,Entregue,NA
+1129,2025-12-27,243,Thales Pimenta,pietromendonca@example.com,(81) 91990-7283,30,ilhéus,Bahia,Casa e Decoração,Sofá 3 Lugares,4,"R$1.899,00",7596.00,Cartão de Débito,Entregue,
+1419,11/29/2024,208,Felipe Nunes,maysasilva@example.net,+55 21 91584-4246,70,Lagarto,SE,Roupas,Tênis Esportivo,5,"219,90","R$ 1.099,50",Pix,Processando,-
+1266,2025-01-24,150,Alana Castro,maria-helena97@example.net,41914194150,31,Joinville,SC,Casa e Decoração,Sofá 3 Lugares,1,"R$1.899,00","1.899,00",CARTÃO DE CRÉDITO,Processando,5
+1261,16-12-2023,272,Rael Ferreira,oliverguerra@example.net,+55 51 97075-1481,28,Olinda,PE,Esporte e Lazer,Bicicleta Aro 29,2,"R$ 899,00","R$ 1.798,00",Cartão de Débito,Devolvido,N/A
+1291,2024-02-09,288,  Bruno Gomes  ,ana-livia92@example.com,,40,maringá,PR, Beleza,Creme Facial Anti-idade,1,"R$79,90",79.90,boleto bancário,CANCELADO,4
+1416,12-01-2025,158,Beatriz Cirino,ian49@example.net,31 93535-8813,39,Olinda,pe,Esporte e Lazer,Halteres 5kg (par),4,"R$ 149,90","R$ 599,60",CARTÃO DE CRÉDITO,Cancelado,5
+1017,07/01/2025,292,Davi Lucca Sousa,isabellagoncalves@example.com,71950707300,72,Salvador,BA,esporte e lazer,Tênis de Corrida,3,"R$ 289,90",869.70,Cartão de Débito,entregue,NULL
+1353,07/08/2024,42,dr. guilherme montenegro,camarajoao-lucas@example.com,93889-2319,-5,Olinda,PE,livros,Livro Técnico,3,89.90,"269,70",CARTÃO DE DÉBITO,Em Transporte,3
+1131,12/27/2025,342,DIEGO LEÃO,santosdante@example.org,(11) 94449-2992,38,Santos,SP,Eletronico,Smart TV 50pol,1,"2.199,00","R$ 2.199,00",Pix,Entregue,5
+1473,2023-10-23,91,Maria Júlia da Conceição,fonsecabella@example.net,NA,64,Brasília,DF, Casa e Decoração,Jogo de Cortinas,1,99.90,99.90,Cartão de Crédito,Em Transporte,4
+1252,2025-01-22,201,Bernardo Porto,maria-isisramos@example.net,+55 81 99337-3703,70,Caruaru,Pernambuco,Roupa,Tênis Esportivo,5,219.90,"1.099,50",Cartão de Débito,Cancelado,
+1104,2024-06-15,313,Gabrielly Silveira, aragaojuliana@example.com ,(11) 97408-5979,22,caxias do sul,RS,ESPORTE E LAZER,Halteres 5kg (par),1,"R$ 149,90","R$ 149,90",cartão de crédito,Em Transporte,2
+1370,15/01/2025,69,DRA. CAROLINA JESUS,abreujuliana@example.net,NULL,35,Porto Alegre,rs,roupas,Vestido Casual,5,159.90,"R$ 799,50",boleto bancário,Entregue,3
+1035,08/04/2025,238,  Sra. Maria Clara Barros  ,gustavoda-conceicao@example.com,41 94744-4745,38,São Paulo,SP,LIVROS,HQ Coleção,2,29.90,59.80,CARTÃO DE DÉBITO,Devolvido,3
+1349,20-11-2025,197,VALENTINA ANDRADE,xaragaoexample.com,21915844702,75,Sobral,ce, Esporte e Lazer,Bicicleta Aro 29,2,"899,00",1798.00, Boleto Bancário ,EM TRANSPORTE,N/A
+1407,11/12/2023,304,Giovanna da Rosa,nmontenegro@example.org,(31) 95548-6230,30,Vitória da Conquista,bahia,Esporte e Lazer,Tênis de Corrida,2,"289,90",NA,,Processando,2
+1025,26/06/23,35,Pedro Lucas Castro,fernandescaua@example.org,97627-4213,43,duque de caxias,RJ,LIVROS,Livro Técnico,4,"R$ 112,17",448.68,Cartão de Crédito,Processando,4
+1369,14/07/2025,179,Valentim Brito,yda-mata@example.net,+55 85 96165-3690,63,Manaus,AM,Roupas,Vestido Casual,4,"R$159,90","465,05",Boleto Bancário,entregue,4
+1197,20/02/2023,115,Dom Machado,azevedojoao-vitor@example.net,71936247193,55,PONTA GROSSA,paraná,roupas,Jaqueta Corta-Vento,1,"199,90","R$ 199,90", Cartão de Débito ,CANCELADO,5
+1308,13/11/2024,317,alícia brito,costelamaria-vitoria@example.net,31964143050,47,Santos,SP, Beleza,Shampoo Profissional,1,"R$ 29,90","29,90",PIX,Devolvido,5
+1337,07/12/2024,140,JULIANA DA CRUZ,emanuellyandrade@example.org,+55 21 97035-7772,61,Caruaru,PE,ESPORTE E LAZER,Bicicleta Aro 29,1,899.00,899.00,Cartão de Débito,processando,3
+1410,17/03/2024,130,SOPHIE BORGES,helena09@example.org,97729-8770,48,Juazeiro do Norte,,livros,Biografia,3,N/A,134.70,Cartão de Débito,Entregue,5
+1190,2025-05-12,272,Dr. Bruno Macedo,luiz-gustavopimenta@example.net,93658-9825,20,São Paulo,São Paulo,Esporte e Lazer,Bicicleta Aro 29,5,"R$ 899,00","4.495,00", Cartão de Crédito ,Cancelado,5
+1043,28/08/2023,160,Heitor Alves,otavio48@example.org,NULL,70,Manaus,AM,Livro,Romance Best-seller,5,39.90,"199,50",cartão de débito,Em Transporte,1
+1387,2024-11-26,304,Bianca Fogaça,SALESJULIANA@EXAMPLE.ORG,41 95022-3822,24,BLUMENAU,SC,Casa e Decoração,Tapete Sala,1,"R$249,90","249,90",Boleto Bancário,Cancelado,4
+1118,2024-11-19,330,BIANCA SILVEIRA,jbarros@example.org,21 99889-1786,39,Campinas,são paulo,Roupas,Jaqueta Corta-Vento,3,"R$199,90",599.70,NA,Entregue,1
+1243,25/07/2024,80,Maria Luísa Moreira,beatrizvasconcelos@,51 95890-4316,null,JOINVILLE,SC,Roupa,Tênis Esportivo,3,"R$ 219,90","R$ 659,70",Cartão de Crédito,Devolvido,5
+1460,28-10-2023,150,  Theodoro Novaes  ,piresolivia@example.org,(41) 96531-3215,57,Canoas,RS,Beleza,Shampoo Profissional,2,"R$ 29,90",59.80, Cartão de Crédito ,CANCELADO,
+1338,2025-10-07,286,  Sra. Alana Fogaça  ,emoreira@example.org,(81) 96373-1244,44,porto alegre,rio grande do sul,Esporte e Lazer,Bicicleta Aro 29,1,1057.79,"R$ 1.057,79",Cartão de Crédito,Em Transporte,4
+1064,2024-08-08,289,Hellena Azevedo,joaquim70@example.com,21 91453-1414,29,Aracaju,Sergipe,ESPORTE E LAZER,Tênis de Corrida,2,"R$ 289,90","R$ 579,80",Boleto Bancário,Em Transporte,3
+1135,03/07/2024,13,João Lucas Barros,laura18@example.org,null,58,Manaus,AM,Beleza,Perfume Importado,3,"R$199,90","R$ 599,70",PIX,Devolvido,5
+1228,2025-11-14,100,Kevin da Luz,gnogueira@example.org,(71) 98396-8688,34,Brasília,distrito federal,Casa e Decoração,Tapete Sala,5,"R$249,90",1249.50,Pix,Cancelado,N/A
+1253,05/17/2025,197,SRTA. CLARA FOGAÇA,smartins@example.net,,48,,Pernambuco,livros,HQ Coleção,1,"R$ 29,90",29.90,Boleto Bancário,Em Transporte,N/A
+1328,30/06/24,303,mathias da rocha,dcastro@example.net,null,54,Parintins,AM,Eletrônicos,Câmera Digital,3,"R$ 1.599,00","R$ 4.797,00", Cartão de Débito ,Em Transporte,1
+1423,09/04/25,56,,lais75@example.net,+55 85 91474-3033,27,Rio de Janeiro,RJ,ESPORTE E LAZER,Tênis de Corrida,2,289.90,"579,80",Cartão de Crédito,entregue,
+1391,22/06/2025,328,Diogo Castro,alvesguilherme@example.org,(71) 98486-6807,?,pelotas,rio grande do sul,Eletronico,Smart TV 50pol,2,1945.39,,Cartão de Débito,Entregue,5
+1053,2025-01-21,296,Matteo Macedo,diogo36@example.org,(31) 96466-4630,NA,lagarto,SE,Roupas,Camiseta Básica,1,"49,90","R$ 49,90",Cartão de Crédito,Entregue,4
+1086,13/11/2024,117,Ana Lívia Souza,ribeirosara@example.org,(71) 92137-8454,56,Não informado,DF,Eletrônicos,Tablet,5,"R$999,00","R$ 4.995,00",Pix,cancelado,3
+1226,2024-11-27,167,anna liz mendonça,piresbeatriz@example.com,97857-4682,58,Ribeirão Preto,SP,esporte e lazer,Bicicleta Aro 29,2,819.04,"1.638,08", Cartão de Crédito ,Cancelado,3
+1134,12/08/24,339, Sra. Maria Fernanda Farias,gcavalcante@example.org,,34,PORTO ALEGRE,RS,roupas,Vestido Casual,0,"R$ 159,90",0.00,Cartão de Crédito,PROCESSANDO,4
+1304,20/08/2025,56,gabriela correia,matheusborges@example.org,93904-9208,27,FORTALEZA,CE,Casa e Decoração,Mesa de Jantar 6 Lugares,-2,"R$ 860,04",-1720.08,CARTÃO DE DÉBITO,Processando,4
+1274,28/03/2025,145,Thiago Ferreira,marinavieira@example.org,95562-1736,-5,Canoas,RS,Livro,Biografia,3,"R$ 44,90",134.70,Boleto Bancário,Devolvido,
+1109,2025-08-30,343,Sara Novaes,marcelafarias@example.com,NA,21,Manaus,amazonas,Beleza,Batom Matte,1,"R$ 39,90",39.90,Boleto Bancário,PROCESSANDO,5
+1409,2025-04-24,164,NATHAN PEREIRA,josesa@example.org,+55 61 95283-5669,45,Brasília,DF,Eletrônicos,Tablet,1,"R$ 999,00",999.00,Boleto Bancário,DEVOLVIDO,5
+1334,28/11/2023,194,Gustavo Carvalho,ana-lizcosta@example.org,92097-4567,32,Ponta Grossa,PR,Esporte e Lazer,Tênis de Corrida,1,"289,90","R$ 289,90",cartão de crédito,Cancelado,5
+1319,11/02/2025,131,DIEGO ROCHA,martinsmathias@example.org,85995166201,,parintins,Amazonas,Livros,Romance Best-seller,3,"R$ 39,90","119,70",BOLETO BANCÁRIO,em transporte,4
+1371,03/22/2025,295,Bárbara Monteiro,joliveira@example.com,+55 85 96808-8311,24,RECIFE,Pernambuco,ELETRÔNICOS,Tablet,2,"R$ 999,00",1998.00,CARTÃO DE CRÉDITO,Processando,4
+1204,20/12/2024,223,Alana Garcia,dsouza@example.org,71980934519,60,Parintins,AM,Casa e Decoração,Jogo de Cortinas,4,99.90,"399,60",CARTÃO DE DÉBITO,Em Transporte,5
+1392,30/05/2023,174,Vicente Mendonça,bpimenta@example.org,,18,Ilhéus,Bahia,LIVROS,Biografia,1,44.90,44.90,Cartão de Débito,CANCELADO,5
+1269,04/29/2023,75,Sra. Aylla Moraes,Não informado,61966118961,47,Belo Horizonte,MG, Roupas,Jaqueta Corta-Vento,4,"199,90","799,60",Boleto Bancário,Processando,3
+1459,05/25/2023,138,Srta. Sophie Pastor,jesusdiogo@example.com,21 97358-4465,67,manaus,AM, Esporte e Lazer,Tênis de Corrida,1,"R$289,90","289,90",Boleto Bancário,CANCELADO,4
+1249,2025-03-04,182,ANA LIZ ALBUQUERQUE,leaolaura@example.net,94837-2556,69,Caxias do Sul,RS, Livros,Biografia,2,"R$ 44,90","R$ 89,80", Cartão de Débito ,devolvido,4
+1581,N/A,N/A,null,,,NA,Não informado,?,N/A,N/A,,-,NULL,,?,NA
+1056,08/07/2023,294, Miguel Mendonça,pietrocastro@example.net,95831-6625,44,Uberlândia,MG,Livros,HQ Coleção,3,"29,90","89,70",cartão de crédito,Entregue,0
+1356,25/04/2025,43,,NA,(51) 99175-8957,64,Duque de Caxias,RJ,Casa e Decoração,Sofá 3 Lugares,2,"R$1.899,00","R$ 3.798,00", Cartão de Crédito ,Em Transporte,
+1313,06/05/2025,55,Liam Nunes,feliperios@example.net,51 96867-1191,63,Joinville,Santa Catarina,Livros,HQ Coleção,4,30.70,"174,30",Boleto Bancário,Em Transporte,-1
+1032,12/02/2023,45,NA,pietro93@example.org,99253-8800,?,Blumenau,Santa Catarina,Casa e Decoração,Jogo de Cortinas,1,"R$ 99,90",99.90,,Cancelado,1
+1140,2025-11-11,95,GAEL SOUZA,pereiracamila@example.com,+55 41 96861-6496,66,Recife,PE,livros,HQ Coleção,1,29.90,"R$ 29,90",cartão de crédito,cancelado,6
+1466,2025-11-30,320,Dr. Samuel Aparecida,guilherme58@example.com,(79) 97475-6643,22,Olinda,PE,Livros,Livro Técnico,3,"R$ 89,90","269,70",Cartão de Débito,Entregue,4
+1004,21/06/2025,164,Bento Oliveira,oaragaoexample.org,(11) 96957-1417,58,Belo Horizonte,MG, Livros,HQ Coleção,1,29.90,"29,90",CARTÃO DE CRÉDITO,Cancelado,?
+1154,21/08/2023,331,Beatriz Rezende, gandrade@example.org ,96477-4081,,Lagarto,SE,Livros,HQ Coleção,2,"R$29,90","R$ 59,80", Cartão de Crédito ,Entregue,3
+1306,09/24/2025,41,Thales Freitas,freitasmaria-fernanda@example.org,(85) 93738-9126,55,Sorocaba,sp, Casa e Decoração,Jogo de Cortinas,4,"R$ 99,90","399,60",Boleto Bancário,Processando,3
+1172,18/07/2024,18,Fernanda Melo,pedro-henriqueaparecida@example.com,61937104151,29,Porto Alegre,RS,Casa e Decoracao,Mesa de Jantar 6 Lugares,4,"R$ 899,00","R$ 3.596,00",PIX,Cancelado,NA
+1366,09/01/2023,32,Yuri Azevedo,lunna08@example.com,+55 61 93422-8735,20,PONTA GROSSA,PR,Beleza,Creme Facial Anti-idade,1,"R$ 79,90","R$ 79,90",boleto bancário,Devolvido,1
+1436,09/07/2023,187,Antonella Souza,vinicius17@example.com,31 94588-5177,64,Brasília,DF,Eletrônicos,Fone de Ouvido Bluetooth,0,149.90,"R$ 0,00",Cartão de Crédito,Em Transporte,1
+1254,04/21/2023,120,Carolina Vasconcelos,yfogaca@example.org,85922336764,75,Salvador,BA,Esporte/Lazer,Halteres 5kg (par),3,"149,90",Não informado,,Em Transporte,10
+1385,02/01/2023,266,  Sra. Sophia Leão  ,sabrinada-rocha@example.net,11991742827,Não informado,Nossa Senhora do Socorro,Sergipe,BELEZA,Batom Matte,2,39.90,"R$ 79,80",PIX,Em Transporte,5
+1014,13/02/2024,345,JOÃO GABRIEL MELO,araujoana-luiza@example.net,85983635401,22,niterói,rj,esporte e lazer,Tênis de Corrida,2,289.90,"579,80",pix,Processando,5
+1403,10/12/2023,190, Esther Martins,catarina36@example.org,(21) 91689-3844,25,Niterói,Rio de Janeiro,Casa e Decoração,Sofá 3 Lugares,2,"R$1.899,00",3798.00,Boleto Bancário,CANCELADO,5
+1447,20/06/2023,48,CECÍLIA DA PAZ,?,71 99320-2782,74,Fortaleza,CE,Livros,Biografia,3,"R$ 46,38","139,14",cartão de débito,Cancelado,null
+1404,2023-07-11,121,Apollo Fernandes,rodrigosantos@example.org,+55 31 93997-4723,71,PARINTINS,Amazonas,beleza,Perfume Importado,2,"R$ 199,90","399,80",Cartão de Crédito,EM TRANSPORTE,3
+1326,03/06/2025,269,Ana Laura Pires,NULL,NULL,21,Caruaru,PE,Beleza,Perfume Importado,4,,"R$ 799,60",CARTÃO DE CRÉDITO,Entregue,Não informado
+1071,2025-09-13,175,Sofia das Neves,raulfernandes@example.org,31911188424,28,parintins,AM,beleza,Shampoo Profissional,2,"R$ 29,90","R$ 59,80",Cartão de Crédito,Cancelado,5
+1348,2024-03-26,241,Antony Porto,NA,(79) 91188-8573,51,canoas,RS,Esporte/Lazer,Halteres 5kg (par),1,"R$ 149,90",149.90,NA,ENTREGUE,5
+1095,14/08/2024,175, Breno Pacheco,casa-grandesabrina@example.com,61948598086,72,Ponta Grossa,PR,Livros,Biografia,1,44.90,44.90,Cartão de Crédito,Processando,5
+1089,13/10/2025,33,Laura Vargas,pimentamiguel@example.org,61936988132,50,Salvador,ba, Casa e Decoração,Jogo de Cortinas,3,"R$ 99,90",299.70,boleto bancário,devolvido,5
+1443,2024-01-19,22,Maria Luiza Aragão,mayalima@example.com,(79) 99496-1478,42,  Sobral  ,CE,esporte e lazer,Bola de Futebol Oficial,5,89.90,"R$ 449,50",Cartão de Débito,entregue,4
+1284,14/10/2025,257,?,rodrigueshellena@example.net,(11) 94150-3378,33, Aracaju,Sergipe,CASA E DECORAÇÃO,Tapete Sala,1,231.28,231.28,Cartão de Débito,CANCELADO,5
+1132,02/11/2023,335,Milena Silva,henry-gabriel12@example.com,11991357761,33,londrina,PR,Casa e Decoração,Tapete Sala,1,"R$ 249,90","R$ 249,90", Cartão de Débito ,entregue,5
+1027,10/25/2024,100,  Marcos Vinicius Cassiano  , cecilia95@example.com ,+55 51 94413-5306,30,contagem,Minas Gerais,Casa e Decoração,Luminária de Mesa,3,"R$89,90","R$ 269,70",Cartão de Crédito,Processando,?
+1075,03/04/2024,34,EMANUEL DA MATA,qabreu@example.com,(81) 97973-5565,54,Joinville,santa catarina,Esporte e Lazer,Halteres 5kg (par),2,"R$149,90",299.80, Cartão de Crédito ,Em Transporte,
+1063,2024-11-14,4,OTÁVIO BARBOSA,arthur-gabriel14@example.org,N/A,999,JUAZEIRO DO NORTE,CE,Livros,Livro Técnico,1,"R$89,90",89.90,Cartão de Débito,DEVOLVIDO,NA
+1273,24/06/2023,302,João Vitor Fogaça,vguerra@example.net,-,54,RIBEIRÃO PRETO,SP,Roupas,Vestido Casual,3,"159,90","R$ 479,70",pix,Em Transporte,2
+1073,22/02/23,30,Jade Lopes,danielbarros@,(81) 93567-2531,71,Curitiba,PR,eletrônicos,Câmera Digital,3,1599.00,"4.797,00",Cartão de Débito,Cancelado,5
+1282,18/01/2023,89,KEVIN CIRINO,uandrade@example.org,61940161187,22,JOINVILLE,sc, Casa e Decoração,Luminária de Mesa,2,"R$ 89,90",179.80, Pix ,Devolvido,3
+1463,03/09/2024,184,Sr. Anthony Gabriel Sampaio,maria-clarada-rosa@example.org,+55 85 93113-6091,27,Ribeirão Preto,São Paulo,Esporte e Lazer,Bola de Futebol Oficial,2,"R$ 89,90",179.80, Boleto Bancário ,Processando,4
+1088,12/24/2023,112,Igor Sousa,ymonteiro@example.org,,50,feira de santana,BA,Beleza,Perfume Importado,1,"R$ 199,90","199,90",Cartão de Crédito,Processando,1
+1314,25/10/2024,180,Emilly Machado,esterda-costa@example.net,(61) 95105-9235,21,Duque de Caxias,rj,beleza,Creme Facial Anti-idade,2,79.90,"R$ 159,80",Cartão de Débito,Devolvido,2
+1263,19/04/2025,310,Pedro Lucas Rios,novaisisaac@example.com,85 95992-8119,68,Rio de Janeiro,RJ,Eletronico,Smart TV 50pol,1,"2.199,00","2.199,00", Cartão de Crédito ,Em Transporte,4
+1390,14/04/24,246,Juliana Ramos,migueljesus@example.net,85962306627,70,Itabaiana,Não informado,Livros,Livro Técnico,1,"R$ 89,90","89,90",PIX,Processando,3
+1188,28/10/2023,188,Luiz Miguel Machado,,11 98729-8491,26,Londrina,PR,Livro,Romance Best-seller,3,"R$ 39,90","R$ 119,70",Cartão de Débito,Em Transporte,
+1097,14/11/25,115,Raquel Gonçalves,castroandre@example.com,81 99708-6397,54,Belo Horizonte,Minas Gerais,Beleza,Batom Matte,1,"39,90",39.90,Pix,DEVOLVIDO,5
+1271,24/06/2024,273,luiz otávio fernandes,hvasconcelos@example.net,(85) 99365-1935,57,MANAUS,Amazonas,Eletrônicos,Smart TV 50pol,1,"R$ 2.199,00",2199.00,cartão de crédito,Entregue,4
+1122,11/06/2025,88,agatha albuquerque,MARIA-CLARA45@EXAMPLE.NET,(81) 93039-9266,67,Florianópolis,SC,BELEZA,Batom Matte,3,"R$ 39,90","R$ 119,70",Pix,PROCESSANDO,3
+1152,11/11/2024,124,Joaquim da Costa,alexiapacheco@example.org,(21) 93790-2451,39,Blumenau,Santa Catarina,eletrônicos,Câmera Digital,1,"1.599,00",1599.00,Cartão de Débito,Em Transporte,-1
+1116,21/12/2025,224,SRA. REBECA ABREU,goncalvessarah@example.com,21949263845,41,  Fortaleza  ,CE,Roupa,Vestido Casual,3,"R$ 159,90",479.70,Boleto Bancário,Processando,5
+1166,16/12/2024,341,otávio camargo,guerraemanuella@example.com,,39,Campinas,SP,Esporte e Lazer,Bola de Futebol Oficial,5,"89,90",N/A,BOLETO BANCÁRIO,Entregue,
+1179,03/03/24,309,luiz henrique lopes,fernando78example.net,79912489653,42,  Sobral  ,Ceará,Livros,Livro Técnico,1,"R$ 89,90",89.90,CARTÃO DE CRÉDITO,cancelado,5
+1069,02/18/2025,229,Thiago Novaes,oliviamelo@example.org,(71) 98275-1226,48,,São Paulo,livros,Romance Best-seller,2,"R$ 39,90","79,80",cartão de débito,Devolvido,4
+1376,2025-05-02,23,ISABEL BORGES,ayla93@example.com,(71) 99513-2521,49,Jaboatão dos Guararapes,Pernambuco,Eletronico,Smartphone,3,1899.90,5699.70,BOLETO BANCÁRIO,processando,5
+1170,01/09/24,67,,caiomendes@example.com,(61) 92964-7012,21,  Jaboatão dos Guararapes  ,PE, Esporte e Lazer,Tênis de Corrida,1,289.90,"R$ 289,90",Pix,Processando,3
+1055,07/11/2024,165,Maria Clara Casa Grande,joao-guilherme73@example.net,(41) 91175-1419,52,Sorocaba,SP,livros,HQ Coleção,2,29.90,"R$ 59,80",,devolvido,4
+1380,16-03-2025,158,Marcela Machado,rochadavi-luiz@example.net,85938524619,44,Vitória da Conquista,ba,LIVROS,HQ Coleção,5,"R$ 29,90","R$ 149,50",Cartão de Débito,Devolvido,4
+1299,10/04/2025,336,joão guilherme novaes,iferreira@example.org,98897-8211,41,Parintins,AM,Roupa,Camiseta Básica,1,"49,90","49,90",Pix,Processando,4
+1058,21/07/2025,203,Luiz Otávio Almeida,maria-cecilia70@example.com,31973864627,19,  Brasília  ,DF, Livros,Romance Best-seller,1,"R$50,21","50,21",cartão de crédito,Cancelado,2
+1356,25/04/2025,43,,NA,(51) 99175-8957,64,Duque de Caxias,RJ,Casa e Decoração,Sofá 3 Lugares,2,"R$1.899,00","R$ 3.798,00", Cartão de Crédito ,Em Transporte,
+1363,2023-03-27,89,Lucas Gabriel Câmara,OLIVIANOGUEIRA@EXAMPLE.COM,85 93292-6494,150,Porto Alegre,RS,casa e decoração,Tapete Sala,1,249.90,"254,71", Pix ,devolvido,
+1333,2023-02-22,217,,borgesmaya@example.com,,44,Parintins,Amazonas, Esporte e Lazer,Bicicleta Aro 29,1,"899,00","899,00", Cartão de Crédito ,Devolvido,1
+1205,05/27/2025,120,Dra. Milena Cavalcanti,gustavo-henriqueda-luz@example.org,,41,Feira de Santana,BA,Roupas,Vestido Casual,3,"R$ 159,90",479.70,Pix,Em Transporte,NA
+1384,14-03-2025,346,sr. leonardo moraes,henryrezende@example.com,(21) 92454-2551,NULL,Canoas,rs, Livros,Biografia,3,44.90,"R$ 134,70",boleto bancário,devolvido,NULL
+1478,07/07/2024,300,Cecília da Mata,eda-mata@example.net,(81) 96827-3553,75,RIO DE JANEIRO,rio de janeiro,Beleza,Perfume Importado,3,"R$ 199,90","599,70",Cartão de Crédito,Cancelado,4
+1267,01/05/2025,199,Ravi Lucca Freitas,rleao@example.org,41921527918,NA,  Manaus  ,AM, Beleza,Shampoo Profissional,4,"29,90","119,60",CARTÃO DE DÉBITO,Devolvido,2
+1136,2024-07-22,302,null,luana10@example.net,(85) 95803-5518,41,  Caxias do Sul  ,RS,Casa e Decoração,Mesa de Jantar 6 Lugares,3,899.00,"2.697,00", Pix ,Em Transporte,5
+1038,2023-01-31,79,srta. pietra cavalcanti,ovieira@example.com,(61) 93338-4827,31,Nossa Senhora do Socorro,se,eletrônicos,Smartphone,4,"R$ 1.899,90",7599.60,Cartão de Crédito,Entregue,-
+1312,2025-01-27,60,  Raquel Azevedo  ,tcampos@,85950904073,38,fortaleza,CE,Beleza,Perfume Importado,2,"199,90","399,80",boleto bancário,Entregue,null
+1280,2025-07-06,212,Carlos Eduardo Ribeiro,brayanleao@example.org,79915944385,45,RIBEIRÃO PRETO,São Paulo,esporte e lazer,Tênis de Corrida,2,"289,90","R$ 579,80",Boleto Bancário,ENTREGUE,
+1107,10/03/2024,248,Dra. Joana Guerra,ana-juliamendes@example.net,N/A,41,Manaus,AM,BELEZA,Creme Facial Anti-idade,5,"R$ 79,90","399,50",Cartão de Crédito,Processando,3
+1173,06/06/2025,236,Eduarda Gomes,JOSUE23@EXAMPLE.NET,96354-5072,61,Juazeiro do Norte,ce,Beleza,Shampoo Profissional,2,"29,90",59.80,Pix,Devolvido,4
+1399,2024-09-19,54,Hellena Jesus,ISABELLY70@EXAMPLE.ORG,(11) 95805-9265,55,nossa senhora do socorro,se, Eletrônicos,Tablet,1,"999,00","999,00",pix,Entregue,5
+1386,2025-05-03,248,  Thiago Correia  ,dcirino@example.net,,47,  Feira de Santana  ,BA,Livros,HQ Coleção,1,"29,90",29.90,Pix,Processando,Não informado
+1372,23/08/23,192,Daniel Garcia,dsales@example.com,41988748933,44,  Juazeiro do Norte  ,CE, Livros,Biografia,5,"R$ 44,90","R$ 224,50", Boleto Bancário ,Devolvido,4
+1277,20/06/2024,21, Augusto Correia,xpereira@example.net,N/A,46,Nossa Senhora do Socorro,SE,Beleza,Creme Facial Anti-idade,1,79.90,"79,90",pix,Em Transporte,NULL
+1195,11/12/2024,168,vicente fogaça,juliapacheco@example.com,(31) 99011-2938,-5,,RJ,Esporte/Lazer,Bicicleta Aro 29,1,"R$ 899,00","899,00",Pix,Devolvido,3
+1240,22/01/2024,165,mariah da conceição,luiz-miguelramos@example.org,31919152246,32,SALVADOR,ba,Livros,Romance Best-seller,1,39.90,"R$ 39,90",pix,entregue,2
+1265,27/08/2023,36,Nina Casa Grande,fda-cruz@example.org,61966138102,55,  Nossa Senhora do Socorro  ,sergipe,Eletrônicos,Smartphone,,"1.899,90","R$ 3.799,80",Cartão de Débito,Cancelado,4
+1162,12/16/2025,122, Daniela Porto,rezendeluan@example.com,(31) 93036-1718,43,  Pelotas  ,RS,Livros,HQ Coleção,1,"29,90","R$ 29,90",Pix,Processando,3
+1012,05/09/2024,258,samuel leão,rioseduardo@example.net,61 97381-6343,57,FLORIANÓPOLIS,sc,Roupa,Tênis Esportivo,1,"R$ 219,90","R$ 219,90",Cartão de Crédito,EM TRANSPORTE,10
+1297,2024-01-09,340,Rael da Paz,duartevinicius@example.com,-,33,Itabaiana,SE,Roupas,Vestido Casual,5,"R$159,90","R$ 799,50", Pix ,Devolvido,4
+1293,14-12-2023,104,Luiz Miguel Ramos,laramendes@example.com,(81) 93794-8375,0,Nossa Senhora do Socorro,SE,Eletrônicos,Fone de Ouvido Bluetooth,1,"R$ 149,90","R$ 149,90",cartão de débito,DEVOLVIDO,3
+1479,07/12/2023,254,Luiz Henrique Nunes,bernardonovais@example.org,85 91258-4008,24,Joinville,Santa Catarina,Eletrônicos,Fone de Ouvido Bluetooth,2,"149,90",299.80,PIX,processando,5
+1465,23/11/2024,33,Luiz Otávio Souza,antonio41@,21945404969,43,Olinda,PE,Esporte e Lazer,Bola de Futebol Oficial,1,"65,53",65.53,PIX,Cancelado,4
+1290,14-10-2025,310,Sara Marques,caua00@example.org,81944798200,60,Manaus,AM,Roupas,Calça Jeans,2,"129,90","R$ 259,80",Pix,Devolvido,4
+1442,03/03/2023,54,Sr. Yuri Freitas,rhavi00example.org,(79) 95971-9080,69,Vitória da Conquista,BA,Casa e Decoração,Jogo de Cortinas,2,99.90,"R$ 199,80", Cartão de Débito ,Processando,4
+1141,10/02/2025,229,Lucas Gabriel Pimenta,da-luzanna-liz@example.com,(51) 94236-9873,34,Jaboatão dos Guararapes,pernambuco, Casa e Decoração,Luminária de Mesa,3,"R$89,90","R$ 269,70",Cartão de Débito,Cancelado,4
+1082,2024-03-17,151,MARIANE SIQUEIRA,sabrinasa@example.net,97847-3297,27,sobral,CE,LIVROS,HQ Coleção,1,"R$29,90","R$ 29,90",Pix,Processando,3
+1301,2024-07-19,8,Miguel Martins,thomaspastor@example.org,(11) 96481-1246,,null,Paraná,Beleza,Shampoo Profissional,4,"R$ 29,90","119,60",Cartão de Débito,Devolvido,5
+1413,31/10/24,273,Sra. Aurora Câmara,jose64@example.com,96274-7484,66,Florianópolis,Santa Catarina,Beleza,Batom Matte,1,39.90,NULL,Boleto Bancário,Devolvido,3
+1015,05-02-2024,208,Melissa da Paz,wrios@example.org,92251-6909,35,Itabaiana,se,Livros,Biografia,1,"R$ 44,90","R$ 44,90",Pix,Entregue,5
+1453,12-05-2023,119,Cecilia da Rosa,sofia03@example.org,+55 61 95406-6651,32,Joinville,santa catarina, Beleza,Batom Matte,5,"R$39,90",199.50,BOLETO BANCÁRIO,Devolvido,3
+1200,2025-05-27,245,Bento Nascimento,guerramarcelo@example.org,96077-5795,63,santos,São Paulo,Esporte e Lazer,Halteres 5kg (par),1,"R$149,90","149,90",Cartão de Crédito,em transporte,4
+1021,14/05/2023,174,anthony gabriel mendonça,viniciusda-paz@example.org,-,69, Caruaru,PE, Casa e Decoração,Mesa de Jantar 6 Lugares,-2,"R$ 899,00","R$ -1.798,00",Cartão de Crédito,em transporte,1
+1029,24/01/2023,69,Diego Caldeira,vinicius72@example.net,(61) 99480-9074,,campinas,?,Esporte/Lazer,Bola de Futebol Oficial,1,"89,90","89,90",Cartão de Débito,CANCELADO,5
+1010,05/05/25,9,  Letícia Moura  ,ufernandes@example.com,(11) 93645-5290,37,florianópolis,Santa Catarina,casa e decoração,Sofá 3 Lugares,,"R$ 1.899,00",?,Boleto Bancário,PROCESSANDO,4
+1451,10/05/25,126,Daniela Guerra,ARAUJOBIANCA@EXAMPLE.NET,99324-8702,22,juiz de fora,MG, Livros,HQ Coleção,1,"29,90","29,90",Cartão de Crédito,Entregue,4
+1424,22/03/2025,304,milena moraes, rochanoah@example.com ,+55 85 99947-7012,64,olinda,pe,Livros,HQ Coleção,4,"29,90","119,60",Cartão de Débito,em transporte,4
+1167,02/26/2025,173,Davi Lucca Albuquerque,novaesjoao-miguel@example.net,(79) 94072-9016,55,Belo Horizonte,mg,Roupa,Tênis Esportivo,1,219.90,"R$ 219,90", Cartão de Débito ,cancelado,10
+1448,30/05/24,195,Sra. Maitê Azevedo, qalbuquerque@example.org ,(21) 99137-9757,44,Brasília,DF,Livros,Livro Técnico,2,NA,179.80,Cartão de Crédito,Processando,5
+1352,18/02/2025,159,Alexia Fonseca,mouramarcelo@example.org,,52,Florianópolis,Santa Catarina,livros,Biografia,1,"44,90","44,90",Pix,Processando,5
+1298,2025-11-11,269,Eduarda Pastor,da-pazjoao-miguel@example.net,(81) 94478-5426,36,santos,SP,Roupas,Calça Jeans,1,"R$ 129,90","R$ 129,90",Boleto Bancário,Devolvido,null
+1020,12/08/2023,95,  Dom Barros  ,kevinda-conceicao@example.net,31 97228-6843,-,blumenau,SC,ESPORTE E LAZER,Tênis de Corrida,null,"R$289,90",-579.80,CARTÃO DE DÉBITO,Entregue,Não informado
+1081,01/02/2025,209,clarice da paz,caiosilva@,41996147794,19,Maringá,Paraná, Casa e Decoração,Luminária de Mesa,2,"R$ 89,90","179,80", Cartão de Débito ,Entregue,NULL
+1389,14/04/2024,210,Alice Rios,costaluiz-fernando@example.com,+55 51 99270-3786,19,são paulo,sp,ELETRÔNICOS,Smart TV 50pol,3,"R$ 2.199,00",6597.00,BOLETO BANCÁRIO,Entregue,
+1060,29-12-2023,348,joão da mata,vasconcelosluiz-miguel@example.com,(81) 99197-5865,36,Fortaleza,CE,BELEZA,Batom Matte,3,"R$ 45,12",,Pix,Cancelado,null
+1374,07/06/2025,272,Luna Abreu,cgarcia@example.com,95051-3415,44,Sobral,ceará, Casa e Decoração,Jogo de Cortinas,3,"99,90","299,70",pix,Entregue,Não informado
+1393,10/04/2025,125,Alice Rodrigues,joao-pedro35example.com,31 99264-7870,38,Parintins,Amazonas,Livro,Biografia,1,"R$ 44,90",44.90,Não informado,Em Transporte,2
+1345,31-03-2024,182,Felipe Aparecida,josue77@example.net,NA,21,recife,PE,eletrônicos,Notebook,null,3299.00,"R$ 16.495,00",Pix,DEVOLVIDO,2
+1146,26/06/2023,158,-,thalesjesus@example.org,,49,Juiz de Fora,MG,Beleza,Perfume Importado,2,"R$ 199,90","R$ 399,80", Pix ,Devolvido,4
+1207,14/02/25,201,MAYA RODRIGUES,ana-carolina31@example.net,21992771280,57,Manaus,AM,LIVROS,Romance Best-seller,3,"R$ 39,90","119,70",cartão de crédito,Entregue,1
+1379,21/11/2024,232, Marina Gomes,cfogaca@example.net,96938-9350,38,Ilhéus,BA,roupas,Tênis Esportivo,4,"R$ 219,90","879,60", Boleto Bancário ,Processando,3
+1033,2024-04-19,252,HELOÍSA COSTA,UFOGACA@EXAMPLE.ORG,85927136351,74,Manaus,AM,Livros,Biografia,2,"R$ 44,90","89,80",Boleto Bancário,Devolvido,4
+1178,11/07/2025,119,Natália Cavalcanti,gguerra@example.org,51934381146,41,JOINVILLE,sc,Casa e Decoração,Mesa de Jantar 6 Lugares,2,899.00,1798.00,Cartão de Débito,Devolvido,4
+1196,28/03/2025,260,Catarina Costela,maria-laura22@example.org,79970378119,45,Fortaleza,CE,Eletrônicos,Smartphone,3,"R$ 1.899,90","5.699,70",Cartão de Débito,entregue,4
+1056,08/07/2023,294, Miguel Mendonça,pietrocastro@example.net,95831-6625,44,Uberlândia,MG,Livros,HQ Coleção,3,"29,90","89,70",cartão de crédito,Entregue,0
+1177,19/12/2025,186,Alexandre Pinto,pmartins@example.com,21 95082-2686,57,Pelotas,,ROUPAS,Camiseta Básica,1,"R$ 49,90","R$ 49,90",BOLETO BANCÁRIO,Devolvido,3
+1467,03/11/2023,283,Brenda Andrade,thomasfogaca@example.org,11911448038,29,null,Santa Catarina,Livro,Biografia,2,"R$ 44,90","89,80",Pix,Processando,4
+1194,23/07/2025,231,Ana Clara Almeida, abreudaniela@example.com ,(41) 91192-8915,28,Juiz de Fora,MG,Esporte e Lazer,Bicicleta Aro 29,2,"R$899,00","R$ 1.798,00",PIX,DEVOLVIDO,4
+1431,14/01/2025,39,Yan Lima,leonardopeixoto@example.com,+55 41 96748-5301,48,nossa senhora do socorro,sergipe, Esporte e Lazer,Bola de Futebol Oficial,2,"89,90","R$ 179,80",Pix,CANCELADO,5
+1031,2023-06-09,323,,RAFAELA52@EXAMPLE.COM,NULL,62,PARINTINS,amazonas, Livros,Romance Best-seller,2,"39,90","R$ 79,80",CARTÃO DE DÉBITO,ENTREGUE,5
+1148,2024-01-03,157,Bryan Costela,leaomelina@example.net,95916-8980,32,juazeiro do norte,Ceará,Roupa,Camiseta Básica,2,"R$ 49,90","99,80",Cartão de Crédito,em transporte,4
+1084,2024-03-08,306,luiz miguel caldeira,jmachado@example.org,51 92560-4303,60,Caxias do Sul,RS, Eletrônicos,Câmera Digital,4,"1.599,00","R$ 6.396,00",cartão de débito,Devolvido,5
+1580,,,,Não informado,,,null,N/A,,?,N/A,?,NA,N/A,,
+1412,21/08/2023,247,sr. cauê azevedo,melissa43@example.org,null,35,Manaus,AM, Esporte e Lazer,Halteres 5kg (par),3,"R$149,90","R$ 449,70",Cartão de Crédito,Cancelado,5
+1096,11/06/2023,314,Sr. Thomas da Mota,santosemanuella@example.org,79984993273,55,-,SE,beleza,Batom Matte,4,39.90,"159,60",boleto bancário,em transporte,4
+1128,27/08/2024,270,Gael da Conceição,qcamara@example.com,-,150,-,Paraná,Livros,Biografia,5,"R$ 44,90","R$ 224,50",Boleto Bancário,Entregue,
+1246,03-08-2025,209,  Renan Moraes  ,portoester@example.net,(79) 97025-8558,73, Juiz de Fora,Minas Gerais,Eletrônicos,Smartphone,1,"1.899,90","R$ 1.899,90",Boleto Bancário,Em Transporte,5
+1215,2025-06-17,163,srta. ana luiza pastor,,(11) 98370-3193,65, Fortaleza,ce,Esporte e Lazer,Bicicleta Aro 29,2,"R$ 899,00","R$ 1.798,00",Pix,entregue,5
+1070,2024-11-18,68,-,fribeiro@example.net,N/A,54,Brasília,DF,ROUPAS,Calça Jeans,3,129.90,"R$ 389,70",cartão de crédito,Em Transporte,4
+1009,2024-11-23,342,NA,theo23@example.org,N/A,75,  Feira de Santana  ,BA,ESPORTE E LAZER,Tênis de Corrida,2,289.90,"502,08",Cartão de Débito,Entregue,5
+1222,2025-11-09,46,João Pedro Cavalcante,habreu@example.org,(85) 94422-3382,40,Aracaju,SE,Eletrônicos,Câmera Digital,4,,"8.428,81",BOLETO BANCÁRIO,Devolvido,
+1057,2025-12-24,284,sophie guerra,laura35@example.com,?,47,Santos,SP,Livros,Romance Best-seller,3,39.90,"R$ 119,70",BOLETO BANCÁRIO,DEVOLVIDO,
+1475,15/12/2023,51,Sra. Luísa Oliveira,wgomes@example.com,(31) 97100-4134,48,Curitiba,PR, Eletrônicos,Smart TV 50pol,0,"R$ 2.469,14",0.00,CARTÃO DE DÉBITO,Cancelado,N/A
+1582,Não informado,-,,,,,Não informado,,NA,,Não informado,?,,-,NULL,?
+1300,02/24/2024,319,,ravi-luccadas-neves@example.net,(71) 96635-4587,45,Parintins,Amazonas,Casa e Decoração,Tapete Sala,4,"249,90","R$ 999,60",pix,Processando,
+1006,09/06/2025,313,Lorena Novais,GUSTAVOPACHECO@EXAMPLE.NET,,Não informado,Sorocaba,SP, Esporte e Lazer,Halteres 5kg (par),1,"R$149,90","149,90",BOLETO BANCÁRIO,Entregue,4
+1275,2025-05-05,333,Sr. Liam Silva,jose-miguel91@example.org,(21) 96115-4791,43,Londrina,Paraná,Eletrônicos,Notebook,4,"R$3.299,00","13.196,00",cartão de débito,PROCESSANDO,4
+1438,05/02/2025,144,José Rezende,,85944496365,55,Nossa Senhora do Socorro,Sergipe, Eletrônicos,Notebook,1,"3.299,00","R$ 3.299,00",BOLETO BANCÁRIO,Devolvido,10
+1219,20/05/2024,72,DR. JOÃO MIGUEL ARAGÃO,aurora98@example.com,NULL,-5,  São Paulo  ,sp,ROUPAS,Jaqueta Corta-Vento,1,"R$ 199,90",199.90,BOLETO BANCÁRIO,Entregue,3
+1332,11/07/2024,73,emilly carvalho,rebecavargas@example.org,,29,Feira de Santana,BA,beleza,Batom Matte,2,39.90,,Pix,Em Transporte,5
+1214,29/08/24,254,arthur aparecida,bryansampaio@,21 91536-5885,34,Juiz de Fora,Minas Gerais,Esporte e Lazer,Halteres 5kg (par),,N/A,-,CARTÃO DE DÉBITO,Em Transporte,5
+1176,20/07/2023,49,Maria Julia Ribeiro,maite87@example.org,81 91907-3383,40,juazeiro do norte,CE,Esporte e Lazer,Bicicleta Aro 29,2,"R$ 899,00","R$ 1.798,00",Pix,Devolvido,5
+1239,16/12/2025,287,Maria Luiza Abreu,lorenasampaio@example.net,85 97522-9173,56,Lagarto,SE, Casa e Decoração,Jogo de Cortinas,3,"99,90","299,70",CARTÃO DE CRÉDITO,Processando,Não informado
+1278,05/04/2023,313,Theodoro Nogueira,,93036-9185,46,contagem,minas gerais,Casa e Decoração,Mesa de Jantar 6 Lugares,2,"832,94","1.665,88",PIX,Devolvido,4
+1181,2025-12-19,196,DRA. ANNA LIZ ARAGÃO,yrezende@,92606-3352,72,Brasília,df,Eletrônicos,Fone de Ouvido Bluetooth,5,149.90,"R$ 749,50",Cartão de Débito,Processando,
+1111,21/04/2024,332,Sr. Liam da Costa,valentim93@example.org,(31) 94521-5358,57,CONTAGEM,mg,Casa e Decoração,Luminária de Mesa,1,89.90,"R$ 89,90",Boleto Bancário,Em Transporte,4
+1160,22/06/23,329,Dr. Marcelo Cirino,eduardo30@example.com,98669-5714,48,Contagem,MG,Roupas,Camiseta Básica,1,"R$49,90","R$ 49,90",Pix,Cancelado,null
+1323,2025-02-04,264,CLARA MACEDO,vitorleao@example.com,+55 51 92887-1635,71,Sorocaba,SP,Esporte e Lazer,Bola de Futebol Oficial,1,"R$89,90","R$ 89,90",Boleto Bancário,CANCELADO,5
+1147,11/07/2025,244,ANA BEATRIZ MENDES,lorenzo61@example.org,+55 79 95241-8999,26,Itabaiana,se,Livros,HQ Coleção,N/A,-,"29,90",Pix,ENTREGUE,3
+1059,10-05-2024,180,DR. THÉO AZEVEDO,vianaraul@example.org,(51) 98652-4935,42,Fortaleza,CE, Livros,Livro Técnico,1,"R$ 89,90",,Pix,Cancelado,
+1364,06/06/2024,307,Maria Laura Albuquerque,luan35@example.net,(21) 96591-9556,34,Parintins,AM,Beleza,Creme Facial Anti-idade,-2,79.90,"-159,80",Boleto Bancário,Devolvido,5
+1059,10-05-2024,180,DR. THÉO AZEVEDO,vianaraul@example.org,(51) 98652-4935,42,Fortaleza,CE, Livros,Livro Técnico,1,"R$ 89,90",,Pix,Cancelado,
+1224,28/02/2023,159,Thales Pastor,olivia49@example.org,11911959570,54,recife,PE, Eletrônicos,Smartphone,1,"R$1.899,90","2.099,69",cartão de crédito,Em Transporte,4
+1150,2024-07-22,289,  Isabela Souza  ,vasconcelosana-beatrizexample.com,+55 81 95900-5502,51,manaus,AM,beleza,Creme Facial Anti-idade,1,79.90,"R$ 79,90",Pix,Em Transporte,3
+1163,31/01/2025,141,sra. maria luísa da paz,lara04@example.net,98826-6834,,Fortaleza,Ceará,Esporte e Lazer,Bicicleta Aro 29,1,"R$ 899,00",null, Boleto Bancário ,Em Transporte,4
+1362,03/14/2024,248,Dr. Yan da Rosa,tmelo@example.org,98991-6114,72,Jaboatão dos Guararapes,PE,Esporte e Lazer,Bicicleta Aro 29,2,"R$ 899,00",1798.00,Cartão de Crédito,ENTREGUE,4
+1295,15-05-2024,224,Lívia Pereira,cassianoana-luiza@example.net,11981355056,28,  Sobral  ,Ceará, Esporte e Lazer,Halteres 5kg (par),3,"R$149,90","404,18",CARTÃO DE CRÉDITO,Processando,5
+1100,2025-08-24,226,SRTA. LAVÍNIA DA CUNHA,davi-lucca66@example.net,+55 31 91080-7427,65,RIO DE JANEIRO,rj,Livros,Livro Técnico,3,"R$ 89,90",269.70,Boleto Bancário,Devolvido,
+1446,07/06/24,242,Esther Cunha,andre09@example.net,+55 81 93925-7751,72,Sobral,ceará, Esporte e Lazer,Bola de Futebol Oficial,-1,89.90,NA,boleto bancário,Devolvido,2
+1238,2025-07-17,34,Hellena Montenegro,maria-fernanda02@example.com,97648-9766,43,ITABAIANA,Sergipe,Esporte e Lazer,Bicicleta Aro 29,2,"R$ 899,00","1.798,00",BOLETO BANCÁRIO,em transporte,5
+1315,03/21/2024,92,erick andrade,clarice08@example.org,85 97554-1171,30,Juazeiro do Norte,CE,Esporte e Lazer,Tênis de Corrida,1,"289,90","R$ 289,90", Cartão de Débito ,Devolvido,1
+1030,2024-04-20,245,gustavo moura,juan80@example.net,+55 71 91860-5357,51,  Manaus  ,am,LIVROS,HQ Coleção,2,29.90,"R$ 59,80",Boleto Bancário,cancelado,4
+1076,08/11/23,108,DR. JOAQUIM ANDRADE, pedro-henrique52@example.org ,NA,60,Parintins,AM,Eletronicos,Smart TV 50pol,?,"R$ 2.199,00",,Cartão de Débito,Entregue,-
+1193,23-06-2024,255,Maria Vitória Moraes,calebe27@example.org,(11) 95774-1824,59,Belo Horizonte,MG,Roupas,Calça Jeans,4,129.90,"R$ 519,60",pix,Entregue,1
+1434,25/06/2025,140,  Enrico Duarte  ,kmartins@example.com,+55 81 92961-6002,54,Pelotas,RS,LIVROS,Biografia,4,44.90,"R$ 179,60",BOLETO BANCÁRIO,Processando,
+1426,24/12/2024,320,José Pedro Cavalcanti,ravynogueira@example.com,71 95601-8528,71,juazeiro do norte,CE,Casa e Decoração,Jogo de Cortinas,1,"R$ 99,90",99.90,PIX,Processando,
+1034,2024-05-02,168,  João Lucas Melo  ,mathias95@example.com,+55 21 95056-6350,30,Fortaleza,CE,Livros,Biografia,2,"44,90",89.80,Pix,EM TRANSPORTE,3
+1127,06/04/2023,135,João Vitor Sousa,costelamaya@example.org,null,25,Brasília,distrito federal,Roupas,Tênis Esportivo,2,"R$219,90","629,01",pix,Cancelado,4
+1330,18/09/2024,68,Cecilia Macedo,vieirasara@example.com,79913452774,48,Londrina,PR, Eletrônicos,Smart TV 50pol,4,2199.00,"R$ 8.796,00",cartão de crédito,PROCESSANDO,4
+1357,2025-07-05,50, Daniel das Neves,lucas-gabriel10@example.net,(51) 94093-4117,42,Olinda,Pernambuco,beleza,Shampoo Profissional,2,"R$ 29,90","59,80",Boleto Bancário,PROCESSANDO,3
+1292,2025-07-11,215, Ana Liz Dias,luna72@example.org,(85) 96786-8500,24,Uberlândia,MG,Beleza,Batom Matte,-1,"R$39,90",-39.90,CARTÃO DE DÉBITO,Entregue,5
+1022,24/04/2024,167,Otto Nascimento,antonella28@example.net,(11) 95815-5813,34,  Contagem  ,MG,eletrônicos,Smartphone,1,1899.90,1899.90,Boleto Bancário,Entregue,2
+1411,2024-06-28,160,  Anthony Gabriel Gomes  ,salesluiz-gustavo@example.org,(11) 92879-4585,64,Jaboatão dos Guararapes,pe,Roupas,Calça Jeans,4,"R$ 127,36","402,75",Cartão de Crédito,Entregue,3
+1202,01/17/2025,27,?,lpimenta@example.net,(11) 99064-2242,18,Manaus,Amazonas,Eletrônicos,Câmera Digital,2,1599.00,3198.00,Boleto Bancário,Devolvido,5
+1213,2025-08-20,2,  Cauê Pinto  ,catarinacasa-grande@example.net,null,22,?,Amazonas, Casa e Decoração,Mesa de Jantar 6 Lugares,5,"R$899,00","4.495,00",Pix,Processando,4
+1309,04/06/2023,113,Hadassa da Luz,leticia17@example.net,(85) 97862-9344,22,Uberlândia,MG,Casa e Decoração,Mesa de Jantar 6 Lugares,2,"R$ 899,00","1.822,44", Boleto Bancário ,Entregue,Não informado
+1145,22/07/2024,345,srta. isabela duarte,maria-clara59@example.org,+55 85 94164-8203,73,PARINTINS,Amazonas,Roupas,Camiseta Básica,1,"R$ 49,90",49.90,Boleto Bancário,Cancelado,1
+1144,2024-01-13,183,Caroline Monteiro,antonysousa@example.com,(81) 92545-5320,42,Londrina,paraná,Roupas,Jaqueta Corta-Vento,4,"R$ 199,90",799.60,Boleto Bancário,Entregue,5
+1073,22/02/23,30,Jade Lopes,danielbarros@,(81) 93567-2531,71,Curitiba,PR,eletrônicos,Câmera Digital,3,1599.00,"4.797,00",Cartão de Débito,Cancelado,5
+1005,2024-04-01,186,Catarina da Rocha,icasa-grande@example.org,31 94922-7564,40,Belo Horizonte,MG,beleza,Batom Matte,4,"R$ 39,90","R$ 159,60",Pix,EM TRANSPORTE,3
+1230,08/12/2025,350,Ana Beatriz Ferreira,NA,61962017252,-5,Curitiba,PR,Roupas,Camiseta Básica,5,"R$49,90","R$ 249,50",Boleto Bancário,Processando,4
+1421,2023-06-28,194,Ana Julia da Cruz,andradeantonella@example.org,(31) 94864-1079,,Parintins,Amazonas, Eletrônicos,Câmera Digital,1,"R$1.599,00",1599.00,BOLETO BANCÁRIO,Processando,3
+1279,16/05/2024,15,  Antonella Cunha  ,riosmaria-cecilia@example.net,(85) 96300-6447,18,Florianópolis,SC,Casa e Decoração,Jogo de Cortinas,1,"R$ 99,90",,Cartão de Crédito,Processando,4
+1247,02/05/2025,161,dr. rafael costela,heloisamoraes@example.org,(21) 95764-1220,43,Blumenau,santa catarina, Eletrônicos,Câmera Digital,3,1599.00,"4.797,00",PIX,Processando,Não informado
+1251,01/10/25,149,Valentina Câmara,NMARTINS@EXAMPLE.ORG,85968202101,48,caxias do sul,RS,LIVROS,Romance Best-seller,-1,"R$ 39,90","R$ -39,90",cartão de crédito,cancelado,3
+1008,2025-09-06,288,  Gustavo Monteiro  ,uvasconcelos@example.com,-,60,SÃO PAULO,são paulo,Livros,Biografia,2,"44,90",89.80,boleto bancário,processando,4
+1054,2024-02-19,226,Kevin Viana,vasconcelosleonardo@example.net,null,55,Recife,PE,Beleza,Shampoo Profissional,3,29.90,"R$ 89,70",Cartão de Débito,cancelado,4
+1069,02/18/2025,229,Thiago Novaes,oliviamelo@example.org,(71) 98275-1226,48,,São Paulo,livros,Romance Best-seller,2,"R$ 39,90","79,80",cartão de débito,Devolvido,4
+1268,2024-08-17,68,Luiz Miguel Porto,almeidacaleb@example.net,85 95337-3275,20,Rio de Janeiro,Rio de Janeiro, Casa e Decoração,Sofá 3 Lugares,-1,"R$1.899,00",-1899.00,Boleto Bancário,entregue,4
+1281,05/07/2024,318,Alice Freitas,ana-luizanovais@example.net,(21) 98676-4703,26,PARINTINS,am,Livros,Romance Best-seller,1,"39,90",39.90,boleto bancário,EM TRANSPORTE,null
+1432,08/12/2023,157, Gabrielly Camargo,apollo57@example.org,85917245146,51,SOBRAL,CE, Esporte e Lazer,Bicicleta Aro 29,4,"R$ 899,00","R$ 3.596,00",Pix,Cancelado,3
+1302,22-07-2023,129,Natália Nogueira,,96528-4952,55,Salvador,BA, Roupas,Camiseta Básica,1,"R$ 49,90","R$ 49,90",Cartão de Crédito,em transporte,5
+1365,10/12/2025,326,DR. JOÃO GABRIEL DA PAZ,ana-carolinaaraujo@example.org,,26,FEIRA DE SANTANA,BA,ESPORTE E LAZER,Tênis de Corrida,0,289.90,"R$ 0,00",Cartão de Crédito,Entregue,3
+1206,2025-05-27,147,Ana Carolina Campos,vinicius04@example.net,+55 11 94424-3554,49,Brasília,DF,Beleza,Batom Matte,2,39.90,"R$ 79,80",BOLETO BANCÁRIO,Devolvido,4
+1272,19/03/2024,180,joão miguel lopes,lavinia48@example.org,81 99256-3808,51,Ponta Grossa,PR,Beleza,Creme Facial Anti-idade,1,79.90,"79,90",Cartão de Crédito,em transporte,-
+1121,01/12/2023,225,Brayan da Rosa,hellenada-luz@example.org,(31) 99465-3874,55,SOROCABA,São Paulo,roupas,Tênis Esportivo,2,"R$ 219,90","R$ 439,80", Cartão de Crédito ,Entregue,4
+1402,03/05/2023,18,Ana Luiza Campos,jferreira@example.org,61 98216-9843,24,Niterói,RJ,Eletrônicos,Câmera Digital,1,"R$ 1.599,00","R$ 1.599,00",Boleto Bancário,Entregue,5
+1350,17/02/2025,268,Dr. Isaque Farias,znunes@example.com,+55 79 94687-9744,70,Canoas,Rio Grande do Sul,Livros,Livro Técnico,2,"R$89,90","179,80",PIX,Processando,5
+1335,15/10/2023,244,Vicente Jesus,moreiracecilia@example.com,(41) 94960-9336,63,LAGARTO,sergipe, Roupas,Vestido Casual,4,159.90,,boleto bancário,Em Transporte,
+1327,27-08-2023,54,Guilherme Fonseca,pda-luz@example.org,95870-9951,63,Santos,SP, Roupas,Camiseta Básica,1,"R$ 49,90",49.90,Boleto Bancário,ENTREGUE,5
+1343,2023-10-14,34,Antony Brito,vicentealmeida@,(85) 98087-2788,40,pelotas,RS,Casa e Decoração,Tapete Sala,2,"249,90","499,80",BOLETO BANCÁRIO,Entregue,5
+1472,10/02/2025,275,Breno Cirino,kmelo@example.net,NA,36,Manaus,amazonas,Roupas,Tênis Esportivo,2,"R$219,90","R$ 439,80",Pix,Cancelado,0
+1368,2023-03-31,177, Srta. Maria Vitória Fernandes,joao-lucas39@example.net,79923822857,65,PELOTAS,RS,Casa e Decoração,Tapete Sala,-2,249.90,"-499,80",CARTÃO DE DÉBITO,entregue,5
+1417,01/14/2024,29,Asafe Guerra,pereiralorenzo@example.com,(61) 96134-4578,55,Fortaleza,CE,ROUPAS,Vestido Casual,3,"R$ 159,90","R$ 479,70", Cartão de Débito ,Em Transporte,
+1272,19/03/2024,180,joão miguel lopes,lavinia48@example.org,81 99256-3808,51,Ponta Grossa,PR,Beleza,Creme Facial Anti-idade,1,79.90,"79,90",Cartão de Crédito,em transporte,-
+1398,2024-10-22,97,Otto Pereira,maya13@example.net,+55 41 91437-4445,29,Santos,SP, Beleza,Perfume Importado,2,"199,90","399,80",Boleto Bancário,Devolvido,5
+1287,29-01-2024,337, Davi Borges,joaquimcardoso@example.com,79949233981,66,fortaleza,CE,Casa e Decoração,Luminária de Mesa,4,"89,90",359.60,Pix,Em Transporte,5
+1351,18/09/2025,282,Ana Júlia Duarte,clariceda-cruz@example.com,+55 71 96055-7304,72,Manaus,AM,Livros,Livro Técnico,2,null,"220,09",CARTÃO DE DÉBITO,PROCESSANDO,5
+1229,2024-07-15,80,Isabel Marques,sophiapeixoto@example.net,92523-7496,19,  Jaboatão dos Guararapes  ,pe,Eletrônicos,Câmera Digital,2,"R$1.599,00","R$ 3.198,00",cartão de crédito,Cancelado,4
+1394,23/01/2024,276,Arthur Gabriel da Mata,pachecodavi-lucas@example.com,?,21,Niterói,RJ,Casa e Decoração,Tapete Sala,3,"R$ 249,90","R$ 749,70",CARTÃO DE DÉBITO,EM TRANSPORTE,null
+1028,09/04/2023,323,Danilo Mendonça,emendes@example.com,(81) 91029-1553,44,Maringá,PR,Casa e Decoração,Jogo de Cortinas,NA,"99,90","R$ 199,80",Pix,Cancelado,4
+1440,2025-04-23,163,Vinicius Rodrigues,gustavoviana@example.net,71938719163,22,PARINTINS,Amazonas,Roupas,Jaqueta Corta-Vento,2,"199,90","207,18",Cartão de Débito,cancelado,1
+1242,2025-02-09,39,DRA. EDUARDA DA CUNHA,dmendes@example.org,93875-4172,71,Florianópolis,sc,Beleza,Perfume Importado,4,"R$199,90","799,60",Pix,Entregue,1
+1087,18/05/2024,246,Dra. Olívia da Cunha,da-luzravy@example.net,94333-3082,33,ITABAIANA,SE,CASA E DECORAÇÃO,Sofá 3 Lugares,1,"R$ 1.899,00","R$ 1.899,00",Pix,Devolvido,Não informado
+1153,07/07/2025,49,Sr. Miguel da Cunha,nataliamoura@example.org,+55 11 91344-8948,52,Vitória da Conquista,BA,casa e decoração,Luminária de Mesa,0,89.90,"R$ 0,00",Pix,Devolvido,3
+1420,18/11/2025,92,Pedro Henrique Rios,alexandre14@example.org,95750-5243,44,  Contagem  ,MG,Beleza,Perfume Importado,2,"R$199,90","R$ 399,80",CARTÃO DE CRÉDITO,PROCESSANDO,4
+1286,01/06/2025,136,null,ARTHURLIMA@EXAMPLE.ORG,(31) 95506-7893,51,Belo Horizonte,Minas Gerais, Roupas,Calça Jeans,2,"R$ 129,90",259.80,CARTÃO DE DÉBITO,Processando,null
+1093,07/05/2023,185,Gabriela das Neves,meloarthur-gabriel@example.com,97274-6900,48, Parintins,AM,Casa e Decoração,Luminária de Mesa,2,"R$91,65","183,30",PIX,Devolvido,4
+1285,11/05/2025,318,Daniela Melo,gnovaes@example.org,+55 11 99849-9108,58,londrina,N/A,esporte e lazer,Bola de Futebol Oficial,3,"R$ 89,90","269,70",?,PROCESSANDO,3
+1417,01/14/2024,29,Asafe Guerra,pereiralorenzo@example.com,(61) 96134-4578,55,Fortaleza,CE,ROUPAS,Vestido Casual,3,"R$ 159,90","R$ 479,70", Cartão de Débito ,Em Transporte,
+1405,2024-10-12,172,Gael Henrique da Mata,luisamartins@example.org,+55 81 94405-7880,71,  Uberlândia  ,Minas Gerais,Eletronicos,Notebook,1,3299.00,"3.299,00",cartão de crédito,ENTREGUE,5
+1257,09/10/24,225,Antonella Ribeiro,leandro46@example.org,(61) 98072-5367,46,sorocaba,sp,BELEZA,Shampoo Profissional,1,"R$ 29,90","29,90", Pix ,Devolvido,4
+1415,27/12/25,120,  Dr. Noah Alves  ,zda-cruz@example.com,97251-9739,24,Recife,pe, Eletrônicos,Smart TV 50pol,3,2199.00,6597.00,CARTÃO DE DÉBITO,em transporte,1
+1143,01-05-2023,150,nina vasconcelos,qvieira@example.com,61 93351-7256,47,Joinville,SC,CASA E DECORAÇÃO,Sofá 3 Lugares,5,"1.899,00","9.495,00",BOLETO BANCÁRIO,Cancelado,4
+1101,05/01/2023,246,LUIZ MIGUEL LIMA,CALEBE41@EXAMPLE.ORG,61 99806-2271,47,RIO DE JANEIRO,RJ,roupas,Calça Jeans,1,"R$ 129,90","129,90",Boleto Bancário,Devolvido,
+1469,28/10/25,269,BRENDA BARBOSA,leo28@example.com,71963466695,49,feira de santana,Bahia,esporte e lazer,Bola de Futebol Oficial,1,"R$ 89,90","89,90",Boleto Bancário,Processando,4
+1383,18/04/2024,179,,cavalcanteeloa@example.com,91141-7216,74,Juazeiro do Norte,CE,Casa e Decoração,Jogo de Cortinas,1,,99.90,Pix,Processando,
+1264,2024-12-07,115,Isabel Carvalho,jmonteiro@example.org,96889-5656,19,Curitiba,PR,livros,Livro Técnico,3,"R$ 89,90","269,70",CARTÃO DE CRÉDITO,Cancelado,3
+1455,17/02/2025,143,maria vitória fonseca,lunnagoncalves@example.com,(61) 92240-8322,23,Manaus,AM,LIVROS,HQ Coleção,4,"R$29,90","119,60",Boleto Bancário,processando,3
+1002,04-12-2024,161,  Sr. Thiago Cunha  ,BORGESLUARA@EXAMPLE.COM,81934909011,53,Canoas,Rio Grande do Sul,Casa/Decoração,Tapete Sala,1,"R$ 249,90",249.90, Pix ,Entregue,4
+1026,26/04/2024,216,Dom Nascimento,fonsecabenjamim@example.org,(41) 92754-2099,46,Itabaiana,SE,Livros,HQ Coleção,2,"R$ 29,90",59.80,Cartão de Débito,Entregue,5
+1151,02/02/2024,314,joão felipe freitas,vicente37@example.org,,43,Feira de Santana,Bahia,beleza,Shampoo Profissional,2,"R$29,90","R$ 59,80",CARTÃO DE DÉBITO,Devolvido,4
+1113,22/06/2024,214,Theo da Mota,jose88@example.net,91839-3521,19,Parintins,AM,Casa e Decoração,Tapete Sala,1,"R$ 249,90",249.90,Boleto Bancário,Processando,3
+1040,07/10/2024,146,Enzo Gabriel Cardoso,cassianomaria-flor@example.net,(31) 96195-5902,20,Maringá,Paraná,Livros,Biografia,4,"R$44,90",179.60,Cartão de Débito,Devolvido,4
+1477,31/03/24,270,Raul Pereira, piresjoao-vitor@example.net ,(79) 99547-4613,55,Duque de Caxias,rio de janeiro,Beleza,Creme Facial Anti-idade,5,"R$ 79,90","399,50",CARTÃO DE DÉBITO,Cancelado,3
+1105,01/21/2023,176,CECILIA RAMOS,maria-vitoria08@example.org,(71) 95309-3959,21,Olinda,PE,Eletrônicos,Smart TV 50pol,1,"R$2.199,00","R$ 2.199,00",pix,Em Transporte,NULL
+1198,04/03/2023,165,Murilo da Luz,null,,23,olinda,pe,Eletronicos,Tablet,-2,"R$999,00","R$ -1.998,00",cartão de débito,Devolvido,0
+1193,23-06-2024,255,Maria Vitória Moraes,calebe27@example.org,(11) 95774-1824,59,Belo Horizonte,MG,Roupas,Calça Jeans,4,129.90,"R$ 519,60",pix,Entregue,1
+1078,2024-02-11,199,CALEB DA LUZ,casa-grandeisabellyexample.net,+55 41 96314-8248,18,Ponta Grossa,PR,Roupas,Camiseta Básica,2,"49,90","99,80",cartão de débito,devolvido,?
+1255,04/17/2025,58,Marcos Vinicius Rodrigues,LETICIA27@EXAMPLE.ORG,Não informado,30,fortaleza,Ceará,Esporte e Lazer,Halteres 5kg (par),1,149.90,149.90,CARTÃO DE CRÉDITO,Processando,4
+1316,06/01/2025,116,N/A,GARAUJO@EXAMPLE.ORG,85940225397,200,Feira de Santana,BA,Livros,Livro Técnico,1,"R$ 89,90","89,90",boleto bancário,Em Transporte,0
+1470,16/06/2023,9,Maria Helena Casa Grande,stephany47@example.org,(79) 97987-6493,68,  Duque de Caxias  ,N/A,Beleza,Perfume Importado,3,"R$199,90","599,70", Boleto Bancário ,Devolvido,1
+1174,26-07-2023,175,Asafe Novais,riosayla@example.org,,42,porto alegre,rs,Casa e Decoração,Tapete Sala,3,"249,90",749.70,PIX,Entregue,10
+1164,15/02/2023,71,Maria Alice Leão,xalmeida@example.com,,66,  Joinville  ,sc,esporte e lazer,Bola de Futebol Oficial,2,"R$89,90","R$ 179,80",cartão de crédito,Em Transporte,3
+1245,2023-08-06,317,Guilherme Moreira,guilherme97@example.net,41 92331-7511,22,Florianópolis,SC,Casa e Decoração,Jogo de Cortinas,1,99.90,"R$ 99,90",Boleto Bancário,Processando,1
+1037,04/07/2024,270,manuella ramos,ribeiroisaque@example.com,41 98669-5822,48,Vitória da Conquista,BA,Livros,Livro Técnico,5,N/A,449.50,pix,Processando,2
+1120,18/02/2024,52,Isis Moura,wsampaio@example.org,+55 85 91177-3347,75,salvador,Bahia, Roupas,Jaqueta Corta-Vento,5,199.90,"999,50",Boleto Bancário,Em Transporte,NULL
+1225,30/10/23,230,Heitor Sampaio,melinacavalcante@example.org,96877-4235,66,Caxias do Sul,RS,Eletrônicos,Tablet,1,999.00,"R$ 999,00",Cartão de Débito,CANCELADO,NULL
+1001,07/06/2025,166,  Sr. Miguel Rezende  ,barbosastella@,(31) 92013-7499,26,contagem,MG,Esporte e Lazer,Bicicleta Aro 29,2,"R$ 899,00","R$ 1.798,00",PIX,DEVOLVIDO,4
+1217,29/03/2024,305,Caio Sá,maria-liz12@example.org,(21) 95841-8939,73,Ribeirão Preto,SP,Livro,Livro Técnico,1,"R$ 89,90",NA,pix,Em Transporte,4
+1192,23/09/2024,21,Arthur Gabriel Câmara,amandapimenta@example.net,(71) 99462-4810,53,blumenau,SC,beleza,Shampoo Profissional,1,29.90,"R$ 29,90",cartão de crédito,PROCESSANDO,3
+1158,04-10-2024,28,Marcela Cunha,freitascarolina@example.org,(71) 99893-4005,33,ARACAJU,SE,Roupas,Vestido Casual,4,"R$ 159,90","639,60",Cartão de Débito,PROCESSANDO,
+1168,11/01/25,139,AURORA OLIVEIRA,mirella22@,-,67,Contagem,minas gerais,Roupas,Calça Jeans,1,"129,90",129.90,Pix,Devolvido,
+1007,12/25/2024,109,Esther Freitas,novaesdavi-lucas@example.net,(85) 93142-9713,67,SANTOS,SP,Roupa,Jaqueta Corta-Vento,3,199.90,"R$ 599,70",Cartão de Débito,DEVOLVIDO,-
+1221,03/17/2024,265,Luiz Felipe Melo, nascimentopedro@example.net ,(11) 97344-8413,59,,RS,ELETRÔNICOS,Notebook,2,3299.00,"R$ 6.598,00",BOLETO BANCÁRIO,devolvido,5
+1462,2025-08-22,139,Davi Miguel Freitas,guerrarenan@example.org,79 99027-9526,36,  Duque de Caxias  ,RJ,Roupas,Vestido Casual,2,159.90,"R$ 319,80",Pix,CANCELADO,5
+1300,02/24/2024,319,,ravi-luccadas-neves@example.net,(71) 96635-4587,45,Parintins,Amazonas,Casa e Decoração,Tapete Sala,4,"249,90","R$ 999,60",pix,Processando,
+1083,17/10/2023,224,Allana Rodrigues,enzo-gabrielalves@example.org,+55 79 96148-1139,,Sobral,Ceará,Casa/Decoração,Luminária de Mesa,1,"R$89,90","89,90",Boleto Bancário,Processando,2
