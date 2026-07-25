@@ -12,7 +12,7 @@ inconsistentes, telefones e e-mails sem padronização, outliers de idade.
 
 ## Arquivos
 - `vendas_ecommerce_bruto.csv` — dado original
-- `projeto_ecommerce_limpeza_lib.ipynb` — notebook de limpeza
+- `projeto_ecommerce_limpeza.ipynb` — notebook de limpeza
 - `ecommerce_limpo.csv` — resultado final
 
 ## Próximos passos
