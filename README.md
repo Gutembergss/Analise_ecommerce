@@ -1,83 +1,300 @@
-# Projeto E-commerce — Limpeza e Análise de Vendas
+# 📊 Análise de Dados — E-commerce
 
-Pipeline completo de dados de um e-commerce: da base bruta (com sujeira proposital)
-até a análise estatística de receita, sazonalidade e cancelamentos/devoluções.
+Projeto de análise de dados desenvolvido em Python com o objetivo de transformar dados brutos de vendas em informações úteis para tomada de decisão.
 
-## Estrutura do projeto
+O projeto foi dividido em duas etapas principais: **limpeza e preparação dos dados** e **análise exploratória e estatística**.
 
-```
-.
-├── Vendas_ecommerce_bruto.csv              # Base original, com dados sujos
-├── projeto_ecommerce_limpeza.ipynb         # Notebook de limpeza e tratamento dos dados
-├── Ecommerce_limpo.csv                     # Resultado da limpeza — base usada na análise
-├── projeto_ecommerce_analise.ipynb         # Notebook de análise estatística e diagnóstico
-└── README.md                               # Este arquivo
-```
+---
 
-O projeto é dividido em duas etapas sequenciais: **limpeza** (`projeto_ecommerce_limpeza.ipynb`), que transforma o CSV bruto no CSV limpo, e **análise** (`projeto_ecommerce_analise.ipynb`), que consome o CSV limpo para gerar os diagnósticos de negócio.
+## 🎯 Objetivo
 
-## Etapa 1 — Limpeza dos dados
+Investigar o comportamento das vendas de um e-commerce, identificando:
 
-**Entrada:** `Vendas_ecommerce_bruto.csv` — dataset com sujeira proposital: formatos de data mistos (BR/US/ISO), preços com separadores decimais inconsistentes (`R$ 49,90` vs `R$129,90`), telefones e e-mails sem padronização, categorias com grafias diferentes, textos com caixa e acentuação inconsistentes, e outliers de idade.
+* desempenho de receita;
+* ticket médio;
+* desempenho por categoria de produto;
+* comportamento por forma de pagamento;
+* distribuição das vendas ao longo do tempo;
+* padrões de cancelamento e devolução;
+* possíveis associações entre características dos pedidos e seu status.
 
-**Principais tratamentos aplicados** (`projeto_ecommerce_limpeza.ipynb`):
+Além da análise descritiva, foram utilizados testes estatísticos para verificar se algumas diferenças observadas nos dados possuem **significância estatística**.
 
-- **Valores monetários** (`valor_total`, `preco_unitario`): remoção de símbolos e normalização dos separadores decimais/milhar antes da conversão para `float`.
-- **Quantidade e avaliação do cliente:** limpeza de caracteres não numéricos e imputação de nulos pela **mediana**.
-- **Valor total ausente:** recalculado a partir de `preco_unitario * quantidade` quando possível; pedidos com valor zerado são tratados como nulos.
-- **Forma de pagamento:** valores ausentes preenchidos com `"Não informado"`.
-- **id_cliente:** limpeza de caracteres inválidos; registros sem esse identificador são descartados, pois impossibilitam relacionar o cliente aos pedidos.
-- **Idade:** limpeza de caracteres não numéricos; valores abaixo de 18 ou acima de 100 anos são tratados como inconsistentes e descartados (nulos).
-- **Data do pedido:** normalização de separadores e conversão para `datetime` (formatos mistos).
-- **Nome do cliente:** remoção de caracteres indesejados, padronização de capitalização (`title case`).
-- **Telefone:** parseado e validado com a biblioteca `phonenumbers` (código do país BR), formatado no padrão E.164; números inválidos viram nulo.
-- **E-mail:** validado com `email_validator`; e-mails inválidos viram nulo.
-- **Categorias de texto** (`forma_pagamento`, `status_pedido`, `categoria_produto`, `cidade`, `produto`): padronização de caixa e remoção de caracteres especiais.
-- **Categoria de produto:** unificação de variações de grafia (ex.: `eletronicos`, `eletrônicos` → `eletrônico`).
-- **Estado:** padronização para sigla (UF), incluindo mapeamento de nomes por extenso e remoção de valores inválidos.
-- **Duplicatas:** remoção por `(id_cliente, id_pedido)`, preservando pedidos distintos de um mesmo cliente.
-- **Engenharia de atributo:** criação da coluna `regiao` a partir do `estado`.
+---
 
-**Saída:** `Ecommerce_limpo.csv`, com as mesmas colunas do bruto mais `regiao`, pronto para análise.
+## 🗂️ Estrutura do projeto
 
-## Etapa 2 — Análise estatística e diagnóstico
-
-**Entrada:** `Ecommerce_limpo.csv` (480 pedidos).
-
-**O que o notebook `projeto_ecommerce_analise.ipynb` faz:**
-
-1. Remove colunas de identificação pessoal (`id_cliente`, `nome_cliente`, `email`, `telefone`) antes de qualquer análise.
-2. Análise exploratória: estatísticas descritivas, distribuição das variáveis numéricas, outliers e correlação (Spearman).
-3. Diagnóstico de receita: faturamento total, ticket médio, receita e volume por categoria, ticket médio por forma de pagamento.
-4. Sazonalidade: evolução do valor médio dos pedidos ao longo dos meses.
-5. Cancelamentos e devoluções: percentual por categoria, estado e forma de pagamento, com testes de **Qui-quadrado** (associação entre variáveis categóricas) e **Mann-Whitney U** (diferença de valor entre pedidos cancelados e entregues).
-
-**Principais achados:**
-
-- Faturamento total do período: ≈ R$ 564.405,81, com ticket médio de ≈ R$ 1.198,31 por pedido.
-- A categoria **eletrônico** concentra a maior receita, não por vender mais unidades, mas por ter o maior valor unitário.
-- **Cartão de Débito** tem o maior ticket médio; pedidos sem forma de pagamento informada têm ticket bem mais baixo.
-- A testes com α = 0,05: apenas **forma de pagamento** mostra associação marginal com o status do pedido (p = 0,0557); **categoria de produto** (p = 0,317) e **valor do pedido** (p = 0,301) não mostram associação estatisticamente significativa com cancelamento/devolução.
-
-## Requisitos
-
-```
-pandas
-numpy
-scipy
-seaborn
-matplotlib
-phonenumbers
-email_validator
+```text
+projeto_ecommerce/
+│
+├── projeto_ecommerce_limpeza.ipynb
+├── projeto_ecommerce_analise.ipynb
+├── ecommerce_limpo.csv
+└── README.md
 ```
 
-## Como executar
+### Etapa 1 — Limpeza dos dados
 
-1. Instale as dependências: `pip install pandas numpy scipy seaborn matplotlib phonenumbers email_validator`
-2. Rode `projeto_ecommerce_limpeza.ipynb` com `Vendas_ecommerce_bruto.csv` na mesma pasta — ele gera `Ecommerce_limpo.csv`.
-3. Rode `projeto_ecommerce_analise.ipynb` com `Ecommerce_limpo.csv` na mesma pasta.
+Notebook responsável pela preparação do dataset bruto para análise.
 
-## Próximos passos
+### Etapa 2 — Análise dos dados
 
-- Investigar a associação marginal entre forma de pagamento e status do pedido com uma amostra maior.
-- Construir um dashboard para acompanhamento contínuo dos indicadores de receita e cancelamento.
+Notebook responsável pela EDA, análise de negócio, visualizações e testes estatísticos.
+
+---
+
+## 🧹 1. Limpeza e tratamento dos dados
+
+O dataset original apresentava inconsistências propositalmente inseridas, exigindo uma etapa de preparação antes da análise.
+
+Foram realizados:
+
+* tratamento de valores ausentes;
+* correção de tipos de dados;
+* padronização de valores monetários;
+* tratamento de datas em diferentes formatos;
+* identificação e remoção de duplicidades;
+* tratamento de valores inválidos;
+* padronização de categorias;
+* padronização de estados;
+* validação e formatação de telefones;
+* validação de endereços de e-mail;
+* tratamento de idades inconsistentes;
+* criação da variável de região;
+* remoção de registros sem `id_cliente`, quando necessário para garantir a integridade das análises posteriores.
+
+Ao final, foi gerado um dataset tratado para utilização na etapa de análise.
+
+---
+
+## 🔎 2. Análise Exploratória de Dados (EDA)
+
+Foram analisadas as principais variáveis numéricas do dataset:
+
+* idade;
+* quantidade;
+* preço unitário;
+* valor total;
+* avaliação do cliente.
+
+Foram utilizadas estatísticas descritivas, histogramas e boxplots para compreender:
+
+* distribuição dos dados;
+* dispersão;
+* assimetria;
+* presença de outliers.
+
+Os outliers de preço e valor dos pedidos não foram removidos automaticamente, pois podem representar **vendas legítimas de maior valor**, e não necessariamente erros de coleta.
+
+---
+
+## 📈 3. Correlação
+
+Foi utilizada a **correlação de Spearman** para investigar relações entre as variáveis numéricas.
+
+A escolha desse método ocorreu porque algumas variáveis apresentam assimetria e presença de outliers.
+
+A análise permite investigar relações como:
+
+> Existe relação entre a quantidade de itens e o valor total do pedido?
+
+---
+
+## 💰 4. Diagnóstico de receita
+
+Foram analisados:
+
+* faturamento total;
+* ticket médio;
+* receita por categoria;
+* quantidade de itens vendidos por categoria;
+* ticket médio por forma de pagamento.
+
+### Principais resultados
+
+O faturamento total analisado foi de aproximadamente:
+
+**R$ 564.405,81**
+
+com ticket médio de aproximadamente:
+
+**R$ 1.198,31**
+
+A categoria **eletrônico** apresentou a maior participação na receita, principalmente devido ao maior valor unitário dos produtos, e não necessariamente ao maior volume de itens vendidos.
+
+O **Cartão de Débito** apresentou o maior ticket médio entre as formas de pagamento analisadas.
+
+---
+
+## 📅 5. Sazonalidade e tendência
+
+Foi analisada a evolução do valor médio dos pedidos ao longo dos meses.
+
+Essa análise permite identificar possíveis períodos de:
+
+* aumento de vendas;
+* redução de vendas;
+* concentração de pedidos;
+* possíveis efeitos sazonais.
+
+Os resultados podem ser posteriormente cruzados com informações sobre campanhas promocionais e datas comerciais para investigar possíveis causas.
+
+---
+
+## ❌ 6. Cancelamentos e devoluções
+
+Foi analisado o percentual de pedidos:
+
+* entregues;
+* cancelados;
+* devolvidos.
+
+Também foram realizados cruzamentos por:
+
+* categoria de produto;
+* estado;
+* forma de pagamento.
+
+### Principais observações
+
+A categoria **Esporte e Lazer** apresentou a maior taxa de cancelamento, enquanto **Beleza** apresentou a maior taxa de devolução.
+
+Entretanto, diferenças percentuais observadas entre grupos não significam necessariamente que exista uma relação estatisticamente significativa.
+
+Por isso, foram realizados testes estatísticos.
+
+---
+
+## 🧪 7. Testes estatísticos
+
+Foi adotado nível de significância de:
+
+```text
+α = 0,05
+```
+
+### Qui-quadrado
+
+Utilizado para verificar se existe associação entre variáveis categóricas.
+
+Foram analisadas:
+
+* forma de pagamento × status do pedido;
+* categoria do produto × status do pedido.
+
+### Resultados
+
+**Forma de pagamento × status**
+
+```text
+p = 0,0557
+```
+
+O resultado ficou ligeiramente acima de 0,05. Portanto, não foi encontrada evidência estatística suficiente para rejeitar a hipótese de independência.
+
+Apesar disso, o resultado próximo ao nível de significância indica que a relação pode merecer investigação com uma amostra maior.
+
+**Categoria × status**
+
+```text
+p = 0,3172
+```
+
+Não foram encontradas evidências de associação estatisticamente significativa entre categoria do produto e status do pedido.
+
+---
+
+### Mann-Whitney U
+
+Utilizado para comparar a distribuição do valor dos pedidos entre:
+
+* pedidos cancelados;
+* pedidos entregues.
+
+Resultado:
+
+```text
+p = 0,3009
+```
+
+Como o p-valor é superior a 0,05, não foram encontradas evidências de diferença estatisticamente significativa entre os grupos.
+
+Portanto, dentro desta amostra, **o valor do pedido não apresentou evidência de relação com o cancelamento**.
+
+---
+
+## 💡 8. Principais insights
+
+### Receita
+
+A categoria **eletrônico** concentra a maior parte da receita, principalmente devido ao maior valor unitário dos produtos.
+
+### Forma de pagamento
+
+O cartão de débito apresentou o maior ticket médio.
+
+Além disso, a análise estatística encontrou um resultado próximo do nível de significância entre forma de pagamento e status do pedido, indicando um ponto que merece investigação.
+
+### Categoria
+
+Apesar de existirem diferenças nas taxas de cancelamento e devolução entre categorias, o teste Qui-quadrado não encontrou evidência estatística suficiente de associação.
+
+### Valor do pedido
+
+O teste de Mann-Whitney não encontrou diferença estatisticamente significativa entre os valores dos pedidos cancelados e entregues.
+
+---
+
+## 🎯 9. Recomendação de negócio
+
+A principal oportunidade identificada está na **forma de pagamento**.
+
+Embora o teste não tenha atingido o nível de significância de 5%, o p-valor de **0,0557** ficou próximo do limite estabelecido.
+
+Recomenda-se:
+
+1. investigar possíveis problemas relacionados aos meios de pagamento;
+2. analisar os motivos específicos dos cancelamentos;
+3. aumentar o volume de dados antes de tomar decisões definitivas;
+4. acompanhar a taxa de cancelamento por forma de pagamento ao longo do tempo.
+
+A análise deve ser complementada com uma amostra maior antes de concluir que existe um efeito real.
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+* **Python**
+* **Pandas**
+* **NumPy**
+* **Matplotlib**
+* **Seaborn**
+* **SciPy**
+* **Jupyter Notebook**
+* **Regex**
+* **Git/GitHub**
+
+---
+
+## 📚 Conceitos aplicados
+
+* Limpeza e tratamento de dados
+* EDA — Análise Exploratória de Dados
+* Estatística descritiva
+* Correlação de Spearman
+* Teste Qui-quadrado
+* Teste Mann-Whitney U
+* Análise de distribuição
+* Identificação de outliers
+* Análise de receita
+* Análise de ticket médio
+* Análise de cancelamentos e devoluções
+* Interpretação de p-value
+* Significância estatística
+* Análise orientada a negócio
+
+## 👩‍💻 Sobre o projeto
+
+Projeto desenvolvido como parte do processo de aprendizado em **Análise de Dados**, com foco na aplicação prática de Python, estatística e pensamento orientado a negócio.
+
+O objetivo não é apenas apresentar números, mas transformar os dados em **evidências que possam apoiar decisões**.
