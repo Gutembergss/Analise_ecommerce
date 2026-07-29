@@ -1,481 +1,481 @@
 id_pedido,data_pedido,id_cliente,nome_cliente,email,telefone,idade,cidade,estado,categoria_produto,produto,quantidade,preco_unitario,valor_total,forma_pagamento,status_pedido,avaliacao_cliente,regiao
-1041,2023-07-26,306,Renan Ribeiro,leonardo88@example.org,,59,Florianópolis,SC,Roupas,Camiseta Básica,2,49.9,99.8,Cartão De Débito,Devolvido,5,Sul
-1047,2024-03-27,195,Diego Melo,novaisdavi@example.com,+5511973091356,70,Contagem,MG,Roupas,Calça Jeans,4,129.9,519.6,Cartão De Débito,Processando,10,Sudeste
-1344,2023-10-16,165,Nicole Moreira,liviacaldeira@example.com,,49,Porto Alegre,RS,Esporte E Lazer,Bola De Futebol Oficial,4,89.9,359.6,Boleto Bancário,Cancelado,1,Sul
-1137,2025-08-01,45,Fernanda Freitas,ucorreia@example.com,,41,Olinda,PE,Roupas,Vestido Casual,3,159.9,479.7,Boleto Bancário,Em Transporte,1,Nordeste
-1110,2023-08-27,149,Cecilia Novaes,ryanborges@example.org,+5585941568143,29,Petrópolis,RJ,Roupas,Calça Jeans,2,129.9,259.8,Cartão De Crédito,Cancelado,1,Sudeste
-1270,2024-04-02,152,Heitor Silva,,+5579921701726,40,Contagem,MG,Livros,Livro Técnico,1,89.9,89.9,Boleto Bancário,Processando,4,Sudeste
-1115,2025-06-14,102,Marina Das Neves,cardosobenicio@example.com,+5551978557089,38,Recife,PE,Beleza,Batom Matte,2,39.9,79.8,Boleto Bancário,Entregue,5,Nordeste
-1018,2025-06-14,235,Enzo Machado,rnovaes@example.org,,47,Rio De Janeiro,RJ,Eletronicos,Notebook,4,3299.0,13196.0,Pix,Processando,4,Sudeste
-1066,2025-05-27,85,Daniel Castro,carlos-eduardo23@example.com,+5561923341983,54,Maringá,PR,Eletrônicos,Smart Tv 50Pol,3,149.9,6597.0,Boleto Bancário,Entregue,4,Sul
-1449,2023-02-06,286,Srta. Maria Flor Da Rocha,macedocecilia@example.net,+5579926844153,35,Juazeiro Do Norte,CE,Beleza,Creme Facial AntiIdade,2,79.9,159.8,Boleto Bancário,Devolvido,5,Nordeste
-1067,2024-06-03,185,Lorena Moura,amandamachado@example.net,,54,Fortaleza,CE,Beleza,Creme Facial AntiIdade,1,79.9,79.9,Cartão De Crédito,Devolvido,4,Nordeste
-1429,2023-12-31,61,Isaque Abreu,pcarvalho@example.com,+5541967913220,46,Nan,SC,Roupas,Vestido Casual,1,159.9,159.9,Cartão De Crédito,Processando,3,Sul
-1011,2024-12-12,202,,wcavalcante@example.com,+5521919072384,36,Sobral,CE,Esporte E Lazer,Bola De Futebol Oficial,1,89.9,89.9,Pix,Cancelado,4,Nordeste
-1019,2024-02-15,253,Lara Santos,rfogaca@example.com,+5571927859122,60,Santos,,Esporte E Lazer,Tênis De Corrida,1,253.74,252.65,Cartão De Débito,Cancelado,5,
-1117,2023-12-20,252,Isadora Viana,camaraleonardo@example.org,+5579947966632,,Petrópolis,RJ,Roupas,Camiseta Básica,2,49.9,99.8,Pix,Processando,4,Sudeste
-1444,2023-11-21,105,Srta. Letícia Pereira,,,20,Recife,PE,Esporte E Lazer,Bicicleta Aro 29,3,899.0,2697.0,Cartão De Crédito,Processando,4,Nordeste
-1414,2024-01-31,341,Nicole Vasconcelos,yuricavalcanti@example.org,+5581934692193,71,Brasília,DF,Casa E Decoração,Sofá 3 Lugares,1,2314.92,2314.92,Pix,Devolvido,4,Centro-oeste
-1437,2025-11-22,20,Esther Viana,antony51@example.net,,22,Manaus,AM,Casa E Decoração,Tapete Sala,1,249.9,249.9,Pix,Cancelado,5,Norte
-1074,2024-12-04,186,Sofia Rios,ryan40@example.com,+5585992224357,41,Juazeiro Do Norte,CE,Casa E Decoração,Luminária De Mesa,2,89.9,179.8,Cartão De Débito,Processando,4,Nordeste
-1234,2023-11-25,149,Dr. Enrico Da Costa,marcos-vinicius41@example.org,+5551964854447,75,Santos,SP,Eletrônicos,Câmera Digital,1,1599.0,1599.0,Pix,Devolvido,4,Sudeste
-1400,2024-05-02,254,Erick Cavalcante,gabrielly20@example.com,,29,,SP,Roupas,Calça Jeans,4,129.9,519.6,Cartão De Débito,Cancelado,5,Sudeste
-1191,2025-09-18,136,Juan Moreira,ana-luiza95@example.net,,23,Parintins,AM,Esporte E Lazer,Bicicleta Aro 29,1,149.9,882.9,Boleto Bancário,Cancelado,4,Norte
-1241,2023-10-29,84,Marina Dias,gael-henrique63@example.com,,20,Petrópolis,RJ,Beleza,Perfume Importado,5,199.9,999.5,Cartão De Crédito,Em Transporte,4,Sudeste
-1159,2024-11-28,4,Gustavo Da Cunha,peixotonicolas@example.org,+5581930847308,25,Duque De Caxias,RJ,Eletrônicos,Notebook,3,3299.0,9897.0,Cartão De Crédito,Processando,2,Sudeste
-1375,2024-05-14,120,Vitor Gabriel Da Rosa,LUIZAOLIVEIRA@example.com,+5531973134720,57,Curitiba,PR,Casa E Decoração,Luminária De Mesa,1,89.9,89.9,Cartão De Débito,Em Transporte,4,Sul
-1336,2025-05-30,206,Thales Borges,,+5531919481396,74,Brasília,DF,Beleza,Perfume Importado,2,199.9,399.8,Boleto Bancário,Processando,4,Centro-oeste
-1396,2024-04-15,4,Ana Clara Macedo,pintorhavi@example.org,+5551961699212,71,Brasília,DF,Casa E Decoração,Sofá 3 Lugares,2,1899.0,3798.0,Cartão De Débito,Em Transporte,4,Centro-oeste
-1339,2023-09-08,248,Sr. Lorenzo Vasconcelos,woliveira@example.org,+5585953136107,48,Jaboatão Dos Guararapes,PE,Esporte E Lazer,Bicicleta Aro 29,2,899.0,1798.0,Cartão De Crédito,Cancelado,5,Nordeste
-1209,2025-09-18,260,Sr. Mathias Farias,gabriellypires@example.net,+5561940046939,72,Duque De Caxias,RJ,Livros,Livro Técnico,3,89.9,269.7,Cartão De Crédito,Processando,5,Sudeste
-1377,2024-08-13,197,,,,24,Nan,PE,CasaDecoração,Mesa De Jantar 6 Lugares,3,899.0,2697.0,Cartão De Crédito,Entregue,2,Nordeste
-1092,2023-09-01,324,Srta. Rebeca Da Rocha,maria-fernanda77@example.org,,55,Joinville,SC,Beleza,Perfume Importado,2,199.9,399.8,Cartão De Crédito,Entregue,4,Sul
-1464,2023-10-02,228,Srta. Mariane Borges,iansiqueira@example.com,+5585981172148,53,Duque De Caxias,RJ,Casa E Decoração,Jogo De Cortinas,1,99.9,99.9,Boleto Bancário,Cancelado,2,Sudeste
-1102,2023-11-06,52,Laura Porto,theoda-mata@example.com,,19,Nan,RJ,Casa E Decoracao,Tapete Sala,1,249.9,249.9,Cartão De Débito,Cancelado,4,Sudeste
-1061,2023-11-28,181,Otávio Rocha,jade28@example.net,+5521947299157,61,Florianópolis,SC,Roupas,Jaqueta CortaVento,4,199.9,799.6,Cartão De Crédito,Entregue,5,Sul
-1050,2023-06-05,37,Milena Novais,,,24,Petrópolis,RJ,Esporte E Lazer,Bola De Futebol Oficial,2,89.9,359.6,Cartão De Débito,Entregue,2,Sudeste
-1080,2024-05-01,229,Daniela Ribeiro,uteixeira@example.net,+5579952541945,38,Manaus,AM,Livros,Hq Coleção,1,29.9,29.9,Pix,Entregue,1,Norte
-1068,2025-05-22,71,Emanuelly Da Mata,arthur-miguel40@example.org,+5581937527012,,Recife,PE,Livros,Livro Técnico,0,94.99,,Pix,Entregue,3,Nordeste
-1450,2025-02-14,265,Ravy Barros,pietra76@example.net,+5571998896332,34,Juazeiro Do Norte,CE,Beleza,Creme Facial AntiIdade,1,79.9,79.9,Cartão De Crédito,Entregue,5,Nordeste
-1233,2025-01-17,163,Kevin Sá,leonardoda-cruz@example.net,,69,Santos,SP,Esporte E Lazer,Bicicleta Aro 29,2,899.0,1798.0,Boleto Bancário,Cancelado,1,Sudeste
-1133,2024-09-23,258,Francisco Rezende,tandrade@example.net,+5541963132739,20,Salvador,BA,Beleza,Shampoo Profissional,1,29.9,29.9,Cartão De Crédito,Em Transporte,4,Nordeste
-1072,2023-08-04,35,Dra. Cecilia Guerra,caue20@example.org,,69,Pelotas,RS,Roupas,Jaqueta CortaVento,2,199.9,399.8,Boleto Bancário,Entregue,4,Sul
-1171,2025-08-27,188,Mathias Borges,pedro-miguelpinto@example.com,+5579978967699,25,Petrópolis,RJ,Beleza,Creme Facial AntiIdade,5,79.9,399.5,Cartão De Crédito,Entregue,2,Sudeste
-1378,2025-07-18,185,Letícia Nascimento,stephany96@example.net,+5511952886887,42,Brasília,DF,Beleza,Batom Matte,1,39.9,35.62,Boleto Bancário,Devolvido,6,Centro-oeste
-1456,2025-01-18,7,Ian Cirino,agathasouza@example.org,+5561991991102,22,Belo Horizonte,MG,Esporte E Lazer,Bola De Futebol Oficial,3,89.9,269.7,Cartão De Débito,Devolvido,2,Sudeste
-1138,2025-06-19,126,Sra. Ana Pires,zda-cruz@example.net,,,Recife,PE,Roupas,Camiseta Básica,1,49.9,49.9,Boleto Bancário,Devolvido,4,Nordeste
-1329,2023-04-29,163,Diego Porto,macedonatalia@example.com,+5541920213670,54,Fortaleza,CE,Livros,Livro Técnico,2,89.9,179.8,Boleto Bancário,Cancelado,3,Nordeste
-1161,2025-07-19,101,Rafaela Azevedo,,+5561983277776,33,Manaus,AM,Eletrônicos,Câmera Digital,1,1599.0,1599.0,Cartão De Débito,Entregue,4,Norte
-1433,2025-05-21,245,Bento Da Mota,matteo14@example.com,+5571934154007,56,Olinda,PE,Esporte E Lazer,Bola De Futebol Oficial,1,89.9,89.9,Cartão De Crédito,Em Transporte,5,Nordeste
-1341,2024-09-21,147,Zoe Carvalho,da-cruzfelipe@example.org,,45,Contagem,MG,Casa E Decoração,Luminária De Mesa,2,89.9,179.8,Cartão De Débito,Processando,5,Sudeste
-1182,2024-01-30,278,Benício Pimenta,correiajoao@example.com,,21,Juazeiro Do Norte,CE,Eletrônicos,Notebook,4,3299.0,13196.0,Boleto Bancário,Entregue,4,Nordeste
-1079,2025-12-18,341,Matteo Almeida,ana-julia31@example.net,+5521985413911,73,Ilhéus,BA,Casa E Decoração,Jogo De Cortinas,1,99.9,99.9,Pix,Devolvido,3,Nordeste
-1457,2024-10-01,145,José Rezende,correiasofia@example.net,+5579952604617,23,Brasília,DF,Casa E Decoração,Luminária De Mesa,3,89.9,269.7,Pix,Devolvido,4,Centro-oeste
-1119,2024-09-30,328,Davi Lucas Da Conceição,ramosana-julia@example.org,,31,Maringá,PR,Livros,Hq Coleção,2,29.9,59.8,Cartão De Crédito,Entregue,4,Sul
-1355,2024-10-15,277,Juliana Rocha,vitoria09@example.org,+5511992034074,37,Brasília,DF,Esporte E Lazer,Halteres 5Kg Par,3,185.38,556.14,Cartão De Débito,Devolvido,2,Centro-oeste
-1425,2025-03-24,265,Sophie Vasconcelos,marianateixeira@example.org,,36,Uberlândia,MG,Esporte E Lazer,Bicicleta Aro 29,2,899.0,1798.0,Cartão De Crédito,Devolvido,4,Sudeste
-1201,2025-09-30,335,Benjamin Vasconcelos,,+5521997602010,60,Lagarto,SE,Beleza,Shampoo Profissional,2,29.9,59.8,Cartão De Crédito,Processando,3,Nordeste
-1367,2024-04-25,118,Maria Sousa,moreirarael@example.net,,33,Caruaru,PE,Casa E Decoração,Sofá 3 Lugares,3,1899.0,5697.0,Cartão De Crédito,Em Transporte,5,Nordeste
-1395,2025-04-03,161,Rael Pinto,dalmeida@example.org,+5571931531171,66,Nan,CE,Eletronico,Tablet,1,999.0,999.0,Pix,Processando,3,Nordeste
-1045,2023-06-17,186,Dr. Valentim Leão,,+5531989674499,46,Brasília,DF,Livros,Livro Técnico,5,89.9,449.5,Cartão De Crédito,Processando,5,Centro-oeste
-1288,2025-01-05,31,,manuellasiqueira@example.net,+5521951285574,49,Juazeiro Do Norte,CE,Livros,Hq Coleção,1,29.9,29.9,Cartão De Crédito,Devolvido,5,Nordeste
-1428,2023-06-18,276,Luana Carvalho,,+5531912634425,42,Olinda,PE,Roupas,Vestido Casual,4,159.9,639.6,Cartão De Débito,Em Transporte,4,Nordeste
-1065,2025-09-10,123,Maria Vitória Da Mata,caiomoura@example.net,+5521947273681,20,São Paulo,SP,Eletronico,Tablet,5,999.0,4995.0,Cartão De Crédito,Cancelado,6,Sudeste
-1106,2024-05-08,58,Ravy Leão,,+5581948475617,47,Feira De Santana,BA,Casa E Decoração,Jogo De Cortinas,1,99.9,99.9,Boleto Bancário,Processando,1,Nordeste
-1303,2025-02-09,128,Miguel Pacheco,REBECA57@example.net,+5585958421063,26,Manaus,AM,Casa E Decoração,Luminária De Mesa,1,89.9,61.77,Cartão De Crédito,Em Transporte,4,Norte
-1180,2023-08-19,251,Ana Cecília Aparecida,enzosiqueira@example.com,+5521938801379,52,Uberlândia,,Casa E Decoração,Tapete Sala,5,249.9,1249.5,Pix,Devolvido,3,
-1397,2024-04-26,176,Augusto Castro,ana-vitoriaabreu@example.com,+5585922436029,63,Salvador,BA,Eletronico,Smartphone,2,1899.9,3799.8,Cartão De Débito,Cancelado,4,Nordeste
-1325,2023-06-06,325,Bianca Dias,hmendes@example.org,,32,Pelotas,RS,Casa E Decoração,Jogo De Cortinas,2,99.9,199.8,Cartão De Crédito,Devolvido,10,Sul
-1094,2025-03-21,162,Ana Vitória Montenegro,yda-mata@example.org,+5579997196006,33,Campinas,SP,Casa E Decoracao,Mesa De Jantar 6 Lugares,2,899.0,1798.0,Boleto Bancário,Entregue,5,Sudeste
-1359,2025-12-20,15,Camila Moraes,ana-beatrizjesus@example.net,+5561992197700,59,Canoas,RS,Esporte E Lazer,Halteres 5Kg Par,4,149.9,599.6,Pix,Cancelado,3,Sul
-1435,2023-02-28,217,Enzo Gabriel Novais,aparecidaantonio@example.com,+5541911764276,62,Feira De Santana,BA,Roupas,Jaqueta CortaVento,2,199.9,399.8,Pix,Cancelado,4,Nordeste
-1445,2025-01-23,155,Pedro Miguel Porto,,,50,Florianópolis,SC,Casa E Decoracao,Jogo De Cortinas,1,99.9,99.9,Boleto Bancário,Devolvido,4,Sul
-1382,2023-06-09,236,Gabriel Leão,cguerra@example.net,+5581969425393,71,Petrópolis,RJ,Eletrônicos,Câmera Digital,1,1599.0,1599.0,Cartão De Crédito,Cancelado,5,Sudeste
-1090,2025-05-23,26,Clara Farias,,+5551978597730,31,Ponta Grossa,PR,Esporte E Lazer,Halteres 5Kg Par,2,149.9,299.8,Cartão De Débito,Entregue,3,Sul
-1235,2025-09-29,216,Bella Costa,jcassiano@example.com,+5521949041679,65,Brasília,DF,Roupa,Tênis Esportivo,3,219.9,659.7,Nan,Em Transporte,4,Centro-oeste
-1169,2024-08-03,169,Enrico Moreira,davi-luizcaldeira@example.com,+5561985988704,69,Ilhéus,BA,Roupas,Camiseta Básica,0,62.5,,Boleto Bancário,Cancelado,5,Nordeste
-1156,2024-04-25,2,Gabriel Peixoto,domfreitas@example.net,,27,Caxias Do Sul,RS,Casa E Decoração,Mesa De Jantar 6 Lugares,2,899.0,1798.0,Cartão De Crédito,Em Transporte,4,Sul
-1051,2025-04-08,239,Sr. João Guilherme Machado,pmontenegro@example.net,+5541996111593,39,Pelotas,RS,Eletrônicos,Smartphone,4,1899.9,7599.6,Cartão De Crédito,Cancelado,4,Sul
-1218,2024-04-10,77,Gabrielly Da Rocha,barbara64@example.org,+5571970819768,58,Salvador,BA,Livros,Hq Coleção,2,29.9,59.8,Pix,Processando,4,Nordeste
-1289,2024-12-01,238,Benicio Fonseca,,,72,Sorocaba,SP,Livros,Hq Coleção,5,29.9,149.5,Boleto Bancário,Cancelado,4,Sudeste
-1165,2024-04-01,332,Fernanda Gonçalves,acostela@example.com,+5585916966628,29,Lagarto,SE,Eletrônicos,Tablet,1,999.0,999.0,Cartão De Crédito,Em Transporte,3,Nordeste
-1124,2023-05-18,167,Lorena Araújo,correiamelina@example.net,+5551936257181,69,Joinville,SC,Eletrônicos,Fone De Ouvido Bluetooth,2,149.9,299.8,Boleto Bancário,Entregue,4,Sul
-1320,2023-02-04,62,Henry Barbosa,joao-lucas71@example.com,+5521943705024,43,Aracaju,SE,Casa E Decoração,Jogo De Cortinas,4,99.9,399.6,Cartão De Crédito,Cancelado,1,Nordeste
-1177,2025-12-19,186,Alexandre Pinto,pmartins@example.com,+5521950822686,57,Pelotas,,Roupas,Camiseta Básica,1,49.9,49.9,Boleto Bancário,Devolvido,3,
-1226,2024-11-27,167,Anna Liz Mendonça,piresbeatriz@example.com,,58,Ribeirão Preto,SP,Esporte E Lazer,Bicicleta Aro 29,2,819.04,1638.08,Cartão De Crédito,Cancelado,3,Sudeste
-1354,2025-12-04,126,Mirella Porto,aparecidabernardo@example.net,,62,Duque De Caxias,RJ,Beleza,Shampoo Profissional,1,29.9,29.9,Cartão De Crédito,Entregue,0,Sudeste
-1250,2025-03-29,336,Dra. Maria Pacheco,,+5571981789012,19,Canoas,RS,Eletrônicos,Câmera Digital,2,1599.0,3198.0,Cartão De Débito,Em Transporte,4,Sul
-1183,2023-04-08,242,Enzo Rodrigues,davi-luccaferreira@example.net,,47,Manaus,AM,Casa E Decoração,Jogo De Cortinas,1,99.9,99.9,Boleto Bancário,Processando,4,Norte
-1283,2024-04-30,103,Ana Júlia Monteiro,camposlaura@example.net,+5541946033251,61,Parintins,AM,Beleza,Perfume Importado,2,199.9,399.8,Cartão De Débito,Processando,4,Norte
-1024,2025-01-01,47,Rodrigo Porto,maraujo@example.org,,25,Florianópolis,SC,Livros,Biografia,1,44.9,44.9,Cartão De Débito,Cancelado,4,Sul
-1313,2025-06-05,55,Liam Nunes,feliperios@example.net,+5551968671191,63,Joinville,SC,Livros,Hq Coleção,4,30.7,174.3,Boleto Bancário,Em Transporte,1,Sul
-1216,2025-07-22,55,Bianca Da Cruz,nicolascamargo@example.org,,,Lagarto,SE,Esporte E Lazer,Halteres 5Kg Par,1,149.9,149.9,Cartão De Débito,Entregue,2,Nordeste
-1199,2024-03-18,317,Melina Pereira,kda-cruz@example.org,+5581990612331,71,Porto Alegre,RS,Beleza,Batom Matte,1,39.9,39.9,Pix,Em Transporte,3,Sul
-1230,2025-08-12,350,Ana Beatriz Ferreira,,+5561962017252,,Curitiba,PR,Roupas,Camiseta Básica,5,49.9,249.5,Boleto Bancário,Processando,4,Sul
-1211,2023-12-11,262,,ana-lizvieira@example.org,+5579931124292,30,Juazeiro Do Norte,CE,Eletrônicos,Tablet,2,999.0,1998.0,Cartão De Débito,Entregue,5,Nordeste
-1016,2023-09-18,282,Maria Cavalcante,monteirodante@example.org,+5571976554910,28,Salvador,BA,Eletrônicos,Câmera Digital,2,1599.0,3198.0,Cartão De Débito,Entregue,3,Nordeste
-1187,2024-04-07,45,Lunna Garcia,viniciuscamargo@example.net,+5551953289344,32,Manaus,AM,Roupas,Camiseta Básica,4,49.9,199.6,Boleto Bancário,Em Transporte,2,Norte
-1458,2023-10-24,163,Samuel Da Conceição,icamara@example.net,+5579985258572,,Nossa Senhora Do Socorro,SE,Casa E Decoração,Jogo De Cortinas,2,99.9,199.8,Cartão De Crédito,Entregue,4,Nordeste
-1408,2023-03-12,39,Caroline Santos,lunna95@example.net,+5561968902279,,Blumenau,SC,Beleza,Batom Matte,2,39.9,79.8,Pix,Cancelado,4,Sul
-1324,2024-05-23,292,Eduardo Alves,ana-carolina52@example.com,+5585952035435,73,Uberlândia,MG,Beleza,Batom Matte,5,39.9,199.5,Pix,Devolvido,2,Sudeste
-1139,2025-03-29,309,Ana Cecília Garcia,martinsdavi-lucas@example.org,+5579995145976,18,Duque De Caxias,RJ,Eletronico,Notebook,1,3299.0,3299.0,Pix,Entregue,4,Sudeste
-1203,2025-06-08,286,Benício Da Rosa,silveiramaria-liz@example.net,+5511997314450,53,Juiz De Fora,MG,Eletronico,Fone De Ouvido Bluetooth,3,149.9,449.7,Boleto Bancário,Devolvido,4,Sudeste
-1461,2023-03-04,109,Maria Júlia Nogueira,,,36,Joinville,SC,Roupas,Camiseta Básica,1,49.9,49.9,Cartão De Débito,Processando,1,Sul
-1232,2023-05-27,191,Isabel Cardoso,maria-eduarda38@example.org,+5531969568587,44,Brasília,,Livros,Livro Técnico,1,89.9,89.9,Cartão De Crédito,Devolvido,3,
-1098,2024-06-24,136,Milena Guerra,joao-miguel65@example.com,+5511917243870,,Ilhéus,BA,Esporte E Lazer,Bicicleta Aro 29,3,899.0,2697.0,Pix,Em Transporte,3,Nordeste
-1248,2023-08-11,103,Dra. Maria Alice Porto,da-cunhayan@example.com,,27,Maringá,PR,Livros,Hq Coleção,1,29.9,41.6,Boleto Bancário,Cancelado,4,Sul
-1381,2025-10-24,338,Carlos Eduardo Jesus,melissa68@example.net,+5585964938816,53,Jaboatão Dos Guararapes,PE,Esporte E Lazer,Halteres 5Kg Par,5,149.9,749.5,Cartão De Crédito,Em Transporte,3,Nordeste
-1223,2023-02-24,208,Benjamim Abreu,mariane17@example.net,+5579986715203,21,São Paulo,SP,Beleza,Creme Facial AntiIdade,3,79.9,261.13,Cartão De Débito,Em Transporte,6,Sudeste
-1085,2023-11-07,133,Allana Pires,marianada-luz@example.org,+5579967643000,51,Olinda,PE,Roupas,Calça Jeans,1,129.9,129.9,Pix,Entregue,5,Nordeste
-1258,2023-05-17,99,Luan Viana,sofiaferreira@example.net,+5541961864082,67,Juiz De Fora,MG,Casa E Decoração,Jogo De Cortinas,1,99.9,99.9,Boleto Bancário,Devolvido,5,Sudeste
-1296,2023-11-30,11,Isadora Garcia,,,67,Nan,SP,Casa E Decoração,Tapete Sala,2,249.9,499.8,Pix,Cancelado,4,Sudeste
-1340,2024-10-25,90,Cauê Siqueira,gmachado@example.org,,41,Jaboatão Dos Guararapes,PE,Roupas,Tênis Esportivo,3,219.9,659.7,Boleto Bancário,Processando,3,Nordeste
-1334,2023-11-28,194,Gustavo Carvalho,ana-lizcosta@example.org,,32,Ponta Grossa,PR,Esporte E Lazer,Tênis De Corrida,1,289.9,289.9,Cartão De Crédito,Cancelado,5,Sul
-1468,2023-09-11,139,Sra. Alícia Pacheco,ycamargo@example.org,+5521915176611,58,Fortaleza,CE,Eletrônicos,Notebook,1,3299.0,3299.0,Cartão De Débito,Cancelado,4,Nordeste
-1342,2024-02-25,186,Emilly Cavalcante,das-nevestheodoro@example.net,,62,Brasília,DF,Livros,Livro Técnico,2,89.9,179.8,Cartão De Crédito,Processando,2,Centro-oeste
-1476,2023-12-07,5,Lucas Gabriel Pacheco,ofarias@example.org,+5511918491373,40,Blumenau,SC,Eletrônicos,Câmera Digital,0,1599.0,,Cartão De Débito,Processando,2,Sul
-1236,2023-06-13,200,Sra. Maya Da Mota,henriqueporto@example.org,,46,Caxias Do Sul,RS,Casa E Decoração,Jogo De Cortinas,5,99.9,499.5,Pix,Em Transporte,1,Sul
-1077,2025-10-13,70,Dr. Bryan Melo,milena33@example.net,,20,Sobral,CE,Eletrônicos,Notebook,2,3299.0,6598.0,Pix,Cancelado,4,Nordeste
-1091,2024-10-14,200,Rodrigo Araújo,rda-mata@example.org,+5521974059637,33,Lagarto,SE,Roupa,Jaqueta CortaVento,1,199.9,199.9,Pix,Devolvido,3,Nordeste
-1262,2024-05-16,327,Caleb Rios,MIGUEL73@example.net,+5571938301912,26,Ilhéus,BA,Casa E Decoração,Sofá 3 Lugares,5,1899.0,9495.0,Cartão De Débito,Devolvido,4,Nordeste
-1044,2025-10-20,217,Lunna Da Luz,dcardoso@example.net,+5531960701943,34,Belo Horizonte,MG,Casa E Decoração,Luminária De Mesa,4,89.9,359.6,Pix,Processando,4,Sudeste
-1237,2023-12-26,283,Gustavo Gomes,aandrade@example.com,+5521988684505,24,Parintins,AM,Esporte E Lazer,Tênis De Corrida,1,289.9,289.9,Boleto Bancário,Processando,1,Norte
-1062,2025-07-16,45,Sabrina Sampaio,felipe40@example.net,+5521990204101,34,Ponta Grossa,PR,Esporte E Lazer,Bola De Futebol Oficial,1,89.9,89.9,Cartão De Crédito,Em Transporte,4,Sul
-1317,2024-02-23,4,Sr. Gael Henrique Rocha,lunna17@example.com,,50,Feira De Santana,BA,Casa E Decoração,Luminária De Mesa,1,89.9,89.9,Pix,Entregue,4,Nordeste
-1048,2024-03-08,86,Stella Moura,xviana@example.org,,28,Nossa Senhora Do Socorro,,Eletrônicos,Fone De Ouvido Bluetooth,2,149.9,299.8,Pix,Processando,4,
-1259,2024-09-27,125,Alice Ribeiro,costeladiego@example.net,+5531967147603,62,Ilhéus,BA,EsporteLazer,Halteres 5Kg Par,2,149.9,299.8,Cartão De Débito,Devolvido,5,Nordeste
-1108,2024-07-08,165,Maria Júlia Campos,lorenzobarbosa@example.org,,48,Manaus,AM,Casa E Decoração,Luminária De Mesa,1,89.9,89.9,Pix,Em Transporte,4,Norte
-1441,2025-08-12,179,Luan Garcia,eduardadias@example.org,,45,Manaus,AM,Beleza,Creme Facial AntiIdade,3,79.9,239.7,Cartão De Débito,Devolvido,2,Norte
-1184,2025-08-17,74,,maria-alice24@example.net,+5521943146637,57,Feira De Santana,BA,Casa E Decoração,Tapete Sala,1,249.9,249.9,Cartão De Crédito,Devolvido,1,Nordeste
-1321,2023-09-02,99,Breno Machado,ayla37@example.org,+5511958113437,28,,SC,Beleza,Creme Facial AntiIdade,3,79.9,239.7,Pix,Processando,3,Sul
-1049,2024-01-29,90,Ana Laura Da Cruz,yuriaparecida@example.org,+5579994946695,49,Salvador,BA,Eletrônicos,Tablet,3,999.0,2997.0,Cartão De Crédito,Devolvido,5,Nordeste
-1310,2025-03-23,180,Caroline Da Cunha,fernandesmurilo@example.org,+5579944195204,44,Brasília,DF,Esporte E Lazer,Bicicleta Aro 29,2,899.0,1798.0,Pix,Entregue,4,Centro-oeste
-1126,2023-11-17,12,Ana Beatriz Sampaio,laura56@example.org,+5579969307784,60,Brasília,DF,Esporte E Lazer,Tênis De Corrida,1,339.73,339.73,Boleto Bancário,Entregue,3,Centro-oeste
-1231,2024-10-22,150,Luna Cavalcante,smacedo@example.com,,32,Vitória Da Conquista,BA,Casa E Decoração,Sofá 3 Lugares,3,1899.0,5697.0,Boleto Bancário,Cancelado,4,Nordeste
-1185,2025-09-08,269,Giovanna Pastor,,,18,Ponta Grossa,PR,Casa E Decoração,Sofá 3 Lugares,3,1899.0,5697.0,Cartão De Débito,Devolvido,3,Sul
-1256,2025-09-02,260,Sra. Maria Alice Da Cruz,aurora77@example.com,+5585981539453,42,Ilhéus,BA,Beleza,Perfume Importado,3,199.9,599.7,Pix,Em Transporte,3,Nordeste
-1186,2024-08-04,312,Gael Henrique Cirino,ocastro@example.com,+5521991989128,,Ribeirão Preto,SP,Livros,Livro Técnico,3,89.9,337.29,Boleto Bancário,Entregue,4,Sudeste
-1125,2023-12-12,198,Mariah Barros,rafael65@example.org,,34,Nan,PR,Esporte E Lazer,Bola De Futebol Oficial,5,65.95,329.75,Cartão De Crédito,Entregue,4,Sul
-1052,2025-07-18,272,Joana Novais,,+5561953545479,24,Belo Horizonte,MG,Casa E Decoração,Jogo De Cortinas,3,99.9,299.7,Pix,Em Transporte,5,Sudeste
-1480,2023-04-27,70,Paulo Porto,FONSECAALEXIA@example.org,+5511955043557,54,Juiz De Fora,MG,Eletrônicos,Notebook,1,3299.0,3299.0,Pix,Cancelado,5,Sudeste
-1189,2025-04-09,88,Maria Fernanda Da Luz,kfreitas@example.org,+5585940193666,58,Pelotas,RS,Eletrônicos,Notebook,5,3299.0,16495.0,Cartão De Débito,Cancelado,3,Sul
-1212,2025-11-01,270,Ana Vitória Nunes,joao-vitorandrade@example.org,+5541952913296,27,Uberlândia,MG,Roupas,Jaqueta CortaVento,3,199.9,521.09,Boleto Bancário,Cancelado,4,Sudeste
-1388,2023-06-21,176,Leandro Santos,da-rosaisabella@example.org,+5581968485366,,,SC,Roupas,Camiseta Básica,1,49.9,49.9,Boleto Bancário,Processando,2,Sul
-1202,2025-01-17,27,,lpimenta@example.net,+5511990642242,18,Manaus,AM,Eletrônicos,Câmera Digital,2,1599.0,3198.0,Boleto Bancário,Devolvido,5,Norte
-1123,2025-06-04,201,Renan Moura,,+5521969947533,39,Florianópolis,SC,Livros,Romance BestSeller,2,39.9,79.8,Pix,Cancelado,3,Sul
-1149,2025-06-29,309,Emanuella Da Conceição,laramarques@example.net,+5511927887636,,Fortaleza,CE,Livros,Livro Técnico,4,89.9,359.6,Cartão De Crédito,Processando,3,Nordeste
-1163,2025-01-31,141,Sra. Maria Luísa Da Paz,lara04@example.net,,,Fortaleza,CE,Esporte E Lazer,Bicicleta Aro 29,1,899.0,899.0,Boleto Bancário,Em Transporte,4,Nordeste
-1430,2025-03-06,340,Sra. Catarina Santos,rodrigofarias@example.net,,18,Blumenau,SC,Eletrônicos,Câmera Digital,4,1599.0,6396.0,Pix,Em Transporte,3,Sul
-1322,2023-07-27,287,Maria Clara Casa Grande,pedro-miguel02@example.net,+5531934838934,65,Caruaru,PE,Roupas,Camiseta Básica,1,49.9,28.41,Pix,Entregue,4,Nordeste
-1454,2024-04-30,203,Melissa Sales,casa-grandeesther@example.net,+5561986148777,57,Caxias Do Sul,RS,Eletrônicos,Fone De Ouvido Bluetooth,3,149.9,449.70000000000005,Cartão De Débito,Devolvido,4,Sul
-1361,2023-04-17,241,Hellena Rezende,jcosta@example.net,,35,Maringá,PR,Esporte E Lazer,Tênis De Corrida,3,289.9,869.7,Nan,Entregue,4,Sul
-1210,2023-07-05,7,Zoe Melo,smoura@example.org,+5571940818283,60,Ilhéus,BA,Casa E Decoração,Mesa De Jantar 6 Lugares,1,899.0,899.0,Boleto Bancário,Em Transporte,3,Nordeste
-1157,2024-08-14,311,Pietro Pereira,anthony-gabriel19@example.net,,38,Olinda,PE,Eletronicos,Notebook,4,3299.0,13196.0,Boleto Bancário,Entregue,4,Nordeste
-1046,2025-07-07,328,Allana Macedo,anthonyvasconcelos@example.org,,21,Curitiba,PR,Esporte E Lazer,Bicicleta Aro 29,2,149.9,1798.0,Pix,Entregue,4,Sul
-1042,2023-07-09,212,Anthony Gabriel Silveira,mourajoao-lucas@example.com,+5571949698385,67,Fortaleza,CE,Eletronico,Câmera Digital,4,1599.0,6396.0,Pix,Entregue,0,Nordeste
-1331,2023-03-24,139,Luiz Miguel Lopes,jesuspedro-henrique@example.com,,34,Caxias Do Sul,RS,Esporte E Lazer,Halteres 5Kg Par,2,149.9,299.8,Cartão De Débito,Processando,2,Sul
-1227,2024-05-19,173,Murilo Gonçalves,limabenicio@example.com,,,Brasília,DF,Eletrônicos,Notebook,3,3299.0,9897.0,Cartão De Crédito,Em Transporte,4,Centro-oeste
-1294,2024-01-07,107,Júlia Viana,ana40@example.net,,45,Ilhéus,BA,Casa E Decoração,Luminária De Mesa,1,89.9,89.9,Boleto Bancário,Processando,2,Nordeste
-1401,2023-08-30,276,Maria Cecília Camargo,sophie65@example.com,+5531971755119,47,Não Informado,RS,Casa E Decoracao,Luminária De Mesa,4,89.9,359.6,Boleto Bancário,Processando,5,Sul
-1347,2023-06-13,220,Heloísa Da Conceição,maria-eduardasouza@example.com,+5579952508786,44,Recife,PE,Casa E Decoração,Sofá 3 Lugares,0,1899.0,,Pix,Processando,4,Nordeste
-1244,2025-08-27,338,Rebeca Caldeira,da-cunhayasmin@example.org,+5541931176994,53,Olinda,PE,Livros,Romance BestSeller,4,39.9,159.6,Boleto Bancário,Processando,4,Nordeste
-1311,2024-09-28,177,Antonella Alves,andradeester@example.net,+5551964625901,56,Caxias Do Sul,RS,Beleza,Shampoo Profissional,3,29.9,89.7,Cartão De Crédito,Cancelado,4,Sul
-1112,2023-05-13,282,Sra. Maria Isis Jesus,fernandada-mata@example.com,+5579997637754,18,Florianópolis,SC,Esporte E Lazer,Bola De Futebol Oficial,5,89.9,449.5,Cartão De Crédito,Em Transporte,4,Sul
-1390,2024-04-14,246,Juliana Ramos,migueljesus@example.net,+5585962306627,70,Itabaiana,,Livros,Livro Técnico,1,89.9,89.9,Pix,Processando,3,
-1003,2024-11-08,229,Isaque Borges,karaujo@example.org,,35,Nossa Senhora Do Socorro,SE,Esporte E Lazer,Halteres 5Kg Par,1,149.9,149.9,Cartão De Crédito,Cancelado,4,Nordeste
-1260,2023-10-23,339,José Pereira,pachecojoao-pedro@example.org,+5541952397558,,Ilhéus,BA,Livros,Romance BestSeller,5,39.9,199.5,Pix,Em Transporte,4,Nordeste
-1099,2025-06-13,182,Sr. Lucas Abreu,camila61@example.org,+5579924098597,22,Aracaju,SE,Roupas,Jaqueta CortaVento,2,199.9,999.5,Cartão De Débito,Em Transporte,4,Nordeste
-1418,2025-01-14,173,Kevin Cassiano,csousa@example.net,+5561916985136,51,Joinville,SC,EsporteLazer,Halteres 5Kg Par,4,149.9,599.6,Cartão De Crédito,Em Transporte,4,Sul
-1346,2023-04-27,22,Lara Camargo,camposjade@example.org,+5511921736066,33,Nan,SP,Esporte E Lazer,Halteres 5Kg Par,1,149.9,149.9,Pix,Cancelado,4,Sudeste
-1373,2024-11-30,91,,jmoura@example.net,,22,Joinville,,Roupas,Vestido Casual,1,149.9,159.9,Cartão De Débito,Entregue,4,
-1130,2024-02-23,189,Ana Laura Peixoto,isabelaragao@example.org,+5581988754240,41,Curitiba,PR,Roupas,Vestido Casual,2,159.9,799.5,Cartão De Crédito,Entregue,5,Sul
-1142,2023-07-08,293,Alexandre Silveira,alvesravi-lucca@example.org,+5521953832150,19,Vitória Da Conquista,BA,Esporte E Lazer,Halteres 5Kg Par,3,149.9,449.7,Pix,Cancelado,4,Nordeste
-1452,2025-09-28,159,Letícia Nunes,efreitas@example.net,,30,Contagem,MG,Beleza,Batom Matte,1,39.9,39.9,Pix,Cancelado,4,Sudeste
-1360,2025-02-05,245,João Guilherme Da Cruz,sousazoe@example.com,+5551951813317,45,Santos,SP,Eletrônicos,Tablet,5,999.0,4995.0,Cartão De Débito,Entregue,1,Sudeste
-1013,2025-10-27,193,Luara Fernandes,maysa97@example.org,+5511953504846,47,Porto Alegre,RS,Esporte E Lazer,Bicicleta Aro 29,3,899.0,2697.0,Pix,Cancelado,4,Sul
-1114,2025-11-16,56,Caleb Da Mata,hadassaguerra@example.net,,70,Joinville,SC,Roupas,Jaqueta CortaVento,2,199.9,399.8,Cartão De Crédito,Em Transporte,5,Sul
-1039,2024-10-18,286,Miguel Martins,fsouza@example.net,+5541922353957,,Sorocaba,SP,Livros,Livro Técnico,1,89.9,89.9,Boleto Bancário,Cancelado,4,Sudeste
-1103,2024-04-11,84,Luara Correia,liz06@example.net,,41,Blumenau,SC,Livros,Biografia,1,44.9,44.9,Cartão De Crédito,Entregue,2,Sul
-1406,2025-10-06,182,Léo Fogaça,jadegarcia@example.net,,58,Petrópolis,RJ,Eletronico,Fone De Ouvido Bluetooth,1,149.9,149.9,Cartão De Débito,Em Transporte,5,Sudeste
-1276,2025-04-15,45,Maria Luiza Nogueira,guerraana-clara@example.org,+5581985628938,18,Brasília,DF,CasaDecoração,Jogo De Cortinas,2,99.9,199.8,Boleto Bancário,Devolvido,4,Centro-oeste
-1474,2023-09-21,79,Leonardo Cardoso,cunhalucca@example.com,+5531986591465,28,Ribeirão Preto,SP,Esporte E Lazer,Bicicleta Aro 29,5,899.0,4495.0,Boleto Bancário,Cancelado,1,Sudeste
-1307,2025-01-13,10,Levi Peixoto,ferreiraalana@example.net,+5581967329014,69,Brasília,DF,Roupas,Vestido Casual,4,159.9,639.6,Cartão De Crédito,Em Transporte,5,Centro-oeste
-1155,2023-04-24,203,Isabel Machado,bruno43@example.org,+5511972016170,57,Ribeirão Preto,SP,Eletronico,Fone De Ouvido Bluetooth,1,149.9,149.9,Cartão De Crédito,Cancelado,4,Sudeste
-1305,2025-07-04,149,Sra. Maria Cecília Oliveira,,+5541957218463,49,Blumenau,,Eletrônicos,Smart Tv 50Pol,2,2199.0,4398.0,Cartão De Crédito,Cancelado,4,
-1471,2025-07-09,343,Luigi Cassiano,emontenegro@example.org,+5579912769222,49,Fortaleza,CE,Beleza,Perfume Importado,2,199.9,399.8,Cartão De Débito,Cancelado,4,Nordeste
-1023,2025-11-15,119,Ana Júlia Marques,zgoncalves@example.com,+5511967294565,,Pelotas,RS,Eletrônicos,Fone De Ouvido Bluetooth,1,149.9,149.9,Cartão De Crédito,Entregue,4,Sul
-1358,2023-02-28,149,Juliana Barros,ipastor@example.org,+5551993599817,18,Aracaju,SE,Roupas,Vestido Casual,2,159.9,319.8,Boleto Bancário,Entregue,2,Nordeste
-1439,2024-11-10,272,Apollo Vasconcelos,scasa-grande@example.com,+5579984793612,43,Pelotas,RS,Casa E Decoração,Jogo De Cortinas,1,99.9,99.9,Pix,Em Transporte,3,Sul
-1422,2024-10-24,7,Sr. Oliver Sales,nsouza@example.org,,,Nossa Senhora Do Socorro,SE,Casa E Decoração,Mesa De Jantar 6 Lugares,4,899.0,3596.0,Boleto Bancário,Devolvido,4,Nordeste
-1036,2025-07-24,6,Lucca Costela,npinto@example.org,+5585966177723,29,Ponta Grossa,PR,Eletrônicos,Smartphone,1,1899.9,1899.9,Cartão De Crédito,Cancelado,3,Sul
-1208,2024-03-05,200,Enzo Gabriel Da Luz,nathancastro@example.net,,71,Nan,AM,Beleza,Perfume Importado,5,199.9,999.5,Boleto Bancário,Processando,10,Norte
-1318,2023-10-20,315,Dr. Mathias Campos,maria-luisa62@example.com,,38,Blumenau,SC,Roupas,Calça Jeans,1,129.9,129.9,Pix,Cancelado,5,Sul
-1175,2023-03-05,244,Mirella Novaes,laura49@example.org,+5511992983587,60,Contagem,MG,Beleza,Creme Facial AntiIdade,1,79.9,79.9,Boleto Bancário,Entregue,4,Sudeste
-1220,2024-10-08,20,,balves@example.net,+5531971725575,25,,RJ,Roupa,Camiseta Básica,2,49.9,64.31,Não Informado,Cancelado,4,Sudeste
-1427,2023-02-11,347,Bento Cavalcante,,,34,Nan,SE,Livros,Livro Técnico,5,89.9,449.5,Cartão De Débito,Entregue,4,Nordeste
-1129,2025-12-27,243,Thales Pimenta,pietromendonca@example.com,+5581919907283,30,Ilhéus,BA,Casa E Decoração,Sofá 3 Lugares,4,1899.0,7596.0,Cartão De Débito,Entregue,4,Nordeste
-1419,2024-11-29,208,Felipe Nunes,maysasilva@example.net,+5521915844246,70,Lagarto,SE,Roupas,Tênis Esportivo,5,219.9,1099.5,Pix,Processando,4,Nordeste
-1266,2025-01-24,150,Alana Castro,maria-helena97@example.net,+5541914194150,31,Joinville,SC,Casa E Decoração,Sofá 3 Lugares,1,1899.0,1899.0,Cartão De Crédito,Processando,5,Sul
-1261,2023-12-16,272,Rael Ferreira,oliverguerra@example.net,+5551970751481,28,Olinda,PE,Esporte E Lazer,Bicicleta Aro 29,2,899.0,1798.0,Cartão De Débito,Devolvido,4,Nordeste
-1291,2024-02-09,288,Bruno Gomes,ana-livia92@example.com,,40,Maringá,PR,Beleza,Creme Facial AntiIdade,1,79.9,79.9,Boleto Bancário,Cancelado,4,Sul
-1416,2025-12-01,158,Beatriz Cirino,ian49@example.net,+5531935358813,39,Olinda,PE,Esporte E Lazer,Halteres 5Kg Par,4,149.9,599.6,Cartão De Crédito,Cancelado,5,Nordeste
-1017,2025-07-01,292,Davi Lucca Sousa,isabellagoncalves@example.com,+5571950707300,72,Salvador,BA,Esporte E Lazer,Tênis De Corrida,3,289.9,869.7,Cartão De Débito,Entregue,4,Nordeste
-1353,2024-07-08,42,Dr. Guilherme Montenegro,camarajoao-lucas@example.com,,,Olinda,PE,Livros,Livro Técnico,3,89.9,269.7,Cartão De Débito,Em Transporte,3,Nordeste
-1131,2025-12-27,342,Diego Leão,santosdante@example.org,+5511944492992,38,Santos,SP,Eletronico,Smart Tv 50Pol,1,2199.0,2199.0,Pix,Entregue,5,Sudeste
-1473,2023-10-23,91,Maria Júlia Da Conceição,fonsecabella@example.net,,64,Brasília,DF,Casa E Decoração,Jogo De Cortinas,1,99.9,99.9,Cartão De Crédito,Em Transporte,4,Centro-oeste
-1252,2025-01-22,201,Bernardo Porto,maria-isisramos@example.net,+5581993373703,70,Caruaru,PE,Roupa,Tênis Esportivo,5,219.9,1099.5,Cartão De Débito,Cancelado,4,Nordeste
-1104,2024-06-15,313,Gabrielly Silveira,aragaojuliana@example.com,+5511974085979,22,Caxias Do Sul,RS,Esporte E Lazer,Halteres 5Kg Par,1,149.9,149.9,Cartão De Crédito,Em Transporte,2,Sul
-1370,2025-01-15,69,Dra. Carolina Jesus,abreujuliana@example.net,,35,Porto Alegre,RS,Roupas,Vestido Casual,5,159.9,799.5,Boleto Bancário,Entregue,3,Sul
-1035,2025-08-04,238,Sra. Maria Clara Barros,gustavoda-conceicao@example.com,+5541947444745,38,São Paulo,SP,Livros,Hq Coleção,2,29.9,59.8,Cartão De Débito,Devolvido,3,Sudeste
-1349,2025-11-20,197,Valentina Andrade,,+5521915844702,75,Sobral,CE,Esporte E Lazer,Bicicleta Aro 29,2,899.0,1798.0,Boleto Bancário,Em Transporte,4,Nordeste
-1407,2023-11-12,304,Giovanna Da Rosa,nmontenegro@example.org,+5531955486230,30,Vitória Da Conquista,BA,Esporte E Lazer,Tênis De Corrida,2,289.9,579.8,Nan,Processando,2,Nordeste
-1025,2023-06-26,35,Pedro Lucas Castro,fernandescaua@example.org,,43,Duque De Caxias,RJ,Livros,Livro Técnico,4,112.17,448.68,Cartão De Crédito,Processando,4,Sudeste
-1369,2025-07-14,179,Valentim Brito,yda-mata@example.net,+5585961653690,63,Manaus,AM,Roupas,Vestido Casual,4,159.9,465.05,Boleto Bancário,Entregue,4,Norte
-1197,2023-02-20,115,Dom Machado,azevedojoao-vitor@example.net,+5571936247193,55,Ponta Grossa,PR,Roupas,Jaqueta CortaVento,1,199.9,199.9,Cartão De Débito,Cancelado,5,Sul
-1308,2024-11-13,317,Alícia Brito,costelamaria-vitoria@example.net,+5531964143050,47,Santos,SP,Beleza,Shampoo Profissional,1,29.9,29.9,Pix,Devolvido,5,Sudeste
-1337,2024-07-12,140,Juliana Da Cruz,emanuellyandrade@example.org,+5521970357772,61,Caruaru,PE,Esporte E Lazer,Bicicleta Aro 29,1,899.0,899.0,Cartão De Débito,Processando,3,Nordeste
-1410,2024-03-17,130,Sophie Borges,helena09@example.org,,48,Juazeiro Do Norte,,Livros,Biografia,3,149.9,134.7,Cartão De Débito,Entregue,5,
-1190,2025-05-12,272,Dr. Bruno Macedo,luiz-gustavopimenta@example.net,,20,São Paulo,SP,Esporte E Lazer,Bicicleta Aro 29,5,899.0,4495.0,Cartão De Crédito,Cancelado,5,Sudeste
-1043,2023-08-28,160,Heitor Alves,otavio48@example.org,,70,Manaus,AM,Livro,Romance BestSeller,5,39.9,199.5,Cartão De Débito,Em Transporte,1,Norte
-1387,2024-11-26,304,Bianca Fogaça,SALESJULIANA@example.org,+5541950223822,24,Blumenau,SC,Casa E Decoração,Tapete Sala,1,249.9,249.9,Boleto Bancário,Cancelado,4,Sul
-1118,2024-11-19,330,Bianca Silveira,jbarros@example.org,+5521998891786,39,Campinas,SP,Roupas,Jaqueta CortaVento,3,199.9,599.7,Nan,Entregue,1,Sudeste
-1243,2024-07-25,80,Maria Luísa Moreira,,+5551958904316,,Joinville,SC,Roupa,Tênis Esportivo,3,219.9,659.7,Cartão De Crédito,Devolvido,5,Sul
-1460,2023-10-28,150,Theodoro Novaes,piresolivia@example.org,+5541965313215,57,Canoas,RS,Beleza,Shampoo Profissional,2,29.9,59.8,Cartão De Crédito,Cancelado,4,Sul
-1338,2025-10-07,286,Sra. Alana Fogaça,emoreira@example.org,+5581963731244,44,Porto Alegre,RS,Esporte E Lazer,Bicicleta Aro 29,1,1057.79,1057.79,Cartão De Crédito,Em Transporte,4,Sul
-1064,2024-08-08,289,Hellena Azevedo,joaquim70@example.com,+5521914531414,29,Aracaju,SE,Esporte E Lazer,Tênis De Corrida,2,289.9,579.8,Boleto Bancário,Em Transporte,3,Nordeste
-1135,2024-03-07,13,João Lucas Barros,laura18@example.org,,58,Manaus,AM,Beleza,Perfume Importado,3,199.9,599.7,Pix,Devolvido,5,Norte
-1228,2025-11-14,100,Kevin Da Luz,gnogueira@example.org,+5571983968688,34,Brasília,DF,Casa E Decoração,Tapete Sala,5,249.9,1249.5,Pix,Cancelado,4,Centro-oeste
-1253,2025-05-17,197,Srta. Clara Fogaça,smartins@example.net,,48,Nan,PE,Livros,Hq Coleção,1,29.9,29.9,Boleto Bancário,Em Transporte,4,Nordeste
-1328,2024-06-30,303,Mathias Da Rocha,dcastro@example.net,,54,Parintins,AM,Eletrônicos,Câmera Digital,3,1599.0,4797.0,Cartão De Débito,Em Transporte,1,Norte
-1423,2025-09-04,56,,lais75@example.net,+5585914743033,27,Rio De Janeiro,RJ,Esporte E Lazer,Tênis De Corrida,2,289.9,579.8,Cartão De Crédito,Entregue,4,Sudeste
-1391,2025-06-22,328,Diogo Castro,alvesguilherme@example.org,+5571984866807,,Pelotas,RS,Eletronico,Smart Tv 50Pol,2,1945.39,3890.78,Cartão De Débito,Entregue,5,Sul
-1053,2025-01-21,296,Matteo Macedo,diogo36@example.org,+5531964664630,,Lagarto,SE,Roupas,Camiseta Básica,1,49.9,49.9,Cartão De Crédito,Entregue,4,Nordeste
-1086,2024-11-13,117,Ana Lívia Souza,ribeirosara@example.org,+5571921378454,56,Não Informado,DF,Eletrônicos,Tablet,5,999.0,4995.0,Pix,Cancelado,3,Centro-oeste
-1134,2024-12-08,339,Sra. Maria Fernanda Farias,gcavalcante@example.org,,34,Porto Alegre,RS,Roupas,Vestido Casual,0,159.9,,Cartão De Crédito,Processando,4,Sul
-1304,2025-08-20,56,Gabriela Correia,matheusborges@example.org,,27,Fortaleza,CE,Casa E Decoração,Mesa De Jantar 6 Lugares,2,860.04,1720.08,Cartão De Débito,Processando,4,Nordeste
-1274,2025-03-28,145,Thiago Ferreira,marinavieira@example.org,,,Canoas,RS,Livro,Biografia,3,44.9,134.7,Boleto Bancário,Devolvido,4,Sul
-1109,2025-08-30,343,Sara Novaes,marcelafarias@example.com,,21,Manaus,AM,Beleza,Batom Matte,1,39.9,39.9,Boleto Bancário,Processando,5,Norte
-1409,2025-04-24,164,Nathan Pereira,josesa@example.org,+5561952835669,45,Brasília,DF,Eletrônicos,Tablet,1,999.0,999.0,Boleto Bancário,Devolvido,5,Centro-oeste
-1319,2025-11-02,131,Diego Rocha,martinsmathias@example.org,+5585995166201,,Parintins,AM,Livros,Romance BestSeller,3,39.9,119.7,Boleto Bancário,Em Transporte,4,Norte
-1371,2025-03-22,295,Bárbara Monteiro,joliveira@example.com,+5585968088311,24,Recife,PE,Eletrônicos,Tablet,2,999.0,1998.0,Cartão De Crédito,Processando,4,Nordeste
-1204,2024-12-20,223,Alana Garcia,dsouza@example.org,+5571980934519,60,Parintins,AM,Casa E Decoração,Jogo De Cortinas,4,99.9,399.6,Cartão De Débito,Em Transporte,5,Norte
-1392,2023-05-30,174,Vicente Mendonça,bpimenta@example.org,,18,Ilhéus,BA,Livros,Biografia,1,44.9,44.9,Cartão De Débito,Cancelado,5,Nordeste
-1269,2023-04-29,75,Sra. Aylla Moraes,,+5561966118961,47,Belo Horizonte,MG,Roupas,Jaqueta CortaVento,4,199.9,799.6,Boleto Bancário,Processando,3,Sudeste
-1459,2023-05-25,138,Srta. Sophie Pastor,jesusdiogo@example.com,+5521973584465,67,Manaus,AM,Esporte E Lazer,Tênis De Corrida,1,289.9,289.9,Boleto Bancário,Cancelado,4,Norte
-1249,2025-03-04,182,Ana Liz Albuquerque,leaolaura@example.net,,69,Caxias Do Sul,RS,Livros,Biografia,2,44.9,89.8,Cartão De Débito,Devolvido,4,Sul
-1056,2023-08-07,294,Miguel Mendonça,pietrocastro@example.net,,44,Uberlândia,MG,Livros,Hq Coleção,3,29.9,89.7,Cartão De Crédito,Entregue,0,Sudeste
-1356,2025-04-25,43,,,+5551991758957,64,Duque De Caxias,RJ,Casa E Decoração,Sofá 3 Lugares,2,1899.0,3798.0,Cartão De Crédito,Em Transporte,4,Sudeste
-1032,2023-12-02,45,,pietro93@example.org,,,Blumenau,SC,Casa E Decoração,Jogo De Cortinas,1,99.9,99.9,Nan,Cancelado,1,Sul
-1140,2025-11-11,95,Gael Souza,pereiracamila@example.com,+5541968616496,66,Recife,PE,Livros,Hq Coleção,1,29.9,29.9,Cartão De Crédito,Cancelado,6,Nordeste
-1466,2025-11-30,320,Dr. Samuel Aparecida,guilherme58@example.com,+5579974756643,22,Olinda,PE,Livros,Livro Técnico,3,89.9,269.7,Cartão De Débito,Entregue,4,Nordeste
-1004,2025-06-21,164,Bento Oliveira,,+5511969571417,58,Belo Horizonte,MG,Livros,Hq Coleção,1,29.9,29.9,Cartão De Crédito,Cancelado,4,Sudeste
-1154,2023-08-21,331,Beatriz Rezende,gandrade@example.org,,,Lagarto,SE,Livros,Hq Coleção,2,29.9,59.8,Cartão De Crédito,Entregue,3,Nordeste
-1306,2025-09-24,41,Thales Freitas,freitasmaria-fernanda@example.org,+5585937389126,55,Sorocaba,SP,Casa E Decoração,Jogo De Cortinas,4,99.9,399.6,Boleto Bancário,Processando,3,Sudeste
-1172,2024-07-18,18,Fernanda Melo,pedro-henriqueaparecida@example.com,+5561937104151,29,Porto Alegre,RS,Casa E Decoracao,Mesa De Jantar 6 Lugares,4,899.0,3596.0,Pix,Cancelado,4,Sul
-1366,2023-09-01,32,Yuri Azevedo,lunna08@example.com,+5561934228735,20,Ponta Grossa,PR,Beleza,Creme Facial AntiIdade,1,79.9,79.9,Boleto Bancário,Devolvido,1,Sul
-1436,2023-09-07,187,Antonella Souza,vinicius17@example.com,+5531945885177,64,Brasília,DF,Eletrônicos,Fone De Ouvido Bluetooth,0,149.9,,Cartão De Crédito,Em Transporte,1,Centro-oeste
-1254,2023-04-21,120,Carolina Vasconcelos,yfogaca@example.org,+5585922336764,75,Salvador,BA,EsporteLazer,Halteres 5Kg Par,3,149.9,449.70000000000005,Nan,Em Transporte,10,Nordeste
-1385,2023-02-01,266,Sra. Sophia Leão,sabrinada-rocha@example.net,+5511991742827,,Nossa Senhora Do Socorro,SE,Beleza,Batom Matte,2,39.9,79.8,Pix,Em Transporte,5,Nordeste
-1014,2024-02-13,345,João Gabriel Melo,araujoana-luiza@example.net,+5585983635401,22,Niterói,RJ,Esporte E Lazer,Tênis De Corrida,2,289.9,579.8,Pix,Processando,5,Sudeste
-1403,2023-10-12,190,Esther Martins,catarina36@example.org,+5521916893844,25,Niterói,RJ,Casa E Decoração,Sofá 3 Lugares,2,1899.0,3798.0,Boleto Bancário,Cancelado,5,Sudeste
-1447,2023-06-20,48,Cecília Da Paz,,+5571993202782,74,Fortaleza,CE,Livros,Biografia,3,46.38,139.14,Cartão De Débito,Cancelado,4,Nordeste
-1404,2023-07-11,121,Apollo Fernandes,rodrigosantos@example.org,+5531939974723,71,Parintins,AM,Beleza,Perfume Importado,2,199.9,399.8,Cartão De Crédito,Em Transporte,3,Norte
-1326,2025-03-06,269,Ana Laura Pires,,,21,Caruaru,PE,Beleza,Perfume Importado,4,149.9,799.6,Cartão De Crédito,Entregue,4,Nordeste
-1071,2025-09-13,175,Sofia Das Neves,raulfernandes@example.org,+5531911188424,28,Parintins,AM,Beleza,Shampoo Profissional,2,29.9,59.8,Cartão De Crédito,Cancelado,5,Norte
-1348,2024-03-26,241,Antony Porto,,+5579911888573,51,Canoas,RS,EsporteLazer,Halteres 5Kg Par,1,149.9,149.9,Nan,Entregue,5,Sul
-1095,2024-08-14,175,Breno Pacheco,casa-grandesabrina@example.com,+5561948598086,72,Ponta Grossa,PR,Livros,Biografia,1,44.9,44.9,Cartão De Crédito,Processando,5,Sul
-1089,2025-10-13,33,Laura Vargas,pimentamiguel@example.org,+5561936988132,50,Salvador,BA,Casa E Decoração,Jogo De Cortinas,3,99.9,299.7,Boleto Bancário,Devolvido,5,Nordeste
-1443,2024-01-19,22,Maria Luiza Aragão,mayalima@example.com,+5579994961478,42,Sobral,CE,Esporte E Lazer,Bola De Futebol Oficial,5,89.9,449.5,Cartão De Débito,Entregue,4,Nordeste
-1284,2025-10-14,257,,rodrigueshellena@example.net,+5511941503378,33,Aracaju,SE,Casa E Decoração,Tapete Sala,1,231.28,231.28,Cartão De Débito,Cancelado,5,Nordeste
-1132,2023-02-11,335,Milena Silva,henry-gabriel12@example.com,+5511991357761,33,Londrina,PR,Casa E Decoração,Tapete Sala,1,249.9,249.9,Cartão De Débito,Entregue,5,Sul
-1027,2024-10-25,100,Marcos Vinicius Cassiano,cecilia95@example.com,+5551944135306,30,Contagem,MG,Casa E Decoração,Luminária De Mesa,3,89.9,269.7,Cartão De Crédito,Processando,4,Sudeste
-1075,2024-03-04,34,Emanuel Da Mata,qabreu@example.com,+5581979735565,54,Joinville,SC,Esporte E Lazer,Halteres 5Kg Par,2,149.9,299.8,Cartão De Crédito,Em Transporte,4,Sul
-1063,2024-11-14,4,Otávio Barbosa,arthur-gabriel14@example.org,,,Juazeiro Do Norte,CE,Livros,Livro Técnico,1,89.9,89.9,Cartão De Débito,Devolvido,4,Nordeste
-1273,2023-06-24,302,João Vitor Fogaça,vguerra@example.net,,54,Ribeirão Preto,SP,Roupas,Vestido Casual,3,159.9,479.7,Pix,Em Transporte,2,Sudeste
-1073,2023-02-22,30,Jade Lopes,,+5581935672531,71,Curitiba,PR,Eletrônicos,Câmera Digital,3,1599.0,4797.0,Cartão De Débito,Cancelado,5,Sul
-1282,2023-01-18,89,Kevin Cirino,uandrade@example.org,+5561940161187,22,Joinville,SC,Casa E Decoração,Luminária De Mesa,2,89.9,179.8,Pix,Devolvido,3,Sul
-1463,2024-03-09,184,Sr. Anthony Gabriel Sampaio,maria-clarada-rosa@example.org,+5585931136091,27,Ribeirão Preto,SP,Esporte E Lazer,Bola De Futebol Oficial,2,89.9,179.8,Boleto Bancário,Processando,4,Sudeste
-1088,2023-12-24,112,Igor Sousa,ymonteiro@example.org,,50,Feira De Santana,BA,Beleza,Perfume Importado,1,199.9,199.9,Cartão De Crédito,Processando,1,Nordeste
-1314,2024-10-25,180,Emilly Machado,esterda-costa@example.net,+5561951059235,21,Duque De Caxias,RJ,Beleza,Creme Facial AntiIdade,2,79.9,159.8,Cartão De Débito,Devolvido,2,Sudeste
-1263,2025-04-19,310,Pedro Lucas Rios,novaisisaac@example.com,+5585959928119,68,Rio De Janeiro,RJ,Eletronico,Smart Tv 50Pol,1,2199.0,2199.0,Cartão De Crédito,Em Transporte,4,Sudeste
-1188,2023-10-28,188,Luiz Miguel Machado,,+5511987298491,26,Londrina,PR,Livro,Romance BestSeller,3,39.9,119.7,Cartão De Débito,Em Transporte,4,Sul
-1097,2025-11-14,115,Raquel Gonçalves,castroandre@example.com,+5581997086397,54,Belo Horizonte,MG,Beleza,Batom Matte,1,39.9,39.9,Pix,Devolvido,5,Sudeste
-1271,2024-06-24,273,Luiz Otávio Fernandes,hvasconcelos@example.net,+5585993651935,57,Manaus,AM,Eletrônicos,Smart Tv 50Pol,1,2199.0,2199.0,Cartão De Crédito,Entregue,4,Norte
-1122,2025-11-06,88,Agatha Albuquerque,MARIA-CLARA45@example.net,+5581930399266,67,Florianópolis,SC,Beleza,Batom Matte,3,39.9,119.7,Pix,Processando,3,Sul
-1152,2024-11-11,124,Joaquim Da Costa,alexiapacheco@example.org,+5521937902451,39,Blumenau,SC,Eletrônicos,Câmera Digital,1,1599.0,1599.0,Cartão De Débito,Em Transporte,1,Sul
-1116,2025-12-21,224,Sra. Rebeca Abreu,goncalvessarah@example.com,+5521949263845,41,Fortaleza,CE,Roupa,Vestido Casual,3,159.9,479.7,Boleto Bancário,Processando,5,Nordeste
-1166,2024-12-16,341,Otávio Camargo,guerraemanuella@example.com,,39,Campinas,SP,Esporte E Lazer,Bola De Futebol Oficial,5,89.9,449.5,Boleto Bancário,Entregue,4,Sudeste
-1179,2024-03-03,309,Luiz Henrique Lopes,,+5579912489653,42,Sobral,CE,Livros,Livro Técnico,1,89.9,89.9,Cartão De Crédito,Cancelado,5,Nordeste
-1069,2025-02-18,229,Thiago Novaes,oliviamelo@example.org,+5571982751226,48,Nan,SP,Livros,Romance BestSeller,2,39.9,79.8,Cartão De Débito,Devolvido,4,Sudeste
-1376,2025-05-02,23,Isabel Borges,ayla93@example.com,+5571995132521,49,Jaboatão Dos Guararapes,PE,Eletronico,Smartphone,3,1899.9,5699.7,Boleto Bancário,Processando,5,Nordeste
-1170,2024-01-09,67,,caiomendes@example.com,+5561929647012,21,Jaboatão Dos Guararapes,PE,Esporte E Lazer,Tênis De Corrida,1,289.9,289.9,Pix,Processando,3,Nordeste
-1055,2024-07-11,165,Maria Clara Casa Grande,joao-guilherme73@example.net,+5541911751419,52,Sorocaba,SP,Livros,Hq Coleção,2,29.9,59.8,Nan,Devolvido,4,Sudeste
-1380,2025-03-16,158,Marcela Machado,rochadavi-luiz@example.net,+5585938524619,44,Vitória Da Conquista,BA,Livros,Hq Coleção,5,29.9,149.5,Cartão De Débito,Devolvido,4,Nordeste
-1299,2025-10-04,336,João Guilherme Novaes,iferreira@example.org,,41,Parintins,AM,Roupa,Camiseta Básica,1,49.9,49.9,Pix,Processando,4,Norte
-1058,2025-07-21,203,Luiz Otávio Almeida,maria-cecilia70@example.com,+5531973864627,19,Brasília,DF,Livros,Romance BestSeller,1,50.21,50.21,Cartão De Crédito,Cancelado,2,Centro-oeste
-1363,2023-03-27,89,Lucas Gabriel Câmara,OLIVIANOGUEIRA@example.com,+5585932926494,,Porto Alegre,RS,Casa E Decoração,Tapete Sala,1,249.9,254.71,Pix,Devolvido,4,Sul
-1333,2023-02-22,217,,borgesmaya@example.com,,44,Parintins,AM,Esporte E Lazer,Bicicleta Aro 29,1,899.0,899.0,Cartão De Crédito,Devolvido,1,Norte
-1205,2025-05-27,120,Dra. Milena Cavalcanti,gustavo-henriqueda-luz@example.org,,41,Feira De Santana,BA,Roupas,Vestido Casual,3,159.9,479.7,Pix,Em Transporte,4,Nordeste
-1384,2025-03-14,346,Sr. Leonardo Moraes,henryrezende@example.com,+5521924542551,,Canoas,RS,Livros,Biografia,3,44.9,134.7,Boleto Bancário,Devolvido,4,Sul
-1478,2024-07-07,300,Cecília Da Mata,eda-mata@example.net,+5581968273553,75,Rio De Janeiro,RJ,Beleza,Perfume Importado,3,199.9,599.7,Cartão De Crédito,Cancelado,4,Sudeste
-1267,2025-01-05,199,Ravi Lucca Freitas,rleao@example.org,+5541921527918,,Manaus,AM,Beleza,Shampoo Profissional,4,29.9,119.6,Cartão De Débito,Devolvido,2,Norte
-1136,2024-07-22,302,,luana10@example.net,+5585958035518,41,Caxias Do Sul,RS,Casa E Decoração,Mesa De Jantar 6 Lugares,3,899.0,2697.0,Pix,Em Transporte,5,Sul
-1038,2023-01-31,79,Srta. Pietra Cavalcanti,ovieira@example.com,+5561933384827,31,Nossa Senhora Do Socorro,SE,Eletrônicos,Smartphone,4,1899.9,7599.6,Cartão De Crédito,Entregue,4,Nordeste
-1312,2025-01-27,60,Raquel Azevedo,,+5585950904073,38,Fortaleza,CE,Beleza,Perfume Importado,2,199.9,399.8,Boleto Bancário,Entregue,4,Nordeste
-1280,2025-07-06,212,Carlos Eduardo Ribeiro,brayanleao@example.org,+5579915944385,45,Ribeirão Preto,SP,Esporte E Lazer,Tênis De Corrida,2,289.9,579.8,Boleto Bancário,Entregue,4,Sudeste
-1107,2024-10-03,248,Dra. Joana Guerra,ana-juliamendes@example.net,,41,Manaus,AM,Beleza,Creme Facial AntiIdade,5,79.9,399.5,Cartão De Crédito,Processando,3,Norte
-1173,2025-06-06,236,Eduarda Gomes,JOSUE23@example.net,,61,Juazeiro Do Norte,CE,Beleza,Shampoo Profissional,2,29.9,59.8,Pix,Devolvido,4,Nordeste
-1399,2024-09-19,54,Hellena Jesus,ISABELLY70@example.org,+5511958059265,55,Nossa Senhora Do Socorro,SE,Eletrônicos,Tablet,1,999.0,999.0,Pix,Entregue,5,Nordeste
-1386,2025-05-03,248,Thiago Correia,dcirino@example.net,,47,Feira De Santana,BA,Livros,Hq Coleção,1,29.9,29.9,Pix,Processando,4,Nordeste
-1372,2023-08-23,192,Daniel Garcia,dsales@example.com,+5541988748933,44,Juazeiro Do Norte,CE,Livros,Biografia,5,44.9,224.5,Boleto Bancário,Devolvido,4,Nordeste
-1277,2024-06-20,21,Augusto Correia,xpereira@example.net,,46,Nossa Senhora Do Socorro,SE,Beleza,Creme Facial AntiIdade,1,79.9,79.9,Pix,Em Transporte,4,Nordeste
-1195,2024-11-12,168,Vicente Fogaça,juliapacheco@example.com,+5531990112938,,Nan,RJ,EsporteLazer,Bicicleta Aro 29,1,899.0,899.0,Pix,Devolvido,3,Sudeste
-1240,2024-01-22,165,Mariah Da Conceição,luiz-miguelramos@example.org,+5531919152246,32,Salvador,BA,Livros,Romance BestSeller,1,39.9,39.9,Pix,Entregue,2,Nordeste
-1265,2023-08-27,36,Nina Casa Grande,fda-cruz@example.org,+5561966138102,55,Nossa Senhora Do Socorro,SE,Eletrônicos,Smartphone,2,1899.9,3799.8,Cartão De Débito,Cancelado,4,Nordeste
-1162,2025-12-16,122,Daniela Porto,rezendeluan@example.com,+5531930361718,43,Pelotas,RS,Livros,Hq Coleção,1,29.9,29.9,Pix,Processando,3,Sul
-1012,2024-05-09,258,Samuel Leão,rioseduardo@example.net,+5561973816343,57,Florianópolis,SC,Roupa,Tênis Esportivo,1,219.9,219.9,Cartão De Crédito,Em Transporte,10,Sul
-1297,2024-01-09,340,Rael Da Paz,duartevinicius@example.com,,33,Itabaiana,SE,Roupas,Vestido Casual,5,159.9,799.5,Pix,Devolvido,4,Nordeste
-1293,2023-12-14,104,Luiz Miguel Ramos,laramendes@example.com,+5581937948375,,Nossa Senhora Do Socorro,SE,Eletrônicos,Fone De Ouvido Bluetooth,1,149.9,149.9,Cartão De Débito,Devolvido,3,Nordeste
-1479,2023-07-12,254,Luiz Henrique Nunes,bernardonovais@example.org,+5585912584008,24,Joinville,SC,Eletrônicos,Fone De Ouvido Bluetooth,2,149.9,299.8,Pix,Processando,5,Sul
-1465,2024-11-23,33,Luiz Otávio Souza,,+5521945404969,43,Olinda,PE,Esporte E Lazer,Bola De Futebol Oficial,1,65.53,65.53,Pix,Cancelado,4,Nordeste
-1290,2025-10-14,310,Sara Marques,caua00@example.org,+5581944798200,60,Manaus,AM,Roupas,Calça Jeans,2,129.9,259.8,Pix,Devolvido,4,Norte
-1442,2023-03-03,54,Sr. Yuri Freitas,,+5579959719080,69,Vitória Da Conquista,BA,Casa E Decoração,Jogo De Cortinas,2,99.9,199.8,Cartão De Débito,Processando,4,Nordeste
-1141,2025-10-02,229,Lucas Gabriel Pimenta,da-luzanna-liz@example.com,+5551942369873,34,Jaboatão Dos Guararapes,PE,Casa E Decoração,Luminária De Mesa,3,89.9,269.7,Cartão De Débito,Cancelado,4,Nordeste
-1082,2024-03-17,151,Mariane Siqueira,sabrinasa@example.net,,27,Sobral,CE,Livros,Hq Coleção,1,29.9,29.9,Pix,Processando,3,Nordeste
-1301,2024-07-19,8,Miguel Martins,thomaspastor@example.org,+5511964811246,,Nan,PR,Beleza,Shampoo Profissional,4,29.9,119.6,Cartão De Débito,Devolvido,5,Sul
-1413,2024-10-31,273,Sra. Aurora Câmara,jose64@example.com,,66,Florianópolis,SC,Beleza,Batom Matte,1,39.9,39.9,Boleto Bancário,Devolvido,3,Sul
-1015,2024-05-02,208,Melissa Da Paz,wrios@example.org,,35,Itabaiana,SE,Livros,Biografia,1,44.9,44.9,Pix,Entregue,5,Nordeste
-1453,2023-12-05,119,Cecilia Da Rosa,sofia03@example.org,+5561954066651,32,Joinville,SC,Beleza,Batom Matte,5,39.9,199.5,Boleto Bancário,Devolvido,3,Sul
-1200,2025-05-27,245,Bento Nascimento,guerramarcelo@example.org,,63,Santos,SP,Esporte E Lazer,Halteres 5Kg Par,1,149.9,149.9,Cartão De Crédito,Em Transporte,4,Sudeste
-1021,2023-05-14,174,Anthony Gabriel Mendonça,viniciusda-paz@example.org,,69,Caruaru,PE,Casa E Decoração,Mesa De Jantar 6 Lugares,2,899.0,1798.0,Cartão De Crédito,Em Transporte,1,Nordeste
-1029,2023-01-24,69,Diego Caldeira,vinicius72@example.net,+5561994809074,,Campinas,,EsporteLazer,Bola De Futebol Oficial,1,89.9,89.9,Cartão De Débito,Cancelado,5,
-1010,2025-05-05,9,Letícia Moura,ufernandes@example.com,+5511936455290,37,Florianópolis,SC,Casa E Decoração,Sofá 3 Lugares,2,1899.0,3798.0,Boleto Bancário,Processando,4,Sul
-1451,2025-10-05,126,Daniela Guerra,ARAUJOBIANCA@example.net,,22,Juiz De Fora,MG,Livros,Hq Coleção,1,29.9,29.9,Cartão De Crédito,Entregue,4,Sudeste
-1424,2025-03-22,304,Milena Moraes,rochanoah@example.com,+5585999477012,64,Olinda,PE,Livros,Hq Coleção,4,29.9,119.6,Cartão De Débito,Em Transporte,4,Nordeste
-1167,2025-02-26,173,Davi Lucca Albuquerque,novaesjoao-miguel@example.net,+5579940729016,55,Belo Horizonte,MG,Roupa,Tênis Esportivo,1,219.9,219.9,Cartão De Débito,Cancelado,10,Sudeste
-1448,2024-05-30,195,Sra. Maitê Azevedo,qalbuquerque@example.org,+5521991379757,44,Brasília,DF,Livros,Livro Técnico,2,149.9,179.8,Cartão De Crédito,Processando,5,Centro-oeste
-1352,2025-02-18,159,Alexia Fonseca,mouramarcelo@example.org,,52,Florianópolis,SC,Livros,Biografia,1,44.9,44.9,Pix,Processando,5,Sul
-1298,2025-11-11,269,Eduarda Pastor,da-pazjoao-miguel@example.net,+5581944785426,36,Santos,SP,Roupas,Calça Jeans,1,129.9,129.9,Boleto Bancário,Devolvido,4,Sudeste
-1020,2023-12-08,95,Dom Barros,kevinda-conceicao@example.net,+5531972286843,,Blumenau,SC,Esporte E Lazer,Tênis De Corrida,2,289.9,579.8,Cartão De Débito,Entregue,4,Sul
-1081,2025-01-02,209,Clarice Da Paz,,+5541996147794,19,Maringá,PR,Casa E Decoração,Luminária De Mesa,2,89.9,179.8,Cartão De Débito,Entregue,4,Sul
-1389,2024-04-14,210,Alice Rios,costaluiz-fernando@example.com,+5551992703786,19,São Paulo,SP,Eletrônicos,Smart Tv 50Pol,3,2199.0,6597.0,Boleto Bancário,Entregue,4,Sudeste
-1060,2023-12-29,348,João Da Mata,vasconcelosluiz-miguel@example.com,+5581991975865,36,Fortaleza,CE,Beleza,Batom Matte,3,45.12,135.35999999999999,Pix,Cancelado,4,Nordeste
-1374,2025-07-06,272,Luna Abreu,cgarcia@example.com,,44,Sobral,CE,Casa E Decoração,Jogo De Cortinas,3,99.9,299.7,Pix,Entregue,4,Nordeste
-1393,2025-10-04,125,Alice Rodrigues,,+5531992647870,38,Parintins,AM,Livro,Biografia,1,44.9,44.9,Não Informado,Em Transporte,2,Norte
-1345,2024-03-31,182,Felipe Aparecida,josue77@example.net,,21,Recife,PE,Eletrônicos,Notebook,2,3299.0,16495.0,Pix,Devolvido,2,Nordeste
-1146,2023-06-26,158,,thalesjesus@example.org,,49,Juiz De Fora,MG,Beleza,Perfume Importado,2,199.9,399.8,Pix,Devolvido,4,Sudeste
-1207,2025-02-14,201,Maya Rodrigues,ana-carolina31@example.net,+5521992771280,57,Manaus,AM,Livros,Romance BestSeller,3,39.9,119.7,Cartão De Crédito,Entregue,1,Norte
-1379,2024-11-21,232,Marina Gomes,cfogaca@example.net,,38,Ilhéus,BA,Roupas,Tênis Esportivo,4,219.9,879.6,Boleto Bancário,Processando,3,Nordeste
-1033,2024-04-19,252,Heloísa Costa,UFOGACA@example.org,+5585927136351,74,Manaus,AM,Livros,Biografia,2,44.9,89.8,Boleto Bancário,Devolvido,4,Norte
-1178,2025-11-07,119,Natália Cavalcanti,gguerra@example.org,+5551934381146,41,Joinville,SC,Casa E Decoração,Mesa De Jantar 6 Lugares,2,899.0,1798.0,Cartão De Débito,Devolvido,4,Sul
-1196,2025-03-28,260,Catarina Costela,maria-laura22@example.org,+5579970378119,45,Fortaleza,CE,Eletrônicos,Smartphone,3,1899.9,5699.7,Cartão De Débito,Entregue,4,Nordeste
-1467,2023-03-11,283,Brenda Andrade,thomasfogaca@example.org,+5511911448038,29,Nan,SC,Livro,Biografia,2,44.9,89.8,Pix,Processando,4,Sul
-1194,2025-07-23,231,Ana Clara Almeida,abreudaniela@example.com,+5541911928915,28,Juiz De Fora,MG,Esporte E Lazer,Bicicleta Aro 29,2,899.0,1798.0,Pix,Devolvido,4,Sudeste
-1431,2025-01-14,39,Yan Lima,leonardopeixoto@example.com,+5541967485301,48,Nossa Senhora Do Socorro,SE,Esporte E Lazer,Bola De Futebol Oficial,2,89.9,179.8,Pix,Cancelado,5,Nordeste
-1031,2023-06-09,323,,RAFAELA52@example.com,,62,Parintins,AM,Livros,Romance BestSeller,2,39.9,79.8,Cartão De Débito,Entregue,5,Norte
-1148,2024-01-03,157,Bryan Costela,leaomelina@example.net,,32,Juazeiro Do Norte,CE,Roupa,Camiseta Básica,2,49.9,99.8,Cartão De Crédito,Em Transporte,4,Nordeste
-1084,2024-03-08,306,Luiz Miguel Caldeira,jmachado@example.org,+5551925604303,60,Caxias Do Sul,RS,Eletrônicos,Câmera Digital,4,1599.0,6396.0,Cartão De Débito,Devolvido,5,Sul
-1412,2023-08-21,247,Sr. Cauê Azevedo,melissa43@example.org,,35,Manaus,AM,Esporte E Lazer,Halteres 5Kg Par,3,149.9,449.7,Cartão De Crédito,Cancelado,5,Norte
-1096,2023-11-06,314,Sr. Thomas Da Mota,santosemanuella@example.org,+5579984993273,55,,SE,Beleza,Batom Matte,4,39.9,159.6,Boleto Bancário,Em Transporte,4,Nordeste
-1128,2024-08-27,270,Gael Da Conceição,qcamara@example.com,,,,PR,Livros,Biografia,5,44.9,224.5,Boleto Bancário,Entregue,4,Sul
-1246,2025-03-08,209,Renan Moraes,portoester@example.net,+5579970258558,73,Juiz De Fora,MG,Eletrônicos,Smartphone,1,1899.9,1899.9,Boleto Bancário,Em Transporte,5,Sudeste
-1215,2025-06-17,163,Srta. Ana Luiza Pastor,,+5511983703193,65,Fortaleza,CE,Esporte E Lazer,Bicicleta Aro 29,2,899.0,1798.0,Pix,Entregue,5,Nordeste
-1070,2024-11-18,68,,fribeiro@example.net,,54,Brasília,DF,Roupas,Calça Jeans,3,129.9,389.7,Cartão De Crédito,Em Transporte,4,Centro-oeste
-1009,2024-11-23,342,,theo23@example.org,,75,Feira De Santana,BA,Esporte E Lazer,Tênis De Corrida,2,289.9,502.08,Cartão De Débito,Entregue,5,Nordeste
-1222,2025-11-09,46,João Pedro Cavalcante,habreu@example.org,+5585944223382,40,Aracaju,SE,Eletrônicos,Câmera Digital,4,149.9,8428.81,Boleto Bancário,Devolvido,4,Nordeste
-1057,2025-12-24,284,Sophie Guerra,laura35@example.com,,47,Santos,SP,Livros,Romance BestSeller,3,39.9,119.7,Boleto Bancário,Devolvido,4,Sudeste
-1475,2023-12-15,51,Sra. Luísa Oliveira,wgomes@example.com,+5531971004134,48,Curitiba,PR,Eletrônicos,Smart Tv 50Pol,0,2469.14,,Cartão De Débito,Cancelado,4,Sul
-1300,2024-02-24,319,,ravi-luccadas-neves@example.net,+5571966354587,45,Parintins,AM,Casa E Decoração,Tapete Sala,4,249.9,999.6,Pix,Processando,4,Norte
-1006,2025-09-06,313,Lorena Novais,GUSTAVOPACHECO@example.net,,,Sorocaba,SP,Esporte E Lazer,Halteres 5Kg Par,1,149.9,149.9,Boleto Bancário,Entregue,4,Sudeste
-1275,2025-05-05,333,Sr. Liam Silva,jose-miguel91@example.org,+5521961154791,43,Londrina,PR,Eletrônicos,Notebook,4,3299.0,13196.0,Cartão De Débito,Processando,4,Sul
-1438,2025-05-02,144,José Rezende,,+5585944496365,55,Nossa Senhora Do Socorro,SE,Eletrônicos,Notebook,1,3299.0,3299.0,Boleto Bancário,Devolvido,10,Nordeste
-1219,2024-05-20,72,Dr. João Miguel Aragão,aurora98@example.com,,,São Paulo,SP,Roupas,Jaqueta CortaVento,1,199.9,199.9,Boleto Bancário,Entregue,3,Sudeste
-1332,2024-11-07,73,Emilly Carvalho,rebecavargas@example.org,,29,Feira De Santana,BA,Beleza,Batom Matte,2,39.9,79.8,Pix,Em Transporte,5,Nordeste
-1214,2024-08-29,254,Arthur Aparecida,,+5521915365885,34,Juiz De Fora,MG,Esporte E Lazer,Halteres 5Kg Par,2,149.9,299.8,Cartão De Débito,Em Transporte,5,Sudeste
-1176,2023-07-20,49,Maria Julia Ribeiro,maite87@example.org,+5581919073383,40,Juazeiro Do Norte,CE,Esporte E Lazer,Bicicleta Aro 29,2,899.0,1798.0,Pix,Devolvido,5,Nordeste
-1239,2025-12-16,287,Maria Luiza Abreu,lorenasampaio@example.net,+5585975229173,56,Lagarto,SE,Casa E Decoração,Jogo De Cortinas,3,99.9,299.7,Cartão De Crédito,Processando,4,Nordeste
-1278,2023-05-04,313,Theodoro Nogueira,,,46,Contagem,MG,Casa E Decoração,Mesa De Jantar 6 Lugares,2,832.94,1665.88,Pix,Devolvido,4,Sudeste
-1181,2025-12-19,196,Dra. Anna Liz Aragão,,,72,Brasília,DF,Eletrônicos,Fone De Ouvido Bluetooth,5,149.9,749.5,Cartão De Débito,Processando,4,Centro-oeste
-1111,2024-04-21,332,Sr. Liam Da Costa,valentim93@example.org,+5531945215358,57,Contagem,MG,Casa E Decoração,Luminária De Mesa,1,89.9,89.9,Boleto Bancário,Em Transporte,4,Sudeste
-1160,2023-06-22,329,Dr. Marcelo Cirino,eduardo30@example.com,,48,Contagem,MG,Roupas,Camiseta Básica,1,49.9,49.9,Pix,Cancelado,4,Sudeste
-1323,2025-02-04,264,Clara Macedo,vitorleao@example.com,+5551928871635,71,Sorocaba,SP,Esporte E Lazer,Bola De Futebol Oficial,1,89.9,89.9,Boleto Bancário,Cancelado,5,Sudeste
-1147,2025-11-07,244,Ana Beatriz Mendes,lorenzo61@example.org,+5579952418999,26,Itabaiana,SE,Livros,Hq Coleção,2,149.9,29.9,Pix,Entregue,3,Nordeste
-1059,2024-10-05,180,Dr. Théo Azevedo,vianaraul@example.org,+5551986524935,42,Fortaleza,CE,Livros,Livro Técnico,1,89.9,89.9,Pix,Cancelado,4,Nordeste
-1364,2024-06-06,307,Maria Laura Albuquerque,luan35@example.net,+5521965919556,34,Parintins,AM,Beleza,Creme Facial AntiIdade,2,79.9,159.8,Boleto Bancário,Devolvido,5,Norte
-1224,2023-02-28,159,Thales Pastor,olivia49@example.org,+5511911959570,54,Recife,PE,Eletrônicos,Smartphone,1,1899.9,2099.69,Cartão De Crédito,Em Transporte,4,Nordeste
-1150,2024-07-22,289,Isabela Souza,,+5581959005502,51,Manaus,AM,Beleza,Creme Facial AntiIdade,1,79.9,79.9,Pix,Em Transporte,3,Norte
-1362,2024-03-14,248,Dr. Yan Da Rosa,tmelo@example.org,,72,Jaboatão Dos Guararapes,PE,Esporte E Lazer,Bicicleta Aro 29,2,899.0,1798.0,Cartão De Crédito,Entregue,4,Nordeste
-1295,2024-05-15,224,Lívia Pereira,cassianoana-luiza@example.net,+5511981355056,28,Sobral,CE,Esporte E Lazer,Halteres 5Kg Par,3,149.9,404.18,Cartão De Crédito,Processando,5,Nordeste
-1100,2025-08-24,226,Srta. Lavínia Da Cunha,davi-lucca66@example.net,+5531910807427,65,Rio De Janeiro,RJ,Livros,Livro Técnico,3,89.9,269.7,Boleto Bancário,Devolvido,4,Sudeste
-1446,2024-07-06,242,Esther Cunha,andre09@example.net,+5581939257751,72,Sobral,CE,Esporte E Lazer,Bola De Futebol Oficial,1,89.9,89.9,Boleto Bancário,Devolvido,2,Nordeste
-1238,2025-07-17,34,Hellena Montenegro,maria-fernanda02@example.com,,43,Itabaiana,SE,Esporte E Lazer,Bicicleta Aro 29,2,899.0,1798.0,Boleto Bancário,Em Transporte,5,Nordeste
-1315,2024-03-21,92,Erick Andrade,clarice08@example.org,+5585975541171,30,Juazeiro Do Norte,CE,Esporte E Lazer,Tênis De Corrida,1,289.9,289.9,Cartão De Débito,Devolvido,1,Nordeste
-1030,2024-04-20,245,Gustavo Moura,juan80@example.net,+5571918605357,51,Manaus,AM,Livros,Hq Coleção,2,29.9,59.8,Boleto Bancário,Cancelado,4,Norte
-1076,2023-08-11,108,Dr. Joaquim Andrade,pedro-henrique52@example.org,,60,Parintins,AM,Eletronicos,Smart Tv 50Pol,2,2199.0,4398.0,Cartão De Débito,Entregue,4,Norte
-1193,2024-06-23,255,Maria Vitória Moraes,calebe27@example.org,+5511957741824,59,Belo Horizonte,MG,Roupas,Calça Jeans,4,129.9,519.6,Pix,Entregue,1,Sudeste
-1434,2025-06-25,140,Enrico Duarte,kmartins@example.com,+5581929616002,54,Pelotas,RS,Livros,Biografia,4,44.9,179.6,Boleto Bancário,Processando,4,Sul
-1426,2024-12-24,320,José Pedro Cavalcanti,ravynogueira@example.com,+5571956018528,71,Juazeiro Do Norte,CE,Casa E Decoração,Jogo De Cortinas,1,99.9,99.9,Pix,Processando,4,Nordeste
-1034,2024-05-02,168,João Lucas Melo,mathias95@example.com,+5521950566350,30,Fortaleza,CE,Livros,Biografia,2,44.9,89.8,Pix,Em Transporte,3,Nordeste
-1127,2023-06-04,135,João Vitor Sousa,costelamaya@example.org,,25,Brasília,DF,Roupas,Tênis Esportivo,2,219.9,629.01,Pix,Cancelado,4,Centro-oeste
-1330,2024-09-18,68,Cecilia Macedo,vieirasara@example.com,+5579913452774,48,Londrina,PR,Eletrônicos,Smart Tv 50Pol,4,2199.0,8796.0,Cartão De Crédito,Processando,4,Sul
-1357,2025-07-05,50,Daniel Das Neves,lucas-gabriel10@example.net,+5551940934117,42,Olinda,PE,Beleza,Shampoo Profissional,2,29.9,59.8,Boleto Bancário,Processando,3,Nordeste
-1292,2025-07-11,215,Ana Liz Dias,luna72@example.org,+5585967868500,24,Uberlândia,MG,Beleza,Batom Matte,1,39.9,39.9,Cartão De Débito,Entregue,5,Sudeste
-1022,2024-04-24,167,Otto Nascimento,antonella28@example.net,+5511958155813,34,Contagem,MG,Eletrônicos,Smartphone,1,1899.9,1899.9,Boleto Bancário,Entregue,2,Sudeste
-1411,2024-06-28,160,Anthony Gabriel Gomes,salesluiz-gustavo@example.org,+5511928794585,64,Jaboatão Dos Guararapes,PE,Roupas,Calça Jeans,4,127.36,402.75,Cartão De Crédito,Entregue,3,Nordeste
-1213,2025-08-20,2,Cauê Pinto,catarinacasa-grande@example.net,,22,,AM,Casa E Decoração,Mesa De Jantar 6 Lugares,5,899.0,4495.0,Pix,Processando,4,Norte
-1309,2023-04-06,113,Hadassa Da Luz,leticia17@example.net,+5585978629344,22,Uberlândia,MG,Casa E Decoração,Mesa De Jantar 6 Lugares,2,899.0,1822.44,Boleto Bancário,Entregue,4,Sudeste
-1145,2024-07-22,345,Srta. Isabela Duarte,maria-clara59@example.org,+5585941648203,73,Parintins,AM,Roupas,Camiseta Básica,1,49.9,49.9,Boleto Bancário,Cancelado,1,Norte
-1144,2024-01-13,183,Caroline Monteiro,antonysousa@example.com,+5581925455320,42,Londrina,PR,Roupas,Jaqueta CortaVento,4,199.9,799.6,Boleto Bancário,Entregue,5,Sul
-1005,2024-04-01,186,Catarina Da Rocha,icasa-grande@example.org,+5531949227564,40,Belo Horizonte,MG,Beleza,Batom Matte,4,39.9,159.6,Pix,Em Transporte,3,Sudeste
-1421,2023-06-28,194,Ana Julia Da Cruz,andradeantonella@example.org,+5531948641079,,Parintins,AM,Eletrônicos,Câmera Digital,1,1599.0,1599.0,Boleto Bancário,Processando,3,Norte
-1279,2024-05-16,15,Antonella Cunha,riosmaria-cecilia@example.net,+5585963006447,18,Florianópolis,SC,Casa E Decoração,Jogo De Cortinas,1,99.9,99.9,Cartão De Crédito,Processando,4,Sul
-1247,2025-02-05,161,Dr. Rafael Costela,heloisamoraes@example.org,+5521957641220,43,Blumenau,SC,Eletrônicos,Câmera Digital,3,1599.0,4797.0,Pix,Processando,4,Sul
-1251,2025-01-10,149,Valentina Câmara,NMARTINS@example.org,+5585968202101,48,Caxias Do Sul,RS,Livros,Romance BestSeller,1,39.9,39.9,Cartão De Crédito,Cancelado,3,Sul
-1008,2025-09-06,288,Gustavo Monteiro,uvasconcelos@example.com,,60,São Paulo,SP,Livros,Biografia,2,44.9,89.8,Boleto Bancário,Processando,4,Sudeste
-1054,2024-02-19,226,Kevin Viana,vasconcelosleonardo@example.net,,55,Recife,PE,Beleza,Shampoo Profissional,3,29.9,89.7,Cartão De Débito,Cancelado,4,Nordeste
-1268,2024-08-17,68,Luiz Miguel Porto,almeidacaleb@example.net,+5585953373275,20,Rio De Janeiro,RJ,Casa E Decoração,Sofá 3 Lugares,1,1899.0,1899.0,Boleto Bancário,Entregue,4,Sudeste
-1281,2024-05-07,318,Alice Freitas,ana-luizanovais@example.net,+5521986764703,26,Parintins,AM,Livros,Romance BestSeller,1,39.9,39.9,Boleto Bancário,Em Transporte,4,Norte
-1432,2023-08-12,157,Gabrielly Camargo,apollo57@example.org,+5585917245146,51,Sobral,CE,Esporte E Lazer,Bicicleta Aro 29,4,899.0,3596.0,Pix,Cancelado,3,Nordeste
-1302,2023-07-22,129,Natália Nogueira,,,55,Salvador,BA,Roupas,Camiseta Básica,1,49.9,49.9,Cartão De Crédito,Em Transporte,5,Nordeste
-1365,2025-10-12,326,Dr. João Gabriel Da Paz,ana-carolinaaraujo@example.org,,26,Feira De Santana,BA,Esporte E Lazer,Tênis De Corrida,0,289.9,,Cartão De Crédito,Entregue,3,Nordeste
-1206,2025-05-27,147,Ana Carolina Campos,vinicius04@example.net,+5511944243554,49,Brasília,DF,Beleza,Batom Matte,2,39.9,79.8,Boleto Bancário,Devolvido,4,Centro-oeste
-1272,2024-03-19,180,João Miguel Lopes,lavinia48@example.org,+5581992563808,51,Ponta Grossa,PR,Beleza,Creme Facial AntiIdade,1,79.9,79.9,Cartão De Crédito,Em Transporte,4,Sul
-1121,2023-01-12,225,Brayan Da Rosa,hellenada-luz@example.org,+5531994653874,55,Sorocaba,SP,Roupas,Tênis Esportivo,2,219.9,439.8,Cartão De Crédito,Entregue,4,Sudeste
-1402,2023-03-05,18,Ana Luiza Campos,jferreira@example.org,+5561982169843,24,Niterói,RJ,Eletrônicos,Câmera Digital,1,1599.0,1599.0,Boleto Bancário,Entregue,5,Sudeste
-1350,2025-02-17,268,Dr. Isaque Farias,znunes@example.com,+5579946879744,70,Canoas,RS,Livros,Livro Técnico,2,89.9,179.8,Pix,Processando,5,Sul
-1335,2023-10-15,244,Vicente Jesus,moreiracecilia@example.com,+5541949609336,63,Lagarto,SE,Roupas,Vestido Casual,4,159.9,639.6,Boleto Bancário,Em Transporte,4,Nordeste
-1327,2023-08-27,54,Guilherme Fonseca,pda-luz@example.org,,63,Santos,SP,Roupas,Camiseta Básica,1,49.9,49.9,Boleto Bancário,Entregue,5,Sudeste
-1343,2023-10-14,34,Antony Brito,,+5585980872788,40,Pelotas,RS,Casa E Decoração,Tapete Sala,2,249.9,499.8,Boleto Bancário,Entregue,5,Sul
-1472,2025-10-02,275,Breno Cirino,kmelo@example.net,,36,Manaus,AM,Roupas,Tênis Esportivo,2,219.9,439.8,Pix,Cancelado,0,Norte
-1368,2023-03-31,177,Srta. Maria Vitória Fernandes,joao-lucas39@example.net,+5579923822857,65,Pelotas,RS,Casa E Decoração,Tapete Sala,2,249.9,499.8,Cartão De Débito,Entregue,5,Sul
-1417,2024-01-14,29,Asafe Guerra,pereiralorenzo@example.com,+5561961344578,55,Fortaleza,CE,Roupas,Vestido Casual,3,159.9,479.7,Cartão De Débito,Em Transporte,4,Nordeste
-1398,2024-10-22,97,Otto Pereira,maya13@example.net,+5541914374445,29,Santos,SP,Beleza,Perfume Importado,2,199.9,399.8,Boleto Bancário,Devolvido,5,Sudeste
-1287,2024-01-29,337,Davi Borges,joaquimcardoso@example.com,+5579949233981,66,Fortaleza,CE,Casa E Decoração,Luminária De Mesa,4,89.9,359.6,Pix,Em Transporte,5,Nordeste
-1351,2025-09-18,282,Ana Júlia Duarte,clariceda-cruz@example.com,+5571960557304,72,Manaus,AM,Livros,Livro Técnico,2,149.9,220.09,Cartão De Débito,Processando,5,Norte
-1229,2024-07-15,80,Isabel Marques,sophiapeixoto@example.net,,19,Jaboatão Dos Guararapes,PE,Eletrônicos,Câmera Digital,2,1599.0,3198.0,Cartão De Crédito,Cancelado,4,Nordeste
-1394,2024-01-23,276,Arthur Gabriel Da Mata,pachecodavi-lucas@example.com,,21,Niterói,RJ,Casa E Decoração,Tapete Sala,3,249.9,749.7,Cartão De Débito,Em Transporte,4,Sudeste
-1028,2023-09-04,323,Danilo Mendonça,emendes@example.com,+5581910291553,44,Maringá,PR,Casa E Decoração,Jogo De Cortinas,2,99.9,199.8,Pix,Cancelado,4,Sul
-1440,2025-04-23,163,Vinicius Rodrigues,gustavoviana@example.net,+5571938719163,22,Parintins,AM,Roupas,Jaqueta CortaVento,2,199.9,207.18,Cartão De Débito,Cancelado,1,Norte
-1242,2025-02-09,39,Dra. Eduarda Da Cunha,dmendes@example.org,,71,Florianópolis,SC,Beleza,Perfume Importado,4,199.9,799.6,Pix,Entregue,1,Sul
-1087,2024-05-18,246,Dra. Olívia Da Cunha,da-luzravy@example.net,,33,Itabaiana,SE,Casa E Decoração,Sofá 3 Lugares,1,1899.0,1899.0,Pix,Devolvido,4,Nordeste
-1153,2025-07-07,49,Sr. Miguel Da Cunha,nataliamoura@example.org,+5511913448948,52,Vitória Da Conquista,BA,Casa E Decoração,Luminária De Mesa,0,89.9,,Pix,Devolvido,3,Nordeste
-1420,2025-11-18,92,Pedro Henrique Rios,alexandre14@example.org,,44,Contagem,MG,Beleza,Perfume Importado,2,199.9,399.8,Cartão De Crédito,Processando,4,Sudeste
-1286,2025-01-06,136,,ARTHURLIMA@example.org,+5531955067893,51,Belo Horizonte,MG,Roupas,Calça Jeans,2,129.9,259.8,Cartão De Débito,Processando,4,Sudeste
-1093,2023-07-05,185,Gabriela Das Neves,meloarthur-gabriel@example.com,,48,Parintins,AM,Casa E Decoração,Luminária De Mesa,2,91.65,183.3,Pix,Devolvido,4,Norte
-1285,2025-11-05,318,Daniela Melo,gnovaes@example.org,+5511998499108,58,Londrina,,Esporte E Lazer,Bola De Futebol Oficial,3,89.9,269.7,,Processando,3,
-1405,2024-10-12,172,Gael Henrique Da Mata,luisamartins@example.org,+5581944057880,71,Uberlândia,MG,Eletronicos,Notebook,1,3299.0,3299.0,Cartão De Crédito,Entregue,5,Sudeste
-1257,2024-09-10,225,Antonella Ribeiro,leandro46@example.org,+5561980725367,46,Sorocaba,SP,Beleza,Shampoo Profissional,1,29.9,29.9,Pix,Devolvido,4,Sudeste
-1415,2025-12-27,120,Dr. Noah Alves,zda-cruz@example.com,,24,Recife,PE,Eletrônicos,Smart Tv 50Pol,3,2199.0,6597.0,Cartão De Débito,Em Transporte,1,Nordeste
-1143,2023-01-05,150,Nina Vasconcelos,qvieira@example.com,+5561933517256,47,Joinville,SC,Casa E Decoração,Sofá 3 Lugares,5,1899.0,9495.0,Boleto Bancário,Cancelado,4,Sul
-1101,2023-05-01,246,Luiz Miguel Lima,CALEBE41@example.org,+5561998062271,47,Rio De Janeiro,RJ,Roupas,Calça Jeans,1,129.9,129.9,Boleto Bancário,Devolvido,4,Sudeste
-1469,2025-10-28,269,Brenda Barbosa,leo28@example.com,+5571963466695,49,Feira De Santana,BA,Esporte E Lazer,Bola De Futebol Oficial,1,89.9,89.9,Boleto Bancário,Processando,4,Nordeste
-1383,2024-04-18,179,,cavalcanteeloa@example.com,,74,Juazeiro Do Norte,CE,Casa E Decoração,Jogo De Cortinas,1,149.9,99.9,Pix,Processando,4,Nordeste
-1264,2024-12-07,115,Isabel Carvalho,jmonteiro@example.org,,19,Curitiba,PR,Livros,Livro Técnico,3,89.9,269.7,Cartão De Crédito,Cancelado,3,Sul
-1455,2025-02-17,143,Maria Vitória Fonseca,lunnagoncalves@example.com,+5561922408322,23,Manaus,AM,Livros,Hq Coleção,4,29.9,119.6,Boleto Bancário,Processando,3,Norte
-1002,2024-04-12,161,Sr. Thiago Cunha,BORGESLUARA@example.com,+5581934909011,53,Canoas,RS,CasaDecoração,Tapete Sala,1,249.9,249.9,Pix,Entregue,4,Sul
-1026,2024-04-26,216,Dom Nascimento,fonsecabenjamim@example.org,+5541927542099,46,Itabaiana,SE,Livros,Hq Coleção,2,29.9,59.8,Cartão De Débito,Entregue,5,Nordeste
-1151,2024-02-02,314,João Felipe Freitas,vicente37@example.org,,43,Feira De Santana,BA,Beleza,Shampoo Profissional,2,29.9,59.8,Cartão De Débito,Devolvido,4,Nordeste
-1113,2024-06-22,214,Theo Da Mota,jose88@example.net,,19,Parintins,AM,Casa E Decoração,Tapete Sala,1,249.9,249.9,Boleto Bancário,Processando,3,Norte
-1040,2024-07-10,146,Enzo Gabriel Cardoso,cassianomaria-flor@example.net,+5531961955902,20,Maringá,PR,Livros,Biografia,4,44.9,179.6,Cartão De Débito,Devolvido,4,Sul
-1477,2024-03-31,270,Raul Pereira,piresjoao-vitor@example.net,+5579995474613,55,Duque De Caxias,RJ,Beleza,Creme Facial AntiIdade,5,79.9,399.5,Cartão De Débito,Cancelado,3,Sudeste
-1105,2023-01-21,176,Cecilia Ramos,maria-vitoria08@example.org,+5571953093959,21,Olinda,PE,Eletrônicos,Smart Tv 50Pol,1,2199.0,2199.0,Pix,Em Transporte,4,Nordeste
-1198,2023-04-03,165,Murilo Da Luz,,,23,Olinda,PE,Eletronicos,Tablet,2,999.0,1998.0,Cartão De Débito,Devolvido,0,Nordeste
-1078,2024-02-11,199,Caleb Da Luz,,+5541963148248,18,Ponta Grossa,PR,Roupas,Camiseta Básica,2,49.9,99.8,Cartão De Débito,Devolvido,4,Sul
-1255,2025-04-17,58,Marcos Vinicius Rodrigues,LETICIA27@example.org,,30,Fortaleza,CE,Esporte E Lazer,Halteres 5Kg Par,1,149.9,149.9,Cartão De Crédito,Processando,4,Nordeste
-1316,2025-06-01,116,,GARAUJO@example.org,+5585940225397,,Feira De Santana,BA,Livros,Livro Técnico,1,89.9,89.9,Boleto Bancário,Em Transporte,0,Nordeste
-1470,2023-06-16,9,Maria Helena Casa Grande,stephany47@example.org,+5579979876493,68,Duque De Caxias,,Beleza,Perfume Importado,3,199.9,599.7,Boleto Bancário,Devolvido,1,
-1174,2023-07-26,175,Asafe Novais,riosayla@example.org,,42,Porto Alegre,RS,Casa E Decoração,Tapete Sala,3,249.9,749.7,Pix,Entregue,10,Sul
-1164,2023-02-15,71,Maria Alice Leão,xalmeida@example.com,,66,Joinville,SC,Esporte E Lazer,Bola De Futebol Oficial,2,89.9,179.8,Cartão De Crédito,Em Transporte,3,Sul
-1245,2023-08-06,317,Guilherme Moreira,guilherme97@example.net,+5541923317511,22,Florianópolis,SC,Casa E Decoração,Jogo De Cortinas,1,99.9,99.9,Boleto Bancário,Processando,1,Sul
-1037,2024-04-07,270,Manuella Ramos,ribeiroisaque@example.com,+5541986695822,48,Vitória Da Conquista,BA,Livros,Livro Técnico,5,149.9,449.5,Pix,Processando,2,Nordeste
-1120,2024-02-18,52,Isis Moura,wsampaio@example.org,+5585911773347,75,Salvador,BA,Roupas,Jaqueta CortaVento,5,199.9,999.5,Boleto Bancário,Em Transporte,4,Nordeste
-1225,2023-10-30,230,Heitor Sampaio,melinacavalcante@example.org,,66,Caxias Do Sul,RS,Eletrônicos,Tablet,1,999.0,999.0,Cartão De Débito,Cancelado,4,Sul
-1001,2025-07-06,166,Sr. Miguel Rezende,,+5531920137499,26,Contagem,MG,Esporte E Lazer,Bicicleta Aro 29,2,899.0,1798.0,Pix,Devolvido,4,Sudeste
-1217,2024-03-29,305,Caio Sá,maria-liz12@example.org,+5521958418939,73,Ribeirão Preto,SP,Livro,Livro Técnico,1,89.9,89.9,Pix,Em Transporte,4,Sudeste
-1192,2024-09-23,21,Arthur Gabriel Câmara,amandapimenta@example.net,+5571994624810,53,Blumenau,SC,Beleza,Shampoo Profissional,1,29.9,29.9,Cartão De Crédito,Processando,3,Sul
-1158,2024-04-10,28,Marcela Cunha,freitascarolina@example.org,+5571998934005,33,Aracaju,SE,Roupas,Vestido Casual,4,159.9,639.6,Cartão De Débito,Processando,4,Nordeste
-1168,2025-11-01,139,Aurora Oliveira,,,67,Contagem,MG,Roupas,Calça Jeans,1,129.9,129.9,Pix,Devolvido,4,Sudeste
-1007,2024-12-25,109,Esther Freitas,novaesdavi-lucas@example.net,+5585931429713,67,Santos,SP,Roupa,Jaqueta CortaVento,3,199.9,599.7,Cartão De Débito,Devolvido,4,Sudeste
-1221,2024-03-17,265,Luiz Felipe Melo,nascimentopedro@example.net,+5511973448413,59,Nan,RS,Eletrônicos,Notebook,2,3299.0,6598.0,Boleto Bancário,Devolvido,5,Sul
-1462,2025-08-22,139,Davi Miguel Freitas,guerrarenan@example.org,+5579990279526,36,Duque De Caxias,RJ,Roupas,Vestido Casual,2,159.9,319.8,Pix,Cancelado,5,Sudeste
-1083,2023-10-17,224,Allana Rodrigues,enzo-gabrielalves@example.org,+5579961481139,,Sobral,CE,CasaDecoração,Luminária De Mesa,1,89.9,89.9,Boleto Bancário,Processando,2,Nordeste
+1041,2023-07-26,306,Renan Ribeiro,leonardo88@example.org,,59,Florianópolis,SC,roupa,Camiseta Básica,2,49.9,99.8,Cartão De Débito,Devolvido,5,Sul
+1047,2024-03-27,195,Diego Melo,novaisdavi@example.com,+5511973091356,70,Contagem,MG,roupa,Calça Jeans,4,129.9,519.6,Cartão De Débito,Processando,10,Sudeste
+1344,2023-10-16,165,Nicole Moreira,liviacaldeira@example.com,,49,Porto Alegre,RS,esporte e lazer,Bola De Futebol Oficial,4,89.9,359.6,Boleto Bancário,Cancelado,1,Sul
+1137,2025-08-01,45,Fernanda Freitas,ucorreia@example.com,,41,Olinda,PE,roupa,Vestido Casual,3,159.9,479.7,Boleto Bancário,Em Transporte,1,Nordeste
+1110,2023-08-27,149,Cecilia Novaes,ryanborges@example.org,+5585941568143,29,Petrópolis,RJ,roupa,Calça Jeans,2,129.9,259.8,Cartão De Crédito,Cancelado,1,Sudeste
+1270,2024-04-02,152,Heitor Silva,,+5579921701726,40,Contagem,MG,livro,Livro Técnico,1,89.9,89.9,Boleto Bancário,Processando,4,Sudeste
+1115,2025-06-14,102,Marina Das Neves,cardosobenicio@example.com,+5551978557089,38,Recife,PE,beleza,Batom Matte,2,39.9,79.8,Boleto Bancário,Entregue,5,Nordeste
+1018,2025-06-14,235,Enzo Machado,rnovaes@example.org,,47,Rio De Janeiro,RJ,eletrônico,Notebook,4,3299.0,13196.0,Pix,Processando,4,Sudeste
+1066,2025-05-27,85,Daniel Castro,carlos-eduardo23@example.com,+5561923341983,54,Maringá,PR,eletrônico,Smart Tv 50Pol,3,149.9,6597.0,Boleto Bancário,Entregue,4,Sul
+1449,2023-02-06,286,Srta. Maria Flor Da Rocha,macedocecilia@example.net,+5579926844153,35,Juazeiro Do Norte,CE,beleza,Creme Facial AntiIdade,2,79.9,159.8,Boleto Bancário,Devolvido,5,Nordeste
+1067,2024-06-03,185,Lorena Moura,amandamachado@example.net,,54,Fortaleza,CE,beleza,Creme Facial AntiIdade,1,79.9,79.9,Cartão De Crédito,Devolvido,4,Nordeste
+1429,2023-12-31,61,Isaque Abreu,pcarvalho@example.com,+5541967913220,46,Nan,SC,roupa,Vestido Casual,1,159.9,159.9,Cartão De Crédito,Processando,3,Sul
+1011,2024-12-12,202,,wcavalcante@example.com,+5521919072384,36,Sobral,CE,esporte e lazer,Bola De Futebol Oficial,1,89.9,89.9,Pix,Cancelado,4,Nordeste
+1019,2024-02-15,253,Lara Santos,rfogaca@example.com,+5571927859122,60,Santos,,esporte e lazer,Tênis De Corrida,1,253.74,252.65,Cartão De Débito,Cancelado,5,
+1117,2023-12-20,252,Isadora Viana,camaraleonardo@example.org,+5579947966632,,Petrópolis,RJ,roupa,Camiseta Básica,2,49.9,99.8,Pix,Processando,4,Sudeste
+1444,2023-11-21,105,Srta. Letícia Pereira,,,20,Recife,PE,esporte e lazer,Bicicleta Aro 29,3,899.0,2697.0,Cartão De Crédito,Processando,4,Nordeste
+1414,2024-01-31,341,Nicole Vasconcelos,yuricavalcanti@example.org,+5581934692193,71,Brasília,DF,casa e decoração,Sofá 3 Lugares,1,2314.92,2314.92,Pix,Devolvido,4,Centro-oeste
+1437,2025-11-22,20,Esther Viana,antony51@example.net,,22,Manaus,AM,casa e decoração,Tapete Sala,1,249.9,249.9,Pix,Cancelado,5,Norte
+1074,2024-12-04,186,Sofia Rios,ryan40@example.com,+5585992224357,41,Juazeiro Do Norte,CE,casa e decoração,Luminária De Mesa,2,89.9,179.8,Cartão De Débito,Processando,4,Nordeste
+1234,2023-11-25,149,Dr. Enrico Da Costa,marcos-vinicius41@example.org,+5551964854447,75,Santos,SP,eletrônico,Câmera Digital,1,1599.0,1599.0,Pix,Devolvido,4,Sudeste
+1400,2024-05-02,254,Erick Cavalcante,gabrielly20@example.com,,29,,SP,roupa,Calça Jeans,4,129.9,519.6,Cartão De Débito,Cancelado,5,Sudeste
+1191,2025-09-18,136,Juan Moreira,ana-luiza95@example.net,,23,Parintins,AM,esporte e lazer,Bicicleta Aro 29,1,149.9,882.9,Boleto Bancário,Cancelado,4,Norte
+1241,2023-10-29,84,Marina Dias,gael-henrique63@example.com,,20,Petrópolis,RJ,beleza,Perfume Importado,5,199.9,999.5,Cartão De Crédito,Em Transporte,4,Sudeste
+1159,2024-11-28,4,Gustavo Da Cunha,peixotonicolas@example.org,+5581930847308,25,Duque De Caxias,RJ,eletrônico,Notebook,3,3299.0,9897.0,Cartão De Crédito,Processando,2,Sudeste
+1375,2024-05-14,120,Vitor Gabriel Da Rosa,LUIZAOLIVEIRA@example.com,+5531973134720,57,Curitiba,PR,casa e decoração,Luminária De Mesa,1,89.9,89.9,Cartão De Débito,Em Transporte,4,Sul
+1336,2025-05-30,206,Thales Borges,,+5531919481396,74,Brasília,DF,beleza,Perfume Importado,2,199.9,399.8,Boleto Bancário,Processando,4,Centro-oeste
+1396,2024-04-15,4,Ana Clara Macedo,pintorhavi@example.org,+5551961699212,71,Brasília,DF,casa e decoração,Sofá 3 Lugares,2,1899.0,3798.0,Cartão De Débito,Em Transporte,4,Centro-oeste
+1339,2023-09-08,248,Sr. Lorenzo Vasconcelos,woliveira@example.org,+5585953136107,48,Jaboatão Dos Guararapes,PE,esporte e lazer,Bicicleta Aro 29,2,899.0,1798.0,Cartão De Crédito,Cancelado,5,Nordeste
+1209,2025-09-18,260,Sr. Mathias Farias,gabriellypires@example.net,+5561940046939,72,Duque De Caxias,RJ,livro,Livro Técnico,3,89.9,269.7,Cartão De Crédito,Processando,5,Sudeste
+1377,2024-08-13,197,,,,24,Nan,PE,casa e decoração,Mesa De Jantar 6 Lugares,3,899.0,2697.0,Cartão De Crédito,Entregue,2,Nordeste
+1092,2023-09-01,324,Srta. Rebeca Da Rocha,maria-fernanda77@example.org,,55,Joinville,SC,beleza,Perfume Importado,2,199.9,399.8,Cartão De Crédito,Entregue,4,Sul
+1464,2023-10-02,228,Srta. Mariane Borges,iansiqueira@example.com,+5585981172148,53,Duque De Caxias,RJ,casa e decoração,Jogo De Cortinas,1,99.9,99.9,Boleto Bancário,Cancelado,2,Sudeste
+1102,2023-11-06,52,Laura Porto,theoda-mata@example.com,,19,Nan,RJ,casa e decoração,Tapete Sala,1,249.9,249.9,Cartão De Débito,Cancelado,4,Sudeste
+1061,2023-11-28,181,Otávio Rocha,jade28@example.net,+5521947299157,61,Florianópolis,SC,roupa,Jaqueta CortaVento,4,199.9,799.6,Cartão De Crédito,Entregue,5,Sul
+1050,2023-06-05,37,Milena Novais,,,24,Petrópolis,RJ,esporte e lazer,Bola De Futebol Oficial,2,89.9,359.6,Cartão De Débito,Entregue,2,Sudeste
+1080,2024-05-01,229,Daniela Ribeiro,uteixeira@example.net,+5579952541945,38,Manaus,AM,livro,Hq Coleção,1,29.9,29.9,Pix,Entregue,1,Norte
+1068,2025-05-22,71,Emanuelly Da Mata,arthur-miguel40@example.org,+5581937527012,,Recife,PE,livro,Livro Técnico,0,94.99,,Pix,Entregue,3,Nordeste
+1450,2025-02-14,265,Ravy Barros,pietra76@example.net,+5571998896332,34,Juazeiro Do Norte,CE,beleza,Creme Facial AntiIdade,1,79.9,79.9,Cartão De Crédito,Entregue,5,Nordeste
+1233,2025-01-17,163,Kevin Sá,leonardoda-cruz@example.net,,69,Santos,SP,esporte e lazer,Bicicleta Aro 29,2,899.0,1798.0,Boleto Bancário,Cancelado,1,Sudeste
+1133,2024-09-23,258,Francisco Rezende,tandrade@example.net,+5541963132739,20,Salvador,BA,beleza,Shampoo Profissional,1,29.9,29.9,Cartão De Crédito,Em Transporte,4,Nordeste
+1072,2023-08-04,35,Dra. Cecilia Guerra,caue20@example.org,,69,Pelotas,RS,roupa,Jaqueta CortaVento,2,199.9,399.8,Boleto Bancário,Entregue,4,Sul
+1171,2025-08-27,188,Mathias Borges,pedro-miguelpinto@example.com,+5579978967699,25,Petrópolis,RJ,beleza,Creme Facial AntiIdade,5,79.9,399.5,Cartão De Crédito,Entregue,2,Sudeste
+1378,2025-07-18,185,Letícia Nascimento,stephany96@example.net,+5511952886887,42,Brasília,DF,beleza,Batom Matte,1,39.9,35.62,Boleto Bancário,Devolvido,6,Centro-oeste
+1456,2025-01-18,7,Ian Cirino,agathasouza@example.org,+5561991991102,22,Belo Horizonte,MG,esporte e lazer,Bola De Futebol Oficial,3,89.9,269.7,Cartão De Débito,Devolvido,2,Sudeste
+1138,2025-06-19,126,Sra. Ana Pires,zda-cruz@example.net,,,Recife,PE,roupa,Camiseta Básica,1,49.9,49.9,Boleto Bancário,Devolvido,4,Nordeste
+1329,2023-04-29,163,Diego Porto,macedonatalia@example.com,+5541920213670,54,Fortaleza,CE,livro,Livro Técnico,2,89.9,179.8,Boleto Bancário,Cancelado,3,Nordeste
+1161,2025-07-19,101,Rafaela Azevedo,,+5561983277776,33,Manaus,AM,eletrônico,Câmera Digital,1,1599.0,1599.0,Cartão De Débito,Entregue,4,Norte
+1433,2025-05-21,245,Bento Da Mota,matteo14@example.com,+5571934154007,56,Olinda,PE,esporte e lazer,Bola De Futebol Oficial,1,89.9,89.9,Cartão De Crédito,Em Transporte,5,Nordeste
+1341,2024-09-21,147,Zoe Carvalho,da-cruzfelipe@example.org,,45,Contagem,MG,casa e decoração,Luminária De Mesa,2,89.9,179.8,Cartão De Débito,Processando,5,Sudeste
+1182,2024-01-30,278,Benício Pimenta,correiajoao@example.com,,21,Juazeiro Do Norte,CE,eletrônico,Notebook,4,3299.0,13196.0,Boleto Bancário,Entregue,4,Nordeste
+1079,2025-12-18,341,Matteo Almeida,ana-julia31@example.net,+5521985413911,73,Ilhéus,BA,casa e decoração,Jogo De Cortinas,1,99.9,99.9,Pix,Devolvido,3,Nordeste
+1457,2024-10-01,145,José Rezende,correiasofia@example.net,+5579952604617,23,Brasília,DF,casa e decoração,Luminária De Mesa,3,89.9,269.7,Pix,Devolvido,4,Centro-oeste
+1119,2024-09-30,328,Davi Lucas Da Conceição,ramosana-julia@example.org,,31,Maringá,PR,livro,Hq Coleção,2,29.9,59.8,Cartão De Crédito,Entregue,4,Sul
+1355,2024-10-15,277,Juliana Rocha,vitoria09@example.org,+5511992034074,37,Brasília,DF,esporte e lazer,Halteres 5Kg Par,3,185.38,556.14,Cartão De Débito,Devolvido,2,Centro-oeste
+1425,2025-03-24,265,Sophie Vasconcelos,marianateixeira@example.org,,36,Uberlândia,MG,esporte e lazer,Bicicleta Aro 29,2,899.0,1798.0,Cartão De Crédito,Devolvido,4,Sudeste
+1201,2025-09-30,335,Benjamin Vasconcelos,,+5521997602010,60,Lagarto,SE,beleza,Shampoo Profissional,2,29.9,59.8,Cartão De Crédito,Processando,3,Nordeste
+1367,2024-04-25,118,Maria Sousa,moreirarael@example.net,,33,Caruaru,PE,casa e decoração,Sofá 3 Lugares,3,1899.0,5697.0,Cartão De Crédito,Em Transporte,5,Nordeste
+1395,2025-04-03,161,Rael Pinto,dalmeida@example.org,+5571931531171,66,Nan,CE,eletrônico,Tablet,1,999.0,999.0,Pix,Processando,3,Nordeste
+1045,2023-06-17,186,Dr. Valentim Leão,,+5531989674499,46,Brasília,DF,livro,Livro Técnico,5,89.9,449.5,Cartão De Crédito,Processando,5,Centro-oeste
+1288,2025-01-05,31,,manuellasiqueira@example.net,+5521951285574,49,Juazeiro Do Norte,CE,livro,Hq Coleção,1,29.9,29.9,Cartão De Crédito,Devolvido,5,Nordeste
+1428,2023-06-18,276,Luana Carvalho,,+5531912634425,42,Olinda,PE,roupa,Vestido Casual,4,159.9,639.6,Cartão De Débito,Em Transporte,4,Nordeste
+1065,2025-09-10,123,Maria Vitória Da Mata,caiomoura@example.net,+5521947273681,20,São Paulo,SP,eletrônico,Tablet,5,999.0,4995.0,Cartão De Crédito,Cancelado,6,Sudeste
+1106,2024-05-08,58,Ravy Leão,,+5581948475617,47,Feira De Santana,BA,casa e decoração,Jogo De Cortinas,1,99.9,99.9,Boleto Bancário,Processando,1,Nordeste
+1303,2025-02-09,128,Miguel Pacheco,REBECA57@example.net,+5585958421063,26,Manaus,AM,casa e decoração,Luminária De Mesa,1,89.9,61.77,Cartão De Crédito,Em Transporte,4,Norte
+1180,2023-08-19,251,Ana Cecília Aparecida,enzosiqueira@example.com,+5521938801379,52,Uberlândia,,casa e decoração,Tapete Sala,5,249.9,1249.5,Pix,Devolvido,3,
+1397,2024-04-26,176,Augusto Castro,ana-vitoriaabreu@example.com,+5585922436029,63,Salvador,BA,eletrônico,Smartphone,2,1899.9,3799.8,Cartão De Débito,Cancelado,4,Nordeste
+1325,2023-06-06,325,Bianca Dias,hmendes@example.org,,32,Pelotas,RS,casa e decoração,Jogo De Cortinas,2,99.9,199.8,Cartão De Crédito,Devolvido,10,Sul
+1094,2025-03-21,162,Ana Vitória Montenegro,yda-mata@example.org,+5579997196006,33,Campinas,SP,casa e decoração,Mesa De Jantar 6 Lugares,2,899.0,1798.0,Boleto Bancário,Entregue,5,Sudeste
+1359,2025-12-20,15,Camila Moraes,ana-beatrizjesus@example.net,+5561992197700,59,Canoas,RS,esporte e lazer,Halteres 5Kg Par,4,149.9,599.6,Pix,Cancelado,3,Sul
+1435,2023-02-28,217,Enzo Gabriel Novais,aparecidaantonio@example.com,+5541911764276,62,Feira De Santana,BA,roupa,Jaqueta CortaVento,2,199.9,399.8,Pix,Cancelado,4,Nordeste
+1445,2025-01-23,155,Pedro Miguel Porto,,,50,Florianópolis,SC,casa e decoração,Jogo De Cortinas,1,99.9,99.9,Boleto Bancário,Devolvido,4,Sul
+1382,2023-06-09,236,Gabriel Leão,cguerra@example.net,+5581969425393,71,Petrópolis,RJ,eletrônico,Câmera Digital,1,1599.0,1599.0,Cartão De Crédito,Cancelado,5,Sudeste
+1090,2025-05-23,26,Clara Farias,,+5551978597730,31,Ponta Grossa,PR,esporte e lazer,Halteres 5Kg Par,2,149.9,299.8,Cartão De Débito,Entregue,3,Sul
+1235,2025-09-29,216,Bella Costa,jcassiano@example.com,+5521949041679,65,Brasília,DF,roupa,Tênis Esportivo,3,219.9,659.7,Não Informado,Em Transporte,4,Centro-oeste
+1169,2024-08-03,169,Enrico Moreira,davi-luizcaldeira@example.com,+5561985988704,69,Ilhéus,BA,roupa,Camiseta Básica,0,62.5,,Boleto Bancário,Cancelado,5,Nordeste
+1156,2024-04-25,2,Gabriel Peixoto,domfreitas@example.net,,27,Caxias Do Sul,RS,casa e decoração,Mesa De Jantar 6 Lugares,2,899.0,1798.0,Cartão De Crédito,Em Transporte,4,Sul
+1051,2025-04-08,239,Sr. João Guilherme Machado,pmontenegro@example.net,+5541996111593,39,Pelotas,RS,eletrônico,Smartphone,4,1899.9,7599.6,Cartão De Crédito,Cancelado,4,Sul
+1218,2024-04-10,77,Gabrielly Da Rocha,barbara64@example.org,+5571970819768,58,Salvador,BA,livro,Hq Coleção,2,29.9,59.8,Pix,Processando,4,Nordeste
+1289,2024-12-01,238,Benicio Fonseca,,,72,Sorocaba,SP,livro,Hq Coleção,5,29.9,149.5,Boleto Bancário,Cancelado,4,Sudeste
+1165,2024-04-01,332,Fernanda Gonçalves,acostela@example.com,+5585916966628,29,Lagarto,SE,eletrônico,Tablet,1,999.0,999.0,Cartão De Crédito,Em Transporte,3,Nordeste
+1124,2023-05-18,167,Lorena Araújo,correiamelina@example.net,+5551936257181,69,Joinville,SC,eletrônico,Fone De Ouvido Bluetooth,2,149.9,299.8,Boleto Bancário,Entregue,4,Sul
+1320,2023-02-04,62,Henry Barbosa,joao-lucas71@example.com,+5521943705024,43,Aracaju,SE,casa e decoração,Jogo De Cortinas,4,99.9,399.6,Cartão De Crédito,Cancelado,1,Nordeste
+1177,2025-12-19,186,Alexandre Pinto,pmartins@example.com,+5521950822686,57,Pelotas,,roupa,Camiseta Básica,1,49.9,49.9,Boleto Bancário,Devolvido,3,
+1226,2024-11-27,167,Anna Liz Mendonça,piresbeatriz@example.com,,58,Ribeirão Preto,SP,esporte e lazer,Bicicleta Aro 29,2,819.04,1638.08,Cartão De Crédito,Cancelado,3,Sudeste
+1354,2025-12-04,126,Mirella Porto,aparecidabernardo@example.net,,62,Duque De Caxias,RJ,beleza,Shampoo Profissional,1,29.9,29.9,Cartão De Crédito,Entregue,0,Sudeste
+1250,2025-03-29,336,Dra. Maria Pacheco,,+5571981789012,19,Canoas,RS,eletrônico,Câmera Digital,2,1599.0,3198.0,Cartão De Débito,Em Transporte,4,Sul
+1183,2023-04-08,242,Enzo Rodrigues,davi-luccaferreira@example.net,,47,Manaus,AM,casa e decoração,Jogo De Cortinas,1,99.9,99.9,Boleto Bancário,Processando,4,Norte
+1283,2024-04-30,103,Ana Júlia Monteiro,camposlaura@example.net,+5541946033251,61,Parintins,AM,beleza,Perfume Importado,2,199.9,399.8,Cartão De Débito,Processando,4,Norte
+1024,2025-01-01,47,Rodrigo Porto,maraujo@example.org,,25,Florianópolis,SC,livro,Biografia,1,44.9,44.9,Cartão De Débito,Cancelado,4,Sul
+1313,2025-06-05,55,Liam Nunes,feliperios@example.net,+5551968671191,63,Joinville,SC,livro,Hq Coleção,4,30.7,174.3,Boleto Bancário,Em Transporte,1,Sul
+1216,2025-07-22,55,Bianca Da Cruz,nicolascamargo@example.org,,,Lagarto,SE,esporte e lazer,Halteres 5Kg Par,1,149.9,149.9,Cartão De Débito,Entregue,2,Nordeste
+1199,2024-03-18,317,Melina Pereira,kda-cruz@example.org,+5581990612331,71,Porto Alegre,RS,beleza,Batom Matte,1,39.9,39.9,Pix,Em Transporte,3,Sul
+1230,2025-08-12,350,Ana Beatriz Ferreira,,+5561962017252,,Curitiba,PR,roupa,Camiseta Básica,5,49.9,249.5,Boleto Bancário,Processando,4,Sul
+1211,2023-12-11,262,,ana-lizvieira@example.org,+5579931124292,30,Juazeiro Do Norte,CE,eletrônico,Tablet,2,999.0,1998.0,Cartão De Débito,Entregue,5,Nordeste
+1016,2023-09-18,282,Maria Cavalcante,monteirodante@example.org,+5571976554910,28,Salvador,BA,eletrônico,Câmera Digital,2,1599.0,3198.0,Cartão De Débito,Entregue,3,Nordeste
+1187,2024-04-07,45,Lunna Garcia,viniciuscamargo@example.net,+5551953289344,32,Manaus,AM,roupa,Camiseta Básica,4,49.9,199.6,Boleto Bancário,Em Transporte,2,Norte
+1458,2023-10-24,163,Samuel Da Conceição,icamara@example.net,+5579985258572,,Nossa Senhora Do Socorro,SE,casa e decoração,Jogo De Cortinas,2,99.9,199.8,Cartão De Crédito,Entregue,4,Nordeste
+1408,2023-03-12,39,Caroline Santos,lunna95@example.net,+5561968902279,,Blumenau,SC,beleza,Batom Matte,2,39.9,79.8,Pix,Cancelado,4,Sul
+1324,2024-05-23,292,Eduardo Alves,ana-carolina52@example.com,+5585952035435,73,Uberlândia,MG,beleza,Batom Matte,5,39.9,199.5,Pix,Devolvido,2,Sudeste
+1139,2025-03-29,309,Ana Cecília Garcia,martinsdavi-lucas@example.org,+5579995145976,18,Duque De Caxias,RJ,eletrônico,Notebook,1,3299.0,3299.0,Pix,Entregue,4,Sudeste
+1203,2025-06-08,286,Benício Da Rosa,silveiramaria-liz@example.net,+5511997314450,53,Juiz De Fora,MG,eletrônico,Fone De Ouvido Bluetooth,3,149.9,449.7,Boleto Bancário,Devolvido,4,Sudeste
+1461,2023-03-04,109,Maria Júlia Nogueira,,,36,Joinville,SC,roupa,Camiseta Básica,1,49.9,49.9,Cartão De Débito,Processando,1,Sul
+1232,2023-05-27,191,Isabel Cardoso,maria-eduarda38@example.org,+5531969568587,44,Brasília,,livro,Livro Técnico,1,89.9,89.9,Cartão De Crédito,Devolvido,3,
+1098,2024-06-24,136,Milena Guerra,joao-miguel65@example.com,+5511917243870,,Ilhéus,BA,esporte e lazer,Bicicleta Aro 29,3,899.0,2697.0,Pix,Em Transporte,3,Nordeste
+1248,2023-08-11,103,Dra. Maria Alice Porto,da-cunhayan@example.com,,27,Maringá,PR,livro,Hq Coleção,1,29.9,41.6,Boleto Bancário,Cancelado,4,Sul
+1381,2025-10-24,338,Carlos Eduardo Jesus,melissa68@example.net,+5585964938816,53,Jaboatão Dos Guararapes,PE,esporte e lazer,Halteres 5Kg Par,5,149.9,749.5,Cartão De Crédito,Em Transporte,3,Nordeste
+1223,2023-02-24,208,Benjamim Abreu,mariane17@example.net,+5579986715203,21,São Paulo,SP,beleza,Creme Facial AntiIdade,3,79.9,261.13,Cartão De Débito,Em Transporte,6,Sudeste
+1085,2023-11-07,133,Allana Pires,marianada-luz@example.org,+5579967643000,51,Olinda,PE,roupa,Calça Jeans,1,129.9,129.9,Pix,Entregue,5,Nordeste
+1258,2023-05-17,99,Luan Viana,sofiaferreira@example.net,+5541961864082,67,Juiz De Fora,MG,casa e decoração,Jogo De Cortinas,1,99.9,99.9,Boleto Bancário,Devolvido,5,Sudeste
+1296,2023-11-30,11,Isadora Garcia,,,67,Nan,SP,casa e decoração,Tapete Sala,2,249.9,499.8,Pix,Cancelado,4,Sudeste
+1340,2024-10-25,90,Cauê Siqueira,gmachado@example.org,,41,Jaboatão Dos Guararapes,PE,roupa,Tênis Esportivo,3,219.9,659.7,Boleto Bancário,Processando,3,Nordeste
+1334,2023-11-28,194,Gustavo Carvalho,ana-lizcosta@example.org,,32,Ponta Grossa,PR,esporte e lazer,Tênis De Corrida,1,289.9,289.9,Cartão De Crédito,Cancelado,5,Sul
+1468,2023-09-11,139,Sra. Alícia Pacheco,ycamargo@example.org,+5521915176611,58,Fortaleza,CE,eletrônico,Notebook,1,3299.0,3299.0,Cartão De Débito,Cancelado,4,Nordeste
+1342,2024-02-25,186,Emilly Cavalcante,das-nevestheodoro@example.net,,62,Brasília,DF,livro,Livro Técnico,2,89.9,179.8,Cartão De Crédito,Processando,2,Centro-oeste
+1476,2023-12-07,5,Lucas Gabriel Pacheco,ofarias@example.org,+5511918491373,40,Blumenau,SC,eletrônico,Câmera Digital,0,1599.0,,Cartão De Débito,Processando,2,Sul
+1236,2023-06-13,200,Sra. Maya Da Mota,henriqueporto@example.org,,46,Caxias Do Sul,RS,casa e decoração,Jogo De Cortinas,5,99.9,499.5,Pix,Em Transporte,1,Sul
+1077,2025-10-13,70,Dr. Bryan Melo,milena33@example.net,,20,Sobral,CE,eletrônico,Notebook,2,3299.0,6598.0,Pix,Cancelado,4,Nordeste
+1091,2024-10-14,200,Rodrigo Araújo,rda-mata@example.org,+5521974059637,33,Lagarto,SE,roupa,Jaqueta CortaVento,1,199.9,199.9,Pix,Devolvido,3,Nordeste
+1262,2024-05-16,327,Caleb Rios,MIGUEL73@example.net,+5571938301912,26,Ilhéus,BA,casa e decoração,Sofá 3 Lugares,5,1899.0,9495.0,Cartão De Débito,Devolvido,4,Nordeste
+1044,2025-10-20,217,Lunna Da Luz,dcardoso@example.net,+5531960701943,34,Belo Horizonte,MG,casa e decoração,Luminária De Mesa,4,89.9,359.6,Pix,Processando,4,Sudeste
+1237,2023-12-26,283,Gustavo Gomes,aandrade@example.com,+5521988684505,24,Parintins,AM,esporte e lazer,Tênis De Corrida,1,289.9,289.9,Boleto Bancário,Processando,1,Norte
+1062,2025-07-16,45,Sabrina Sampaio,felipe40@example.net,+5521990204101,34,Ponta Grossa,PR,esporte e lazer,Bola De Futebol Oficial,1,89.9,89.9,Cartão De Crédito,Em Transporte,4,Sul
+1317,2024-02-23,4,Sr. Gael Henrique Rocha,lunna17@example.com,,50,Feira De Santana,BA,casa e decoração,Luminária De Mesa,1,89.9,89.9,Pix,Entregue,4,Nordeste
+1048,2024-03-08,86,Stella Moura,xviana@example.org,,28,Nossa Senhora Do Socorro,,eletrônico,Fone De Ouvido Bluetooth,2,149.9,299.8,Pix,Processando,4,
+1259,2024-09-27,125,Alice Ribeiro,costeladiego@example.net,+5531967147603,62,Ilhéus,BA,esporte e lazer,Halteres 5Kg Par,2,149.9,299.8,Cartão De Débito,Devolvido,5,Nordeste
+1108,2024-07-08,165,Maria Júlia Campos,lorenzobarbosa@example.org,,48,Manaus,AM,casa e decoração,Luminária De Mesa,1,89.9,89.9,Pix,Em Transporte,4,Norte
+1441,2025-08-12,179,Luan Garcia,eduardadias@example.org,,45,Manaus,AM,beleza,Creme Facial AntiIdade,3,79.9,239.7,Cartão De Débito,Devolvido,2,Norte
+1184,2025-08-17,74,,maria-alice24@example.net,+5521943146637,57,Feira De Santana,BA,casa e decoração,Tapete Sala,1,249.9,249.9,Cartão De Crédito,Devolvido,1,Nordeste
+1321,2023-09-02,99,Breno Machado,ayla37@example.org,+5511958113437,28,,SC,beleza,Creme Facial AntiIdade,3,79.9,239.7,Pix,Processando,3,Sul
+1049,2024-01-29,90,Ana Laura Da Cruz,yuriaparecida@example.org,+5579994946695,49,Salvador,BA,eletrônico,Tablet,3,999.0,2997.0,Cartão De Crédito,Devolvido,5,Nordeste
+1310,2025-03-23,180,Caroline Da Cunha,fernandesmurilo@example.org,+5579944195204,44,Brasília,DF,esporte e lazer,Bicicleta Aro 29,2,899.0,1798.0,Pix,Entregue,4,Centro-oeste
+1126,2023-11-17,12,Ana Beatriz Sampaio,laura56@example.org,+5579969307784,60,Brasília,DF,esporte e lazer,Tênis De Corrida,1,339.73,339.73,Boleto Bancário,Entregue,3,Centro-oeste
+1231,2024-10-22,150,Luna Cavalcante,smacedo@example.com,,32,Vitória Da Conquista,BA,casa e decoração,Sofá 3 Lugares,3,1899.0,5697.0,Boleto Bancário,Cancelado,4,Nordeste
+1185,2025-09-08,269,Giovanna Pastor,,,18,Ponta Grossa,PR,casa e decoração,Sofá 3 Lugares,3,1899.0,5697.0,Cartão De Débito,Devolvido,3,Sul
+1256,2025-09-02,260,Sra. Maria Alice Da Cruz,aurora77@example.com,+5585981539453,42,Ilhéus,BA,beleza,Perfume Importado,3,199.9,599.7,Pix,Em Transporte,3,Nordeste
+1186,2024-08-04,312,Gael Henrique Cirino,ocastro@example.com,+5521991989128,,Ribeirão Preto,SP,livro,Livro Técnico,3,89.9,337.29,Boleto Bancário,Entregue,4,Sudeste
+1125,2023-12-12,198,Mariah Barros,rafael65@example.org,,34,Nan,PR,esporte e lazer,Bola De Futebol Oficial,5,65.95,329.75,Cartão De Crédito,Entregue,4,Sul
+1052,2025-07-18,272,Joana Novais,,+5561953545479,24,Belo Horizonte,MG,casa e decoração,Jogo De Cortinas,3,99.9,299.7,Pix,Em Transporte,5,Sudeste
+1480,2023-04-27,70,Paulo Porto,FONSECAALEXIA@example.org,+5511955043557,54,Juiz De Fora,MG,eletrônico,Notebook,1,3299.0,3299.0,Pix,Cancelado,5,Sudeste
+1189,2025-04-09,88,Maria Fernanda Da Luz,kfreitas@example.org,+5585940193666,58,Pelotas,RS,eletrônico,Notebook,5,3299.0,16495.0,Cartão De Débito,Cancelado,3,Sul
+1212,2025-11-01,270,Ana Vitória Nunes,joao-vitorandrade@example.org,+5541952913296,27,Uberlândia,MG,roupa,Jaqueta CortaVento,3,199.9,521.09,Boleto Bancário,Cancelado,4,Sudeste
+1388,2023-06-21,176,Leandro Santos,da-rosaisabella@example.org,+5581968485366,,,SC,roupa,Camiseta Básica,1,49.9,49.9,Boleto Bancário,Processando,2,Sul
+1202,2025-01-17,27,,lpimenta@example.net,+5511990642242,18,Manaus,AM,eletrônico,Câmera Digital,2,1599.0,3198.0,Boleto Bancário,Devolvido,5,Norte
+1123,2025-06-04,201,Renan Moura,,+5521969947533,39,Florianópolis,SC,livro,Romance BestSeller,2,39.9,79.8,Pix,Cancelado,3,Sul
+1149,2025-06-29,309,Emanuella Da Conceição,laramarques@example.net,+5511927887636,,Fortaleza,CE,livro,Livro Técnico,4,89.9,359.6,Cartão De Crédito,Processando,3,Nordeste
+1163,2025-01-31,141,Sra. Maria Luísa Da Paz,lara04@example.net,,,Fortaleza,CE,esporte e lazer,Bicicleta Aro 29,1,899.0,899.0,Boleto Bancário,Em Transporte,4,Nordeste
+1430,2025-03-06,340,Sra. Catarina Santos,rodrigofarias@example.net,,18,Blumenau,SC,eletrônico,Câmera Digital,4,1599.0,6396.0,Pix,Em Transporte,3,Sul
+1322,2023-07-27,287,Maria Clara Casa Grande,pedro-miguel02@example.net,+5531934838934,65,Caruaru,PE,roupa,Camiseta Básica,1,49.9,28.41,Pix,Entregue,4,Nordeste
+1454,2024-04-30,203,Melissa Sales,casa-grandeesther@example.net,+5561986148777,57,Caxias Do Sul,RS,eletrônico,Fone De Ouvido Bluetooth,3,149.9,449.70000000000005,Cartão De Débito,Devolvido,4,Sul
+1361,2023-04-17,241,Hellena Rezende,jcosta@example.net,,35,Maringá,PR,esporte e lazer,Tênis De Corrida,3,289.9,869.7,Não Informado,Entregue,4,Sul
+1210,2023-07-05,7,Zoe Melo,smoura@example.org,+5571940818283,60,Ilhéus,BA,casa e decoração,Mesa De Jantar 6 Lugares,1,899.0,899.0,Boleto Bancário,Em Transporte,3,Nordeste
+1157,2024-08-14,311,Pietro Pereira,anthony-gabriel19@example.net,,38,Olinda,PE,eletrônico,Notebook,4,3299.0,13196.0,Boleto Bancário,Entregue,4,Nordeste
+1046,2025-07-07,328,Allana Macedo,anthonyvasconcelos@example.org,,21,Curitiba,PR,esporte e lazer,Bicicleta Aro 29,2,149.9,1798.0,Pix,Entregue,4,Sul
+1042,2023-07-09,212,Anthony Gabriel Silveira,mourajoao-lucas@example.com,+5571949698385,67,Fortaleza,CE,eletrônico,Câmera Digital,4,1599.0,6396.0,Pix,Entregue,0,Nordeste
+1331,2023-03-24,139,Luiz Miguel Lopes,jesuspedro-henrique@example.com,,34,Caxias Do Sul,RS,esporte e lazer,Halteres 5Kg Par,2,149.9,299.8,Cartão De Débito,Processando,2,Sul
+1227,2024-05-19,173,Murilo Gonçalves,limabenicio@example.com,,,Brasília,DF,eletrônico,Notebook,3,3299.0,9897.0,Cartão De Crédito,Em Transporte,4,Centro-oeste
+1294,2024-01-07,107,Júlia Viana,ana40@example.net,,45,Ilhéus,BA,casa e decoração,Luminária De Mesa,1,89.9,89.9,Boleto Bancário,Processando,2,Nordeste
+1401,2023-08-30,276,Maria Cecília Camargo,sophie65@example.com,+5531971755119,47,Não Informado,RS,casa e decoração,Luminária De Mesa,4,89.9,359.6,Boleto Bancário,Processando,5,Sul
+1347,2023-06-13,220,Heloísa Da Conceição,maria-eduardasouza@example.com,+5579952508786,44,Recife,PE,casa e decoração,Sofá 3 Lugares,0,1899.0,,Pix,Processando,4,Nordeste
+1244,2025-08-27,338,Rebeca Caldeira,da-cunhayasmin@example.org,+5541931176994,53,Olinda,PE,livro,Romance BestSeller,4,39.9,159.6,Boleto Bancário,Processando,4,Nordeste
+1311,2024-09-28,177,Antonella Alves,andradeester@example.net,+5551964625901,56,Caxias Do Sul,RS,beleza,Shampoo Profissional,3,29.9,89.7,Cartão De Crédito,Cancelado,4,Sul
+1112,2023-05-13,282,Sra. Maria Isis Jesus,fernandada-mata@example.com,+5579997637754,18,Florianópolis,SC,esporte e lazer,Bola De Futebol Oficial,5,89.9,449.5,Cartão De Crédito,Em Transporte,4,Sul
+1390,2024-04-14,246,Juliana Ramos,migueljesus@example.net,+5585962306627,70,Itabaiana,,livro,Livro Técnico,1,89.9,89.9,Pix,Processando,3,
+1003,2024-11-08,229,Isaque Borges,karaujo@example.org,,35,Nossa Senhora Do Socorro,SE,esporte e lazer,Halteres 5Kg Par,1,149.9,149.9,Cartão De Crédito,Cancelado,4,Nordeste
+1260,2023-10-23,339,José Pereira,pachecojoao-pedro@example.org,+5541952397558,,Ilhéus,BA,livro,Romance BestSeller,5,39.9,199.5,Pix,Em Transporte,4,Nordeste
+1099,2025-06-13,182,Sr. Lucas Abreu,camila61@example.org,+5579924098597,22,Aracaju,SE,roupa,Jaqueta CortaVento,2,199.9,999.5,Cartão De Débito,Em Transporte,4,Nordeste
+1418,2025-01-14,173,Kevin Cassiano,csousa@example.net,+5561916985136,51,Joinville,SC,esporte e lazer,Halteres 5Kg Par,4,149.9,599.6,Cartão De Crédito,Em Transporte,4,Sul
+1346,2023-04-27,22,Lara Camargo,camposjade@example.org,+5511921736066,33,Nan,SP,esporte e lazer,Halteres 5Kg Par,1,149.9,149.9,Pix,Cancelado,4,Sudeste
+1373,2024-11-30,91,,jmoura@example.net,,22,Joinville,,roupa,Vestido Casual,1,149.9,159.9,Cartão De Débito,Entregue,4,
+1130,2024-02-23,189,Ana Laura Peixoto,isabelaragao@example.org,+5581988754240,41,Curitiba,PR,roupa,Vestido Casual,2,159.9,799.5,Cartão De Crédito,Entregue,5,Sul
+1142,2023-07-08,293,Alexandre Silveira,alvesravi-lucca@example.org,+5521953832150,19,Vitória Da Conquista,BA,esporte e lazer,Halteres 5Kg Par,3,149.9,449.7,Pix,Cancelado,4,Nordeste
+1452,2025-09-28,159,Letícia Nunes,efreitas@example.net,,30,Contagem,MG,beleza,Batom Matte,1,39.9,39.9,Pix,Cancelado,4,Sudeste
+1360,2025-02-05,245,João Guilherme Da Cruz,sousazoe@example.com,+5551951813317,45,Santos,SP,eletrônico,Tablet,5,999.0,4995.0,Cartão De Débito,Entregue,1,Sudeste
+1013,2025-10-27,193,Luara Fernandes,maysa97@example.org,+5511953504846,47,Porto Alegre,RS,esporte e lazer,Bicicleta Aro 29,3,899.0,2697.0,Pix,Cancelado,4,Sul
+1114,2025-11-16,56,Caleb Da Mata,hadassaguerra@example.net,,70,Joinville,SC,roupa,Jaqueta CortaVento,2,199.9,399.8,Cartão De Crédito,Em Transporte,5,Sul
+1039,2024-10-18,286,Miguel Martins,fsouza@example.net,+5541922353957,,Sorocaba,SP,livro,Livro Técnico,1,89.9,89.9,Boleto Bancário,Cancelado,4,Sudeste
+1103,2024-04-11,84,Luara Correia,liz06@example.net,,41,Blumenau,SC,livro,Biografia,1,44.9,44.9,Cartão De Crédito,Entregue,2,Sul
+1406,2025-10-06,182,Léo Fogaça,jadegarcia@example.net,,58,Petrópolis,RJ,eletrônico,Fone De Ouvido Bluetooth,1,149.9,149.9,Cartão De Débito,Em Transporte,5,Sudeste
+1276,2025-04-15,45,Maria Luiza Nogueira,guerraana-clara@example.org,+5581985628938,18,Brasília,DF,casa e decoração,Jogo De Cortinas,2,99.9,199.8,Boleto Bancário,Devolvido,4,Centro-oeste
+1474,2023-09-21,79,Leonardo Cardoso,cunhalucca@example.com,+5531986591465,28,Ribeirão Preto,SP,esporte e lazer,Bicicleta Aro 29,5,899.0,4495.0,Boleto Bancário,Cancelado,1,Sudeste
+1307,2025-01-13,10,Levi Peixoto,ferreiraalana@example.net,+5581967329014,69,Brasília,DF,roupa,Vestido Casual,4,159.9,639.6,Cartão De Crédito,Em Transporte,5,Centro-oeste
+1155,2023-04-24,203,Isabel Machado,bruno43@example.org,+5511972016170,57,Ribeirão Preto,SP,eletrônico,Fone De Ouvido Bluetooth,1,149.9,149.9,Cartão De Crédito,Cancelado,4,Sudeste
+1305,2025-07-04,149,Sra. Maria Cecília Oliveira,,+5541957218463,49,Blumenau,,eletrônico,Smart Tv 50Pol,2,2199.0,4398.0,Cartão De Crédito,Cancelado,4,
+1471,2025-07-09,343,Luigi Cassiano,emontenegro@example.org,+5579912769222,49,Fortaleza,CE,beleza,Perfume Importado,2,199.9,399.8,Cartão De Débito,Cancelado,4,Nordeste
+1023,2025-11-15,119,Ana Júlia Marques,zgoncalves@example.com,+5511967294565,,Pelotas,RS,eletrônico,Fone De Ouvido Bluetooth,1,149.9,149.9,Cartão De Crédito,Entregue,4,Sul
+1358,2023-02-28,149,Juliana Barros,ipastor@example.org,+5551993599817,18,Aracaju,SE,roupa,Vestido Casual,2,159.9,319.8,Boleto Bancário,Entregue,2,Nordeste
+1439,2024-11-10,272,Apollo Vasconcelos,scasa-grande@example.com,+5579984793612,43,Pelotas,RS,casa e decoração,Jogo De Cortinas,1,99.9,99.9,Pix,Em Transporte,3,Sul
+1422,2024-10-24,7,Sr. Oliver Sales,nsouza@example.org,,,Nossa Senhora Do Socorro,SE,casa e decoração,Mesa De Jantar 6 Lugares,4,899.0,3596.0,Boleto Bancário,Devolvido,4,Nordeste
+1036,2025-07-24,6,Lucca Costela,npinto@example.org,+5585966177723,29,Ponta Grossa,PR,eletrônico,Smartphone,1,1899.9,1899.9,Cartão De Crédito,Cancelado,3,Sul
+1208,2024-03-05,200,Enzo Gabriel Da Luz,nathancastro@example.net,,71,Nan,AM,beleza,Perfume Importado,5,199.9,999.5,Boleto Bancário,Processando,10,Norte
+1318,2023-10-20,315,Dr. Mathias Campos,maria-luisa62@example.com,,38,Blumenau,SC,roupa,Calça Jeans,1,129.9,129.9,Pix,Cancelado,5,Sul
+1175,2023-03-05,244,Mirella Novaes,laura49@example.org,+5511992983587,60,Contagem,MG,beleza,Creme Facial AntiIdade,1,79.9,79.9,Boleto Bancário,Entregue,4,Sudeste
+1220,2024-10-08,20,,balves@example.net,+5531971725575,25,,RJ,roupa,Camiseta Básica,2,49.9,64.31,Não Informado,Cancelado,4,Sudeste
+1427,2023-02-11,347,Bento Cavalcante,,,34,Nan,SE,livro,Livro Técnico,5,89.9,449.5,Cartão De Débito,Entregue,4,Nordeste
+1129,2025-12-27,243,Thales Pimenta,pietromendonca@example.com,+5581919907283,30,Ilhéus,BA,casa e decoração,Sofá 3 Lugares,4,1899.0,7596.0,Cartão De Débito,Entregue,4,Nordeste
+1419,2024-11-29,208,Felipe Nunes,maysasilva@example.net,+5521915844246,70,Lagarto,SE,roupa,Tênis Esportivo,5,219.9,1099.5,Pix,Processando,4,Nordeste
+1266,2025-01-24,150,Alana Castro,maria-helena97@example.net,+5541914194150,31,Joinville,SC,casa e decoração,Sofá 3 Lugares,1,1899.0,1899.0,Cartão De Crédito,Processando,5,Sul
+1261,2023-12-16,272,Rael Ferreira,oliverguerra@example.net,+5551970751481,28,Olinda,PE,esporte e lazer,Bicicleta Aro 29,2,899.0,1798.0,Cartão De Débito,Devolvido,4,Nordeste
+1291,2024-02-09,288,Bruno Gomes,ana-livia92@example.com,,40,Maringá,PR,beleza,Creme Facial AntiIdade,1,79.9,79.9,Boleto Bancário,Cancelado,4,Sul
+1416,2025-12-01,158,Beatriz Cirino,ian49@example.net,+5531935358813,39,Olinda,PE,esporte e lazer,Halteres 5Kg Par,4,149.9,599.6,Cartão De Crédito,Cancelado,5,Nordeste
+1017,2025-07-01,292,Davi Lucca Sousa,isabellagoncalves@example.com,+5571950707300,72,Salvador,BA,esporte e lazer,Tênis De Corrida,3,289.9,869.7,Cartão De Débito,Entregue,4,Nordeste
+1353,2024-07-08,42,Dr. Guilherme Montenegro,camarajoao-lucas@example.com,,,Olinda,PE,livro,Livro Técnico,3,89.9,269.7,Cartão De Débito,Em Transporte,3,Nordeste
+1131,2025-12-27,342,Diego Leão,santosdante@example.org,+5511944492992,38,Santos,SP,eletrônico,Smart Tv 50Pol,1,2199.0,2199.0,Pix,Entregue,5,Sudeste
+1473,2023-10-23,91,Maria Júlia Da Conceição,fonsecabella@example.net,,64,Brasília,DF,casa e decoração,Jogo De Cortinas,1,99.9,99.9,Cartão De Crédito,Em Transporte,4,Centro-oeste
+1252,2025-01-22,201,Bernardo Porto,maria-isisramos@example.net,+5581993373703,70,Caruaru,PE,roupa,Tênis Esportivo,5,219.9,1099.5,Cartão De Débito,Cancelado,4,Nordeste
+1104,2024-06-15,313,Gabrielly Silveira,aragaojuliana@example.com,+5511974085979,22,Caxias Do Sul,RS,esporte e lazer,Halteres 5Kg Par,1,149.9,149.9,Cartão De Crédito,Em Transporte,2,Sul
+1370,2025-01-15,69,Dra. Carolina Jesus,abreujuliana@example.net,,35,Porto Alegre,RS,roupa,Vestido Casual,5,159.9,799.5,Boleto Bancário,Entregue,3,Sul
+1035,2025-08-04,238,Sra. Maria Clara Barros,gustavoda-conceicao@example.com,+5541947444745,38,São Paulo,SP,livro,Hq Coleção,2,29.9,59.8,Cartão De Débito,Devolvido,3,Sudeste
+1349,2025-11-20,197,Valentina Andrade,,+5521915844702,75,Sobral,CE,esporte e lazer,Bicicleta Aro 29,2,899.0,1798.0,Boleto Bancário,Em Transporte,4,Nordeste
+1407,2023-11-12,304,Giovanna Da Rosa,nmontenegro@example.org,+5531955486230,30,Vitória Da Conquista,BA,esporte e lazer,Tênis De Corrida,2,289.9,579.8,Não Informado,Processando,2,Nordeste
+1025,2023-06-26,35,Pedro Lucas Castro,fernandescaua@example.org,,43,Duque De Caxias,RJ,livro,Livro Técnico,4,112.17,448.68,Cartão De Crédito,Processando,4,Sudeste
+1369,2025-07-14,179,Valentim Brito,yda-mata@example.net,+5585961653690,63,Manaus,AM,roupa,Vestido Casual,4,159.9,465.05,Boleto Bancário,Entregue,4,Norte
+1197,2023-02-20,115,Dom Machado,azevedojoao-vitor@example.net,+5571936247193,55,Ponta Grossa,PR,roupa,Jaqueta CortaVento,1,199.9,199.9,Cartão De Débito,Cancelado,5,Sul
+1308,2024-11-13,317,Alícia Brito,costelamaria-vitoria@example.net,+5531964143050,47,Santos,SP,beleza,Shampoo Profissional,1,29.9,29.9,Pix,Devolvido,5,Sudeste
+1337,2024-07-12,140,Juliana Da Cruz,emanuellyandrade@example.org,+5521970357772,61,Caruaru,PE,esporte e lazer,Bicicleta Aro 29,1,899.0,899.0,Cartão De Débito,Processando,3,Nordeste
+1410,2024-03-17,130,Sophie Borges,helena09@example.org,,48,Juazeiro Do Norte,,livro,Biografia,3,149.9,134.7,Cartão De Débito,Entregue,5,
+1190,2025-05-12,272,Dr. Bruno Macedo,luiz-gustavopimenta@example.net,,20,São Paulo,SP,esporte e lazer,Bicicleta Aro 29,5,899.0,4495.0,Cartão De Crédito,Cancelado,5,Sudeste
+1043,2023-08-28,160,Heitor Alves,otavio48@example.org,,70,Manaus,AM,livro,Romance BestSeller,5,39.9,199.5,Cartão De Débito,Em Transporte,1,Norte
+1387,2024-11-26,304,Bianca Fogaça,SALESJULIANA@example.org,+5541950223822,24,Blumenau,SC,casa e decoração,Tapete Sala,1,249.9,249.9,Boleto Bancário,Cancelado,4,Sul
+1118,2024-11-19,330,Bianca Silveira,jbarros@example.org,+5521998891786,39,Campinas,SP,roupa,Jaqueta CortaVento,3,199.9,599.7,Não Informado,Entregue,1,Sudeste
+1243,2024-07-25,80,Maria Luísa Moreira,,+5551958904316,,Joinville,SC,roupa,Tênis Esportivo,3,219.9,659.7,Cartão De Crédito,Devolvido,5,Sul
+1460,2023-10-28,150,Theodoro Novaes,piresolivia@example.org,+5541965313215,57,Canoas,RS,beleza,Shampoo Profissional,2,29.9,59.8,Cartão De Crédito,Cancelado,4,Sul
+1338,2025-10-07,286,Sra. Alana Fogaça,emoreira@example.org,+5581963731244,44,Porto Alegre,RS,esporte e lazer,Bicicleta Aro 29,1,1057.79,1057.79,Cartão De Crédito,Em Transporte,4,Sul
+1064,2024-08-08,289,Hellena Azevedo,joaquim70@example.com,+5521914531414,29,Aracaju,SE,esporte e lazer,Tênis De Corrida,2,289.9,579.8,Boleto Bancário,Em Transporte,3,Nordeste
+1135,2024-03-07,13,João Lucas Barros,laura18@example.org,,58,Manaus,AM,beleza,Perfume Importado,3,199.9,599.7,Pix,Devolvido,5,Norte
+1228,2025-11-14,100,Kevin Da Luz,gnogueira@example.org,+5571983968688,34,Brasília,DF,casa e decoração,Tapete Sala,5,249.9,1249.5,Pix,Cancelado,4,Centro-oeste
+1253,2025-05-17,197,Srta. Clara Fogaça,smartins@example.net,,48,Nan,PE,livro,Hq Coleção,1,29.9,29.9,Boleto Bancário,Em Transporte,4,Nordeste
+1328,2024-06-30,303,Mathias Da Rocha,dcastro@example.net,,54,Parintins,AM,eletrônico,Câmera Digital,3,1599.0,4797.0,Cartão De Débito,Em Transporte,1,Norte
+1423,2025-09-04,56,,lais75@example.net,+5585914743033,27,Rio De Janeiro,RJ,esporte e lazer,Tênis De Corrida,2,289.9,579.8,Cartão De Crédito,Entregue,4,Sudeste
+1391,2025-06-22,328,Diogo Castro,alvesguilherme@example.org,+5571984866807,,Pelotas,RS,eletrônico,Smart Tv 50Pol,2,1945.39,3890.78,Cartão De Débito,Entregue,5,Sul
+1053,2025-01-21,296,Matteo Macedo,diogo36@example.org,+5531964664630,,Lagarto,SE,roupa,Camiseta Básica,1,49.9,49.9,Cartão De Crédito,Entregue,4,Nordeste
+1086,2024-11-13,117,Ana Lívia Souza,ribeirosara@example.org,+5571921378454,56,Não Informado,DF,eletrônico,Tablet,5,999.0,4995.0,Pix,Cancelado,3,Centro-oeste
+1134,2024-12-08,339,Sra. Maria Fernanda Farias,gcavalcante@example.org,,34,Porto Alegre,RS,roupa,Vestido Casual,0,159.9,,Cartão De Crédito,Processando,4,Sul
+1304,2025-08-20,56,Gabriela Correia,matheusborges@example.org,,27,Fortaleza,CE,casa e decoração,Mesa De Jantar 6 Lugares,2,860.04,1720.08,Cartão De Débito,Processando,4,Nordeste
+1274,2025-03-28,145,Thiago Ferreira,marinavieira@example.org,,,Canoas,RS,livro,Biografia,3,44.9,134.7,Boleto Bancário,Devolvido,4,Sul
+1109,2025-08-30,343,Sara Novaes,marcelafarias@example.com,,21,Manaus,AM,beleza,Batom Matte,1,39.9,39.9,Boleto Bancário,Processando,5,Norte
+1409,2025-04-24,164,Nathan Pereira,josesa@example.org,+5561952835669,45,Brasília,DF,eletrônico,Tablet,1,999.0,999.0,Boleto Bancário,Devolvido,5,Centro-oeste
+1319,2025-11-02,131,Diego Rocha,martinsmathias@example.org,+5585995166201,,Parintins,AM,livro,Romance BestSeller,3,39.9,119.7,Boleto Bancário,Em Transporte,4,Norte
+1371,2025-03-22,295,Bárbara Monteiro,joliveira@example.com,+5585968088311,24,Recife,PE,eletrônico,Tablet,2,999.0,1998.0,Cartão De Crédito,Processando,4,Nordeste
+1204,2024-12-20,223,Alana Garcia,dsouza@example.org,+5571980934519,60,Parintins,AM,casa e decoração,Jogo De Cortinas,4,99.9,399.6,Cartão De Débito,Em Transporte,5,Norte
+1392,2023-05-30,174,Vicente Mendonça,bpimenta@example.org,,18,Ilhéus,BA,livro,Biografia,1,44.9,44.9,Cartão De Débito,Cancelado,5,Nordeste
+1269,2023-04-29,75,Sra. Aylla Moraes,,+5561966118961,47,Belo Horizonte,MG,roupa,Jaqueta CortaVento,4,199.9,799.6,Boleto Bancário,Processando,3,Sudeste
+1459,2023-05-25,138,Srta. Sophie Pastor,jesusdiogo@example.com,+5521973584465,67,Manaus,AM,esporte e lazer,Tênis De Corrida,1,289.9,289.9,Boleto Bancário,Cancelado,4,Norte
+1249,2025-03-04,182,Ana Liz Albuquerque,leaolaura@example.net,,69,Caxias Do Sul,RS,livro,Biografia,2,44.9,89.8,Cartão De Débito,Devolvido,4,Sul
+1056,2023-08-07,294,Miguel Mendonça,pietrocastro@example.net,,44,Uberlândia,MG,livro,Hq Coleção,3,29.9,89.7,Cartão De Crédito,Entregue,0,Sudeste
+1356,2025-04-25,43,,,+5551991758957,64,Duque De Caxias,RJ,casa e decoração,Sofá 3 Lugares,2,1899.0,3798.0,Cartão De Crédito,Em Transporte,4,Sudeste
+1032,2023-12-02,45,,pietro93@example.org,,,Blumenau,SC,casa e decoração,Jogo De Cortinas,1,99.9,99.9,Não Informado,Cancelado,1,Sul
+1140,2025-11-11,95,Gael Souza,pereiracamila@example.com,+5541968616496,66,Recife,PE,livro,Hq Coleção,1,29.9,29.9,Cartão De Crédito,Cancelado,6,Nordeste
+1466,2025-11-30,320,Dr. Samuel Aparecida,guilherme58@example.com,+5579974756643,22,Olinda,PE,livro,Livro Técnico,3,89.9,269.7,Cartão De Débito,Entregue,4,Nordeste
+1004,2025-06-21,164,Bento Oliveira,,+5511969571417,58,Belo Horizonte,MG,livro,Hq Coleção,1,29.9,29.9,Cartão De Crédito,Cancelado,4,Sudeste
+1154,2023-08-21,331,Beatriz Rezende,gandrade@example.org,,,Lagarto,SE,livro,Hq Coleção,2,29.9,59.8,Cartão De Crédito,Entregue,3,Nordeste
+1306,2025-09-24,41,Thales Freitas,freitasmaria-fernanda@example.org,+5585937389126,55,Sorocaba,SP,casa e decoração,Jogo De Cortinas,4,99.9,399.6,Boleto Bancário,Processando,3,Sudeste
+1172,2024-07-18,18,Fernanda Melo,pedro-henriqueaparecida@example.com,+5561937104151,29,Porto Alegre,RS,casa e decoração,Mesa De Jantar 6 Lugares,4,899.0,3596.0,Pix,Cancelado,4,Sul
+1366,2023-09-01,32,Yuri Azevedo,lunna08@example.com,+5561934228735,20,Ponta Grossa,PR,beleza,Creme Facial AntiIdade,1,79.9,79.9,Boleto Bancário,Devolvido,1,Sul
+1436,2023-09-07,187,Antonella Souza,vinicius17@example.com,+5531945885177,64,Brasília,DF,eletrônico,Fone De Ouvido Bluetooth,0,149.9,,Cartão De Crédito,Em Transporte,1,Centro-oeste
+1254,2023-04-21,120,Carolina Vasconcelos,yfogaca@example.org,+5585922336764,75,Salvador,BA,esporte e lazer,Halteres 5Kg Par,3,149.9,449.70000000000005,Não Informado,Em Transporte,10,Nordeste
+1385,2023-02-01,266,Sra. Sophia Leão,sabrinada-rocha@example.net,+5511991742827,,Nossa Senhora Do Socorro,SE,beleza,Batom Matte,2,39.9,79.8,Pix,Em Transporte,5,Nordeste
+1014,2024-02-13,345,João Gabriel Melo,araujoana-luiza@example.net,+5585983635401,22,Niterói,RJ,esporte e lazer,Tênis De Corrida,2,289.9,579.8,Pix,Processando,5,Sudeste
+1403,2023-10-12,190,Esther Martins,catarina36@example.org,+5521916893844,25,Niterói,RJ,casa e decoração,Sofá 3 Lugares,2,1899.0,3798.0,Boleto Bancário,Cancelado,5,Sudeste
+1447,2023-06-20,48,Cecília Da Paz,,+5571993202782,74,Fortaleza,CE,livro,Biografia,3,46.38,139.14,Cartão De Débito,Cancelado,4,Nordeste
+1404,2023-07-11,121,Apollo Fernandes,rodrigosantos@example.org,+5531939974723,71,Parintins,AM,beleza,Perfume Importado,2,199.9,399.8,Cartão De Crédito,Em Transporte,3,Norte
+1326,2025-03-06,269,Ana Laura Pires,,,21,Caruaru,PE,beleza,Perfume Importado,4,149.9,799.6,Cartão De Crédito,Entregue,4,Nordeste
+1071,2025-09-13,175,Sofia Das Neves,raulfernandes@example.org,+5531911188424,28,Parintins,AM,beleza,Shampoo Profissional,2,29.9,59.8,Cartão De Crédito,Cancelado,5,Norte
+1348,2024-03-26,241,Antony Porto,,+5579911888573,51,Canoas,RS,esporte e lazer,Halteres 5Kg Par,1,149.9,149.9,Não Informado,Entregue,5,Sul
+1095,2024-08-14,175,Breno Pacheco,casa-grandesabrina@example.com,+5561948598086,72,Ponta Grossa,PR,livro,Biografia,1,44.9,44.9,Cartão De Crédito,Processando,5,Sul
+1089,2025-10-13,33,Laura Vargas,pimentamiguel@example.org,+5561936988132,50,Salvador,BA,casa e decoração,Jogo De Cortinas,3,99.9,299.7,Boleto Bancário,Devolvido,5,Nordeste
+1443,2024-01-19,22,Maria Luiza Aragão,mayalima@example.com,+5579994961478,42,Sobral,CE,esporte e lazer,Bola De Futebol Oficial,5,89.9,449.5,Cartão De Débito,Entregue,4,Nordeste
+1284,2025-10-14,257,,rodrigueshellena@example.net,+5511941503378,33,Aracaju,SE,casa e decoração,Tapete Sala,1,231.28,231.28,Cartão De Débito,Cancelado,5,Nordeste
+1132,2023-02-11,335,Milena Silva,henry-gabriel12@example.com,+5511991357761,33,Londrina,PR,casa e decoração,Tapete Sala,1,249.9,249.9,Cartão De Débito,Entregue,5,Sul
+1027,2024-10-25,100,Marcos Vinicius Cassiano,cecilia95@example.com,+5551944135306,30,Contagem,MG,casa e decoração,Luminária De Mesa,3,89.9,269.7,Cartão De Crédito,Processando,4,Sudeste
+1075,2024-03-04,34,Emanuel Da Mata,qabreu@example.com,+5581979735565,54,Joinville,SC,esporte e lazer,Halteres 5Kg Par,2,149.9,299.8,Cartão De Crédito,Em Transporte,4,Sul
+1063,2024-11-14,4,Otávio Barbosa,arthur-gabriel14@example.org,,,Juazeiro Do Norte,CE,livro,Livro Técnico,1,89.9,89.9,Cartão De Débito,Devolvido,4,Nordeste
+1273,2023-06-24,302,João Vitor Fogaça,vguerra@example.net,,54,Ribeirão Preto,SP,roupa,Vestido Casual,3,159.9,479.7,Pix,Em Transporte,2,Sudeste
+1073,2023-02-22,30,Jade Lopes,,+5581935672531,71,Curitiba,PR,eletrônico,Câmera Digital,3,1599.0,4797.0,Cartão De Débito,Cancelado,5,Sul
+1282,2023-01-18,89,Kevin Cirino,uandrade@example.org,+5561940161187,22,Joinville,SC,casa e decoração,Luminária De Mesa,2,89.9,179.8,Pix,Devolvido,3,Sul
+1463,2024-03-09,184,Sr. Anthony Gabriel Sampaio,maria-clarada-rosa@example.org,+5585931136091,27,Ribeirão Preto,SP,esporte e lazer,Bola De Futebol Oficial,2,89.9,179.8,Boleto Bancário,Processando,4,Sudeste
+1088,2023-12-24,112,Igor Sousa,ymonteiro@example.org,,50,Feira De Santana,BA,beleza,Perfume Importado,1,199.9,199.9,Cartão De Crédito,Processando,1,Nordeste
+1314,2024-10-25,180,Emilly Machado,esterda-costa@example.net,+5561951059235,21,Duque De Caxias,RJ,beleza,Creme Facial AntiIdade,2,79.9,159.8,Cartão De Débito,Devolvido,2,Sudeste
+1263,2025-04-19,310,Pedro Lucas Rios,novaisisaac@example.com,+5585959928119,68,Rio De Janeiro,RJ,eletrônico,Smart Tv 50Pol,1,2199.0,2199.0,Cartão De Crédito,Em Transporte,4,Sudeste
+1188,2023-10-28,188,Luiz Miguel Machado,,+5511987298491,26,Londrina,PR,livro,Romance BestSeller,3,39.9,119.7,Cartão De Débito,Em Transporte,4,Sul
+1097,2025-11-14,115,Raquel Gonçalves,castroandre@example.com,+5581997086397,54,Belo Horizonte,MG,beleza,Batom Matte,1,39.9,39.9,Pix,Devolvido,5,Sudeste
+1271,2024-06-24,273,Luiz Otávio Fernandes,hvasconcelos@example.net,+5585993651935,57,Manaus,AM,eletrônico,Smart Tv 50Pol,1,2199.0,2199.0,Cartão De Crédito,Entregue,4,Norte
+1122,2025-11-06,88,Agatha Albuquerque,MARIA-CLARA45@example.net,+5581930399266,67,Florianópolis,SC,beleza,Batom Matte,3,39.9,119.7,Pix,Processando,3,Sul
+1152,2024-11-11,124,Joaquim Da Costa,alexiapacheco@example.org,+5521937902451,39,Blumenau,SC,eletrônico,Câmera Digital,1,1599.0,1599.0,Cartão De Débito,Em Transporte,1,Sul
+1116,2025-12-21,224,Sra. Rebeca Abreu,goncalvessarah@example.com,+5521949263845,41,Fortaleza,CE,roupa,Vestido Casual,3,159.9,479.7,Boleto Bancário,Processando,5,Nordeste
+1166,2024-12-16,341,Otávio Camargo,guerraemanuella@example.com,,39,Campinas,SP,esporte e lazer,Bola De Futebol Oficial,5,89.9,449.5,Boleto Bancário,Entregue,4,Sudeste
+1179,2024-03-03,309,Luiz Henrique Lopes,,+5579912489653,42,Sobral,CE,livro,Livro Técnico,1,89.9,89.9,Cartão De Crédito,Cancelado,5,Nordeste
+1069,2025-02-18,229,Thiago Novaes,oliviamelo@example.org,+5571982751226,48,Nan,SP,livro,Romance BestSeller,2,39.9,79.8,Cartão De Débito,Devolvido,4,Sudeste
+1376,2025-05-02,23,Isabel Borges,ayla93@example.com,+5571995132521,49,Jaboatão Dos Guararapes,PE,eletrônico,Smartphone,3,1899.9,5699.7,Boleto Bancário,Processando,5,Nordeste
+1170,2024-01-09,67,,caiomendes@example.com,+5561929647012,21,Jaboatão Dos Guararapes,PE,esporte e lazer,Tênis De Corrida,1,289.9,289.9,Pix,Processando,3,Nordeste
+1055,2024-07-11,165,Maria Clara Casa Grande,joao-guilherme73@example.net,+5541911751419,52,Sorocaba,SP,livro,Hq Coleção,2,29.9,59.8,Não Informado,Devolvido,4,Sudeste
+1380,2025-03-16,158,Marcela Machado,rochadavi-luiz@example.net,+5585938524619,44,Vitória Da Conquista,BA,livro,Hq Coleção,5,29.9,149.5,Cartão De Débito,Devolvido,4,Nordeste
+1299,2025-10-04,336,João Guilherme Novaes,iferreira@example.org,,41,Parintins,AM,roupa,Camiseta Básica,1,49.9,49.9,Pix,Processando,4,Norte
+1058,2025-07-21,203,Luiz Otávio Almeida,maria-cecilia70@example.com,+5531973864627,19,Brasília,DF,livro,Romance BestSeller,1,50.21,50.21,Cartão De Crédito,Cancelado,2,Centro-oeste
+1363,2023-03-27,89,Lucas Gabriel Câmara,OLIVIANOGUEIRA@example.com,+5585932926494,,Porto Alegre,RS,casa e decoração,Tapete Sala,1,249.9,254.71,Pix,Devolvido,4,Sul
+1333,2023-02-22,217,,borgesmaya@example.com,,44,Parintins,AM,esporte e lazer,Bicicleta Aro 29,1,899.0,899.0,Cartão De Crédito,Devolvido,1,Norte
+1205,2025-05-27,120,Dra. Milena Cavalcanti,gustavo-henriqueda-luz@example.org,,41,Feira De Santana,BA,roupa,Vestido Casual,3,159.9,479.7,Pix,Em Transporte,4,Nordeste
+1384,2025-03-14,346,Sr. Leonardo Moraes,henryrezende@example.com,+5521924542551,,Canoas,RS,livro,Biografia,3,44.9,134.7,Boleto Bancário,Devolvido,4,Sul
+1478,2024-07-07,300,Cecília Da Mata,eda-mata@example.net,+5581968273553,75,Rio De Janeiro,RJ,beleza,Perfume Importado,3,199.9,599.7,Cartão De Crédito,Cancelado,4,Sudeste
+1267,2025-01-05,199,Ravi Lucca Freitas,rleao@example.org,+5541921527918,,Manaus,AM,beleza,Shampoo Profissional,4,29.9,119.6,Cartão De Débito,Devolvido,2,Norte
+1136,2024-07-22,302,,luana10@example.net,+5585958035518,41,Caxias Do Sul,RS,casa e decoração,Mesa De Jantar 6 Lugares,3,899.0,2697.0,Pix,Em Transporte,5,Sul
+1038,2023-01-31,79,Srta. Pietra Cavalcanti,ovieira@example.com,+5561933384827,31,Nossa Senhora Do Socorro,SE,eletrônico,Smartphone,4,1899.9,7599.6,Cartão De Crédito,Entregue,4,Nordeste
+1312,2025-01-27,60,Raquel Azevedo,,+5585950904073,38,Fortaleza,CE,beleza,Perfume Importado,2,199.9,399.8,Boleto Bancário,Entregue,4,Nordeste
+1280,2025-07-06,212,Carlos Eduardo Ribeiro,brayanleao@example.org,+5579915944385,45,Ribeirão Preto,SP,esporte e lazer,Tênis De Corrida,2,289.9,579.8,Boleto Bancário,Entregue,4,Sudeste
+1107,2024-10-03,248,Dra. Joana Guerra,ana-juliamendes@example.net,,41,Manaus,AM,beleza,Creme Facial AntiIdade,5,79.9,399.5,Cartão De Crédito,Processando,3,Norte
+1173,2025-06-06,236,Eduarda Gomes,JOSUE23@example.net,,61,Juazeiro Do Norte,CE,beleza,Shampoo Profissional,2,29.9,59.8,Pix,Devolvido,4,Nordeste
+1399,2024-09-19,54,Hellena Jesus,ISABELLY70@example.org,+5511958059265,55,Nossa Senhora Do Socorro,SE,eletrônico,Tablet,1,999.0,999.0,Pix,Entregue,5,Nordeste
+1386,2025-05-03,248,Thiago Correia,dcirino@example.net,,47,Feira De Santana,BA,livro,Hq Coleção,1,29.9,29.9,Pix,Processando,4,Nordeste
+1372,2023-08-23,192,Daniel Garcia,dsales@example.com,+5541988748933,44,Juazeiro Do Norte,CE,livro,Biografia,5,44.9,224.5,Boleto Bancário,Devolvido,4,Nordeste
+1277,2024-06-20,21,Augusto Correia,xpereira@example.net,,46,Nossa Senhora Do Socorro,SE,beleza,Creme Facial AntiIdade,1,79.9,79.9,Pix,Em Transporte,4,Nordeste
+1195,2024-11-12,168,Vicente Fogaça,juliapacheco@example.com,+5531990112938,,Nan,RJ,esporte e lazer,Bicicleta Aro 29,1,899.0,899.0,Pix,Devolvido,3,Sudeste
+1240,2024-01-22,165,Mariah Da Conceição,luiz-miguelramos@example.org,+5531919152246,32,Salvador,BA,livro,Romance BestSeller,1,39.9,39.9,Pix,Entregue,2,Nordeste
+1265,2023-08-27,36,Nina Casa Grande,fda-cruz@example.org,+5561966138102,55,Nossa Senhora Do Socorro,SE,eletrônico,Smartphone,2,1899.9,3799.8,Cartão De Débito,Cancelado,4,Nordeste
+1162,2025-12-16,122,Daniela Porto,rezendeluan@example.com,+5531930361718,43,Pelotas,RS,livro,Hq Coleção,1,29.9,29.9,Pix,Processando,3,Sul
+1012,2024-05-09,258,Samuel Leão,rioseduardo@example.net,+5561973816343,57,Florianópolis,SC,roupa,Tênis Esportivo,1,219.9,219.9,Cartão De Crédito,Em Transporte,10,Sul
+1297,2024-01-09,340,Rael Da Paz,duartevinicius@example.com,,33,Itabaiana,SE,roupa,Vestido Casual,5,159.9,799.5,Pix,Devolvido,4,Nordeste
+1293,2023-12-14,104,Luiz Miguel Ramos,laramendes@example.com,+5581937948375,,Nossa Senhora Do Socorro,SE,eletrônico,Fone De Ouvido Bluetooth,1,149.9,149.9,Cartão De Débito,Devolvido,3,Nordeste
+1479,2023-07-12,254,Luiz Henrique Nunes,bernardonovais@example.org,+5585912584008,24,Joinville,SC,eletrônico,Fone De Ouvido Bluetooth,2,149.9,299.8,Pix,Processando,5,Sul
+1465,2024-11-23,33,Luiz Otávio Souza,,+5521945404969,43,Olinda,PE,esporte e lazer,Bola De Futebol Oficial,1,65.53,65.53,Pix,Cancelado,4,Nordeste
+1290,2025-10-14,310,Sara Marques,caua00@example.org,+5581944798200,60,Manaus,AM,roupa,Calça Jeans,2,129.9,259.8,Pix,Devolvido,4,Norte
+1442,2023-03-03,54,Sr. Yuri Freitas,,+5579959719080,69,Vitória Da Conquista,BA,casa e decoração,Jogo De Cortinas,2,99.9,199.8,Cartão De Débito,Processando,4,Nordeste
+1141,2025-10-02,229,Lucas Gabriel Pimenta,da-luzanna-liz@example.com,+5551942369873,34,Jaboatão Dos Guararapes,PE,casa e decoração,Luminária De Mesa,3,89.9,269.7,Cartão De Débito,Cancelado,4,Nordeste
+1082,2024-03-17,151,Mariane Siqueira,sabrinasa@example.net,,27,Sobral,CE,livro,Hq Coleção,1,29.9,29.9,Pix,Processando,3,Nordeste
+1301,2024-07-19,8,Miguel Martins,thomaspastor@example.org,+5511964811246,,Nan,PR,beleza,Shampoo Profissional,4,29.9,119.6,Cartão De Débito,Devolvido,5,Sul
+1413,2024-10-31,273,Sra. Aurora Câmara,jose64@example.com,,66,Florianópolis,SC,beleza,Batom Matte,1,39.9,39.9,Boleto Bancário,Devolvido,3,Sul
+1015,2024-05-02,208,Melissa Da Paz,wrios@example.org,,35,Itabaiana,SE,livro,Biografia,1,44.9,44.9,Pix,Entregue,5,Nordeste
+1453,2023-12-05,119,Cecilia Da Rosa,sofia03@example.org,+5561954066651,32,Joinville,SC,beleza,Batom Matte,5,39.9,199.5,Boleto Bancário,Devolvido,3,Sul
+1200,2025-05-27,245,Bento Nascimento,guerramarcelo@example.org,,63,Santos,SP,esporte e lazer,Halteres 5Kg Par,1,149.9,149.9,Cartão De Crédito,Em Transporte,4,Sudeste
+1021,2023-05-14,174,Anthony Gabriel Mendonça,viniciusda-paz@example.org,,69,Caruaru,PE,casa e decoração,Mesa De Jantar 6 Lugares,2,899.0,1798.0,Cartão De Crédito,Em Transporte,1,Nordeste
+1029,2023-01-24,69,Diego Caldeira,vinicius72@example.net,+5561994809074,,Campinas,,esporte e lazer,Bola De Futebol Oficial,1,89.9,89.9,Cartão De Débito,Cancelado,5,
+1010,2025-05-05,9,Letícia Moura,ufernandes@example.com,+5511936455290,37,Florianópolis,SC,casa e decoração,Sofá 3 Lugares,2,1899.0,3798.0,Boleto Bancário,Processando,4,Sul
+1451,2025-10-05,126,Daniela Guerra,ARAUJOBIANCA@example.net,,22,Juiz De Fora,MG,livro,Hq Coleção,1,29.9,29.9,Cartão De Crédito,Entregue,4,Sudeste
+1424,2025-03-22,304,Milena Moraes,rochanoah@example.com,+5585999477012,64,Olinda,PE,livro,Hq Coleção,4,29.9,119.6,Cartão De Débito,Em Transporte,4,Nordeste
+1167,2025-02-26,173,Davi Lucca Albuquerque,novaesjoao-miguel@example.net,+5579940729016,55,Belo Horizonte,MG,roupa,Tênis Esportivo,1,219.9,219.9,Cartão De Débito,Cancelado,10,Sudeste
+1448,2024-05-30,195,Sra. Maitê Azevedo,qalbuquerque@example.org,+5521991379757,44,Brasília,DF,livro,Livro Técnico,2,149.9,179.8,Cartão De Crédito,Processando,5,Centro-oeste
+1352,2025-02-18,159,Alexia Fonseca,mouramarcelo@example.org,,52,Florianópolis,SC,livro,Biografia,1,44.9,44.9,Pix,Processando,5,Sul
+1298,2025-11-11,269,Eduarda Pastor,da-pazjoao-miguel@example.net,+5581944785426,36,Santos,SP,roupa,Calça Jeans,1,129.9,129.9,Boleto Bancário,Devolvido,4,Sudeste
+1020,2023-12-08,95,Dom Barros,kevinda-conceicao@example.net,+5531972286843,,Blumenau,SC,esporte e lazer,Tênis De Corrida,2,289.9,579.8,Cartão De Débito,Entregue,4,Sul
+1081,2025-01-02,209,Clarice Da Paz,,+5541996147794,19,Maringá,PR,casa e decoração,Luminária De Mesa,2,89.9,179.8,Cartão De Débito,Entregue,4,Sul
+1389,2024-04-14,210,Alice Rios,costaluiz-fernando@example.com,+5551992703786,19,São Paulo,SP,eletrônico,Smart Tv 50Pol,3,2199.0,6597.0,Boleto Bancário,Entregue,4,Sudeste
+1060,2023-12-29,348,João Da Mata,vasconcelosluiz-miguel@example.com,+5581991975865,36,Fortaleza,CE,beleza,Batom Matte,3,45.12,135.35999999999999,Pix,Cancelado,4,Nordeste
+1374,2025-07-06,272,Luna Abreu,cgarcia@example.com,,44,Sobral,CE,casa e decoração,Jogo De Cortinas,3,99.9,299.7,Pix,Entregue,4,Nordeste
+1393,2025-10-04,125,Alice Rodrigues,,+5531992647870,38,Parintins,AM,livro,Biografia,1,44.9,44.9,Não Informado,Em Transporte,2,Norte
+1345,2024-03-31,182,Felipe Aparecida,josue77@example.net,,21,Recife,PE,eletrônico,Notebook,2,3299.0,16495.0,Pix,Devolvido,2,Nordeste
+1146,2023-06-26,158,,thalesjesus@example.org,,49,Juiz De Fora,MG,beleza,Perfume Importado,2,199.9,399.8,Pix,Devolvido,4,Sudeste
+1207,2025-02-14,201,Maya Rodrigues,ana-carolina31@example.net,+5521992771280,57,Manaus,AM,livro,Romance BestSeller,3,39.9,119.7,Cartão De Crédito,Entregue,1,Norte
+1379,2024-11-21,232,Marina Gomes,cfogaca@example.net,,38,Ilhéus,BA,roupa,Tênis Esportivo,4,219.9,879.6,Boleto Bancário,Processando,3,Nordeste
+1033,2024-04-19,252,Heloísa Costa,UFOGACA@example.org,+5585927136351,74,Manaus,AM,livro,Biografia,2,44.9,89.8,Boleto Bancário,Devolvido,4,Norte
+1178,2025-11-07,119,Natália Cavalcanti,gguerra@example.org,+5551934381146,41,Joinville,SC,casa e decoração,Mesa De Jantar 6 Lugares,2,899.0,1798.0,Cartão De Débito,Devolvido,4,Sul
+1196,2025-03-28,260,Catarina Costela,maria-laura22@example.org,+5579970378119,45,Fortaleza,CE,eletrônico,Smartphone,3,1899.9,5699.7,Cartão De Débito,Entregue,4,Nordeste
+1467,2023-03-11,283,Brenda Andrade,thomasfogaca@example.org,+5511911448038,29,Nan,SC,livro,Biografia,2,44.9,89.8,Pix,Processando,4,Sul
+1194,2025-07-23,231,Ana Clara Almeida,abreudaniela@example.com,+5541911928915,28,Juiz De Fora,MG,esporte e lazer,Bicicleta Aro 29,2,899.0,1798.0,Pix,Devolvido,4,Sudeste
+1431,2025-01-14,39,Yan Lima,leonardopeixoto@example.com,+5541967485301,48,Nossa Senhora Do Socorro,SE,esporte e lazer,Bola De Futebol Oficial,2,89.9,179.8,Pix,Cancelado,5,Nordeste
+1031,2023-06-09,323,,RAFAELA52@example.com,,62,Parintins,AM,livro,Romance BestSeller,2,39.9,79.8,Cartão De Débito,Entregue,5,Norte
+1148,2024-01-03,157,Bryan Costela,leaomelina@example.net,,32,Juazeiro Do Norte,CE,roupa,Camiseta Básica,2,49.9,99.8,Cartão De Crédito,Em Transporte,4,Nordeste
+1084,2024-03-08,306,Luiz Miguel Caldeira,jmachado@example.org,+5551925604303,60,Caxias Do Sul,RS,eletrônico,Câmera Digital,4,1599.0,6396.0,Cartão De Débito,Devolvido,5,Sul
+1412,2023-08-21,247,Sr. Cauê Azevedo,melissa43@example.org,,35,Manaus,AM,esporte e lazer,Halteres 5Kg Par,3,149.9,449.7,Cartão De Crédito,Cancelado,5,Norte
+1096,2023-11-06,314,Sr. Thomas Da Mota,santosemanuella@example.org,+5579984993273,55,,SE,beleza,Batom Matte,4,39.9,159.6,Boleto Bancário,Em Transporte,4,Nordeste
+1128,2024-08-27,270,Gael Da Conceição,qcamara@example.com,,,,PR,livro,Biografia,5,44.9,224.5,Boleto Bancário,Entregue,4,Sul
+1246,2025-03-08,209,Renan Moraes,portoester@example.net,+5579970258558,73,Juiz De Fora,MG,eletrônico,Smartphone,1,1899.9,1899.9,Boleto Bancário,Em Transporte,5,Sudeste
+1215,2025-06-17,163,Srta. Ana Luiza Pastor,,+5511983703193,65,Fortaleza,CE,esporte e lazer,Bicicleta Aro 29,2,899.0,1798.0,Pix,Entregue,5,Nordeste
+1070,2024-11-18,68,,fribeiro@example.net,,54,Brasília,DF,roupa,Calça Jeans,3,129.9,389.7,Cartão De Crédito,Em Transporte,4,Centro-oeste
+1009,2024-11-23,342,,theo23@example.org,,75,Feira De Santana,BA,esporte e lazer,Tênis De Corrida,2,289.9,502.08,Cartão De Débito,Entregue,5,Nordeste
+1222,2025-11-09,46,João Pedro Cavalcante,habreu@example.org,+5585944223382,40,Aracaju,SE,eletrônico,Câmera Digital,4,149.9,8428.81,Boleto Bancário,Devolvido,4,Nordeste
+1057,2025-12-24,284,Sophie Guerra,laura35@example.com,,47,Santos,SP,livro,Romance BestSeller,3,39.9,119.7,Boleto Bancário,Devolvido,4,Sudeste
+1475,2023-12-15,51,Sra. Luísa Oliveira,wgomes@example.com,+5531971004134,48,Curitiba,PR,eletrônico,Smart Tv 50Pol,0,2469.14,,Cartão De Débito,Cancelado,4,Sul
+1300,2024-02-24,319,,ravi-luccadas-neves@example.net,+5571966354587,45,Parintins,AM,casa e decoração,Tapete Sala,4,249.9,999.6,Pix,Processando,4,Norte
+1006,2025-09-06,313,Lorena Novais,GUSTAVOPACHECO@example.net,,,Sorocaba,SP,esporte e lazer,Halteres 5Kg Par,1,149.9,149.9,Boleto Bancário,Entregue,4,Sudeste
+1275,2025-05-05,333,Sr. Liam Silva,jose-miguel91@example.org,+5521961154791,43,Londrina,PR,eletrônico,Notebook,4,3299.0,13196.0,Cartão De Débito,Processando,4,Sul
+1438,2025-05-02,144,José Rezende,,+5585944496365,55,Nossa Senhora Do Socorro,SE,eletrônico,Notebook,1,3299.0,3299.0,Boleto Bancário,Devolvido,10,Nordeste
+1219,2024-05-20,72,Dr. João Miguel Aragão,aurora98@example.com,,,São Paulo,SP,roupa,Jaqueta CortaVento,1,199.9,199.9,Boleto Bancário,Entregue,3,Sudeste
+1332,2024-11-07,73,Emilly Carvalho,rebecavargas@example.org,,29,Feira De Santana,BA,beleza,Batom Matte,2,39.9,79.8,Pix,Em Transporte,5,Nordeste
+1214,2024-08-29,254,Arthur Aparecida,,+5521915365885,34,Juiz De Fora,MG,esporte e lazer,Halteres 5Kg Par,2,149.9,299.8,Cartão De Débito,Em Transporte,5,Sudeste
+1176,2023-07-20,49,Maria Julia Ribeiro,maite87@example.org,+5581919073383,40,Juazeiro Do Norte,CE,esporte e lazer,Bicicleta Aro 29,2,899.0,1798.0,Pix,Devolvido,5,Nordeste
+1239,2025-12-16,287,Maria Luiza Abreu,lorenasampaio@example.net,+5585975229173,56,Lagarto,SE,casa e decoração,Jogo De Cortinas,3,99.9,299.7,Cartão De Crédito,Processando,4,Nordeste
+1278,2023-05-04,313,Theodoro Nogueira,,,46,Contagem,MG,casa e decoração,Mesa De Jantar 6 Lugares,2,832.94,1665.88,Pix,Devolvido,4,Sudeste
+1181,2025-12-19,196,Dra. Anna Liz Aragão,,,72,Brasília,DF,eletrônico,Fone De Ouvido Bluetooth,5,149.9,749.5,Cartão De Débito,Processando,4,Centro-oeste
+1111,2024-04-21,332,Sr. Liam Da Costa,valentim93@example.org,+5531945215358,57,Contagem,MG,casa e decoração,Luminária De Mesa,1,89.9,89.9,Boleto Bancário,Em Transporte,4,Sudeste
+1160,2023-06-22,329,Dr. Marcelo Cirino,eduardo30@example.com,,48,Contagem,MG,roupa,Camiseta Básica,1,49.9,49.9,Pix,Cancelado,4,Sudeste
+1323,2025-02-04,264,Clara Macedo,vitorleao@example.com,+5551928871635,71,Sorocaba,SP,esporte e lazer,Bola De Futebol Oficial,1,89.9,89.9,Boleto Bancário,Cancelado,5,Sudeste
+1147,2025-11-07,244,Ana Beatriz Mendes,lorenzo61@example.org,+5579952418999,26,Itabaiana,SE,livro,Hq Coleção,2,149.9,29.9,Pix,Entregue,3,Nordeste
+1059,2024-10-05,180,Dr. Théo Azevedo,vianaraul@example.org,+5551986524935,42,Fortaleza,CE,livro,Livro Técnico,1,89.9,89.9,Pix,Cancelado,4,Nordeste
+1364,2024-06-06,307,Maria Laura Albuquerque,luan35@example.net,+5521965919556,34,Parintins,AM,beleza,Creme Facial AntiIdade,2,79.9,159.8,Boleto Bancário,Devolvido,5,Norte
+1224,2023-02-28,159,Thales Pastor,olivia49@example.org,+5511911959570,54,Recife,PE,eletrônico,Smartphone,1,1899.9,2099.69,Cartão De Crédito,Em Transporte,4,Nordeste
+1150,2024-07-22,289,Isabela Souza,,+5581959005502,51,Manaus,AM,beleza,Creme Facial AntiIdade,1,79.9,79.9,Pix,Em Transporte,3,Norte
+1362,2024-03-14,248,Dr. Yan Da Rosa,tmelo@example.org,,72,Jaboatão Dos Guararapes,PE,esporte e lazer,Bicicleta Aro 29,2,899.0,1798.0,Cartão De Crédito,Entregue,4,Nordeste
+1295,2024-05-15,224,Lívia Pereira,cassianoana-luiza@example.net,+5511981355056,28,Sobral,CE,esporte e lazer,Halteres 5Kg Par,3,149.9,404.18,Cartão De Crédito,Processando,5,Nordeste
+1100,2025-08-24,226,Srta. Lavínia Da Cunha,davi-lucca66@example.net,+5531910807427,65,Rio De Janeiro,RJ,livro,Livro Técnico,3,89.9,269.7,Boleto Bancário,Devolvido,4,Sudeste
+1446,2024-07-06,242,Esther Cunha,andre09@example.net,+5581939257751,72,Sobral,CE,esporte e lazer,Bola De Futebol Oficial,1,89.9,89.9,Boleto Bancário,Devolvido,2,Nordeste
+1238,2025-07-17,34,Hellena Montenegro,maria-fernanda02@example.com,,43,Itabaiana,SE,esporte e lazer,Bicicleta Aro 29,2,899.0,1798.0,Boleto Bancário,Em Transporte,5,Nordeste
+1315,2024-03-21,92,Erick Andrade,clarice08@example.org,+5585975541171,30,Juazeiro Do Norte,CE,esporte e lazer,Tênis De Corrida,1,289.9,289.9,Cartão De Débito,Devolvido,1,Nordeste
+1030,2024-04-20,245,Gustavo Moura,juan80@example.net,+5571918605357,51,Manaus,AM,livro,Hq Coleção,2,29.9,59.8,Boleto Bancário,Cancelado,4,Norte
+1076,2023-08-11,108,Dr. Joaquim Andrade,pedro-henrique52@example.org,,60,Parintins,AM,eletrônico,Smart Tv 50Pol,2,2199.0,4398.0,Cartão De Débito,Entregue,4,Norte
+1193,2024-06-23,255,Maria Vitória Moraes,calebe27@example.org,+5511957741824,59,Belo Horizonte,MG,roupa,Calça Jeans,4,129.9,519.6,Pix,Entregue,1,Sudeste
+1434,2025-06-25,140,Enrico Duarte,kmartins@example.com,+5581929616002,54,Pelotas,RS,livro,Biografia,4,44.9,179.6,Boleto Bancário,Processando,4,Sul
+1426,2024-12-24,320,José Pedro Cavalcanti,ravynogueira@example.com,+5571956018528,71,Juazeiro Do Norte,CE,casa e decoração,Jogo De Cortinas,1,99.9,99.9,Pix,Processando,4,Nordeste
+1034,2024-05-02,168,João Lucas Melo,mathias95@example.com,+5521950566350,30,Fortaleza,CE,livro,Biografia,2,44.9,89.8,Pix,Em Transporte,3,Nordeste
+1127,2023-06-04,135,João Vitor Sousa,costelamaya@example.org,,25,Brasília,DF,roupa,Tênis Esportivo,2,219.9,629.01,Pix,Cancelado,4,Centro-oeste
+1330,2024-09-18,68,Cecilia Macedo,vieirasara@example.com,+5579913452774,48,Londrina,PR,eletrônico,Smart Tv 50Pol,4,2199.0,8796.0,Cartão De Crédito,Processando,4,Sul
+1357,2025-07-05,50,Daniel Das Neves,lucas-gabriel10@example.net,+5551940934117,42,Olinda,PE,beleza,Shampoo Profissional,2,29.9,59.8,Boleto Bancário,Processando,3,Nordeste
+1292,2025-07-11,215,Ana Liz Dias,luna72@example.org,+5585967868500,24,Uberlândia,MG,beleza,Batom Matte,1,39.9,39.9,Cartão De Débito,Entregue,5,Sudeste
+1022,2024-04-24,167,Otto Nascimento,antonella28@example.net,+5511958155813,34,Contagem,MG,eletrônico,Smartphone,1,1899.9,1899.9,Boleto Bancário,Entregue,2,Sudeste
+1411,2024-06-28,160,Anthony Gabriel Gomes,salesluiz-gustavo@example.org,+5511928794585,64,Jaboatão Dos Guararapes,PE,roupa,Calça Jeans,4,127.36,402.75,Cartão De Crédito,Entregue,3,Nordeste
+1213,2025-08-20,2,Cauê Pinto,catarinacasa-grande@example.net,,22,,AM,casa e decoração,Mesa De Jantar 6 Lugares,5,899.0,4495.0,Pix,Processando,4,Norte
+1309,2023-04-06,113,Hadassa Da Luz,leticia17@example.net,+5585978629344,22,Uberlândia,MG,casa e decoração,Mesa De Jantar 6 Lugares,2,899.0,1822.44,Boleto Bancário,Entregue,4,Sudeste
+1145,2024-07-22,345,Srta. Isabela Duarte,maria-clara59@example.org,+5585941648203,73,Parintins,AM,roupa,Camiseta Básica,1,49.9,49.9,Boleto Bancário,Cancelado,1,Norte
+1144,2024-01-13,183,Caroline Monteiro,antonysousa@example.com,+5581925455320,42,Londrina,PR,roupa,Jaqueta CortaVento,4,199.9,799.6,Boleto Bancário,Entregue,5,Sul
+1005,2024-04-01,186,Catarina Da Rocha,icasa-grande@example.org,+5531949227564,40,Belo Horizonte,MG,beleza,Batom Matte,4,39.9,159.6,Pix,Em Transporte,3,Sudeste
+1421,2023-06-28,194,Ana Julia Da Cruz,andradeantonella@example.org,+5531948641079,,Parintins,AM,eletrônico,Câmera Digital,1,1599.0,1599.0,Boleto Bancário,Processando,3,Norte
+1279,2024-05-16,15,Antonella Cunha,riosmaria-cecilia@example.net,+5585963006447,18,Florianópolis,SC,casa e decoração,Jogo De Cortinas,1,99.9,99.9,Cartão De Crédito,Processando,4,Sul
+1247,2025-02-05,161,Dr. Rafael Costela,heloisamoraes@example.org,+5521957641220,43,Blumenau,SC,eletrônico,Câmera Digital,3,1599.0,4797.0,Pix,Processando,4,Sul
+1251,2025-01-10,149,Valentina Câmara,NMARTINS@example.org,+5585968202101,48,Caxias Do Sul,RS,livro,Romance BestSeller,1,39.9,39.9,Cartão De Crédito,Cancelado,3,Sul
+1008,2025-09-06,288,Gustavo Monteiro,uvasconcelos@example.com,,60,São Paulo,SP,livro,Biografia,2,44.9,89.8,Boleto Bancário,Processando,4,Sudeste
+1054,2024-02-19,226,Kevin Viana,vasconcelosleonardo@example.net,,55,Recife,PE,beleza,Shampoo Profissional,3,29.9,89.7,Cartão De Débito,Cancelado,4,Nordeste
+1268,2024-08-17,68,Luiz Miguel Porto,almeidacaleb@example.net,+5585953373275,20,Rio De Janeiro,RJ,casa e decoração,Sofá 3 Lugares,1,1899.0,1899.0,Boleto Bancário,Entregue,4,Sudeste
+1281,2024-05-07,318,Alice Freitas,ana-luizanovais@example.net,+5521986764703,26,Parintins,AM,livro,Romance BestSeller,1,39.9,39.9,Boleto Bancário,Em Transporte,4,Norte
+1432,2023-08-12,157,Gabrielly Camargo,apollo57@example.org,+5585917245146,51,Sobral,CE,esporte e lazer,Bicicleta Aro 29,4,899.0,3596.0,Pix,Cancelado,3,Nordeste
+1302,2023-07-22,129,Natália Nogueira,,,55,Salvador,BA,roupa,Camiseta Básica,1,49.9,49.9,Cartão De Crédito,Em Transporte,5,Nordeste
+1365,2025-10-12,326,Dr. João Gabriel Da Paz,ana-carolinaaraujo@example.org,,26,Feira De Santana,BA,esporte e lazer,Tênis De Corrida,0,289.9,,Cartão De Crédito,Entregue,3,Nordeste
+1206,2025-05-27,147,Ana Carolina Campos,vinicius04@example.net,+5511944243554,49,Brasília,DF,beleza,Batom Matte,2,39.9,79.8,Boleto Bancário,Devolvido,4,Centro-oeste
+1272,2024-03-19,180,João Miguel Lopes,lavinia48@example.org,+5581992563808,51,Ponta Grossa,PR,beleza,Creme Facial AntiIdade,1,79.9,79.9,Cartão De Crédito,Em Transporte,4,Sul
+1121,2023-01-12,225,Brayan Da Rosa,hellenada-luz@example.org,+5531994653874,55,Sorocaba,SP,roupa,Tênis Esportivo,2,219.9,439.8,Cartão De Crédito,Entregue,4,Sudeste
+1402,2023-03-05,18,Ana Luiza Campos,jferreira@example.org,+5561982169843,24,Niterói,RJ,eletrônico,Câmera Digital,1,1599.0,1599.0,Boleto Bancário,Entregue,5,Sudeste
+1350,2025-02-17,268,Dr. Isaque Farias,znunes@example.com,+5579946879744,70,Canoas,RS,livro,Livro Técnico,2,89.9,179.8,Pix,Processando,5,Sul
+1335,2023-10-15,244,Vicente Jesus,moreiracecilia@example.com,+5541949609336,63,Lagarto,SE,roupa,Vestido Casual,4,159.9,639.6,Boleto Bancário,Em Transporte,4,Nordeste
+1327,2023-08-27,54,Guilherme Fonseca,pda-luz@example.org,,63,Santos,SP,roupa,Camiseta Básica,1,49.9,49.9,Boleto Bancário,Entregue,5,Sudeste
+1343,2023-10-14,34,Antony Brito,,+5585980872788,40,Pelotas,RS,casa e decoração,Tapete Sala,2,249.9,499.8,Boleto Bancário,Entregue,5,Sul
+1472,2025-10-02,275,Breno Cirino,kmelo@example.net,,36,Manaus,AM,roupa,Tênis Esportivo,2,219.9,439.8,Pix,Cancelado,0,Norte
+1368,2023-03-31,177,Srta. Maria Vitória Fernandes,joao-lucas39@example.net,+5579923822857,65,Pelotas,RS,casa e decoração,Tapete Sala,2,249.9,499.8,Cartão De Débito,Entregue,5,Sul
+1417,2024-01-14,29,Asafe Guerra,pereiralorenzo@example.com,+5561961344578,55,Fortaleza,CE,roupa,Vestido Casual,3,159.9,479.7,Cartão De Débito,Em Transporte,4,Nordeste
+1398,2024-10-22,97,Otto Pereira,maya13@example.net,+5541914374445,29,Santos,SP,beleza,Perfume Importado,2,199.9,399.8,Boleto Bancário,Devolvido,5,Sudeste
+1287,2024-01-29,337,Davi Borges,joaquimcardoso@example.com,+5579949233981,66,Fortaleza,CE,casa e decoração,Luminária De Mesa,4,89.9,359.6,Pix,Em Transporte,5,Nordeste
+1351,2025-09-18,282,Ana Júlia Duarte,clariceda-cruz@example.com,+5571960557304,72,Manaus,AM,livro,Livro Técnico,2,149.9,220.09,Cartão De Débito,Processando,5,Norte
+1229,2024-07-15,80,Isabel Marques,sophiapeixoto@example.net,,19,Jaboatão Dos Guararapes,PE,eletrônico,Câmera Digital,2,1599.0,3198.0,Cartão De Crédito,Cancelado,4,Nordeste
+1394,2024-01-23,276,Arthur Gabriel Da Mata,pachecodavi-lucas@example.com,,21,Niterói,RJ,casa e decoração,Tapete Sala,3,249.9,749.7,Cartão De Débito,Em Transporte,4,Sudeste
+1028,2023-09-04,323,Danilo Mendonça,emendes@example.com,+5581910291553,44,Maringá,PR,casa e decoração,Jogo De Cortinas,2,99.9,199.8,Pix,Cancelado,4,Sul
+1440,2025-04-23,163,Vinicius Rodrigues,gustavoviana@example.net,+5571938719163,22,Parintins,AM,roupa,Jaqueta CortaVento,2,199.9,207.18,Cartão De Débito,Cancelado,1,Norte
+1242,2025-02-09,39,Dra. Eduarda Da Cunha,dmendes@example.org,,71,Florianópolis,SC,beleza,Perfume Importado,4,199.9,799.6,Pix,Entregue,1,Sul
+1087,2024-05-18,246,Dra. Olívia Da Cunha,da-luzravy@example.net,,33,Itabaiana,SE,casa e decoração,Sofá 3 Lugares,1,1899.0,1899.0,Pix,Devolvido,4,Nordeste
+1153,2025-07-07,49,Sr. Miguel Da Cunha,nataliamoura@example.org,+5511913448948,52,Vitória Da Conquista,BA,casa e decoração,Luminária De Mesa,0,89.9,,Pix,Devolvido,3,Nordeste
+1420,2025-11-18,92,Pedro Henrique Rios,alexandre14@example.org,,44,Contagem,MG,beleza,Perfume Importado,2,199.9,399.8,Cartão De Crédito,Processando,4,Sudeste
+1286,2025-01-06,136,,ARTHURLIMA@example.org,+5531955067893,51,Belo Horizonte,MG,roupa,Calça Jeans,2,129.9,259.8,Cartão De Débito,Processando,4,Sudeste
+1093,2023-07-05,185,Gabriela Das Neves,meloarthur-gabriel@example.com,,48,Parintins,AM,casa e decoração,Luminária De Mesa,2,91.65,183.3,Pix,Devolvido,4,Norte
+1285,2025-11-05,318,Daniela Melo,gnovaes@example.org,+5511998499108,58,Londrina,,esporte e lazer,Bola De Futebol Oficial,3,89.9,269.7,,Processando,3,
+1405,2024-10-12,172,Gael Henrique Da Mata,luisamartins@example.org,+5581944057880,71,Uberlândia,MG,eletrônico,Notebook,1,3299.0,3299.0,Cartão De Crédito,Entregue,5,Sudeste
+1257,2024-09-10,225,Antonella Ribeiro,leandro46@example.org,+5561980725367,46,Sorocaba,SP,beleza,Shampoo Profissional,1,29.9,29.9,Pix,Devolvido,4,Sudeste
+1415,2025-12-27,120,Dr. Noah Alves,zda-cruz@example.com,,24,Recife,PE,eletrônico,Smart Tv 50Pol,3,2199.0,6597.0,Cartão De Débito,Em Transporte,1,Nordeste
+1143,2023-01-05,150,Nina Vasconcelos,qvieira@example.com,+5561933517256,47,Joinville,SC,casa e decoração,Sofá 3 Lugares,5,1899.0,9495.0,Boleto Bancário,Cancelado,4,Sul
+1101,2023-05-01,246,Luiz Miguel Lima,CALEBE41@example.org,+5561998062271,47,Rio De Janeiro,RJ,roupa,Calça Jeans,1,129.9,129.9,Boleto Bancário,Devolvido,4,Sudeste
+1469,2025-10-28,269,Brenda Barbosa,leo28@example.com,+5571963466695,49,Feira De Santana,BA,esporte e lazer,Bola De Futebol Oficial,1,89.9,89.9,Boleto Bancário,Processando,4,Nordeste
+1383,2024-04-18,179,,cavalcanteeloa@example.com,,74,Juazeiro Do Norte,CE,casa e decoração,Jogo De Cortinas,1,149.9,99.9,Pix,Processando,4,Nordeste
+1264,2024-12-07,115,Isabel Carvalho,jmonteiro@example.org,,19,Curitiba,PR,livro,Livro Técnico,3,89.9,269.7,Cartão De Crédito,Cancelado,3,Sul
+1455,2025-02-17,143,Maria Vitória Fonseca,lunnagoncalves@example.com,+5561922408322,23,Manaus,AM,livro,Hq Coleção,4,29.9,119.6,Boleto Bancário,Processando,3,Norte
+1002,2024-04-12,161,Sr. Thiago Cunha,BORGESLUARA@example.com,+5581934909011,53,Canoas,RS,casa e decoração,Tapete Sala,1,249.9,249.9,Pix,Entregue,4,Sul
+1026,2024-04-26,216,Dom Nascimento,fonsecabenjamim@example.org,+5541927542099,46,Itabaiana,SE,livro,Hq Coleção,2,29.9,59.8,Cartão De Débito,Entregue,5,Nordeste
+1151,2024-02-02,314,João Felipe Freitas,vicente37@example.org,,43,Feira De Santana,BA,beleza,Shampoo Profissional,2,29.9,59.8,Cartão De Débito,Devolvido,4,Nordeste
+1113,2024-06-22,214,Theo Da Mota,jose88@example.net,,19,Parintins,AM,casa e decoração,Tapete Sala,1,249.9,249.9,Boleto Bancário,Processando,3,Norte
+1040,2024-07-10,146,Enzo Gabriel Cardoso,cassianomaria-flor@example.net,+5531961955902,20,Maringá,PR,livro,Biografia,4,44.9,179.6,Cartão De Débito,Devolvido,4,Sul
+1477,2024-03-31,270,Raul Pereira,piresjoao-vitor@example.net,+5579995474613,55,Duque De Caxias,RJ,beleza,Creme Facial AntiIdade,5,79.9,399.5,Cartão De Débito,Cancelado,3,Sudeste
+1105,2023-01-21,176,Cecilia Ramos,maria-vitoria08@example.org,+5571953093959,21,Olinda,PE,eletrônico,Smart Tv 50Pol,1,2199.0,2199.0,Pix,Em Transporte,4,Nordeste
+1198,2023-04-03,165,Murilo Da Luz,,,23,Olinda,PE,eletrônico,Tablet,2,999.0,1998.0,Cartão De Débito,Devolvido,0,Nordeste
+1078,2024-02-11,199,Caleb Da Luz,,+5541963148248,18,Ponta Grossa,PR,roupa,Camiseta Básica,2,49.9,99.8,Cartão De Débito,Devolvido,4,Sul
+1255,2025-04-17,58,Marcos Vinicius Rodrigues,LETICIA27@example.org,,30,Fortaleza,CE,esporte e lazer,Halteres 5Kg Par,1,149.9,149.9,Cartão De Crédito,Processando,4,Nordeste
+1316,2025-06-01,116,,GARAUJO@example.org,+5585940225397,,Feira De Santana,BA,livro,Livro Técnico,1,89.9,89.9,Boleto Bancário,Em Transporte,0,Nordeste
+1470,2023-06-16,9,Maria Helena Casa Grande,stephany47@example.org,+5579979876493,68,Duque De Caxias,,beleza,Perfume Importado,3,199.9,599.7,Boleto Bancário,Devolvido,1,
+1174,2023-07-26,175,Asafe Novais,riosayla@example.org,,42,Porto Alegre,RS,casa e decoração,Tapete Sala,3,249.9,749.7,Pix,Entregue,10,Sul
+1164,2023-02-15,71,Maria Alice Leão,xalmeida@example.com,,66,Joinville,SC,esporte e lazer,Bola De Futebol Oficial,2,89.9,179.8,Cartão De Crédito,Em Transporte,3,Sul
+1245,2023-08-06,317,Guilherme Moreira,guilherme97@example.net,+5541923317511,22,Florianópolis,SC,casa e decoração,Jogo De Cortinas,1,99.9,99.9,Boleto Bancário,Processando,1,Sul
+1037,2024-04-07,270,Manuella Ramos,ribeiroisaque@example.com,+5541986695822,48,Vitória Da Conquista,BA,livro,Livro Técnico,5,149.9,449.5,Pix,Processando,2,Nordeste
+1120,2024-02-18,52,Isis Moura,wsampaio@example.org,+5585911773347,75,Salvador,BA,roupa,Jaqueta CortaVento,5,199.9,999.5,Boleto Bancário,Em Transporte,4,Nordeste
+1225,2023-10-30,230,Heitor Sampaio,melinacavalcante@example.org,,66,Caxias Do Sul,RS,eletrônico,Tablet,1,999.0,999.0,Cartão De Débito,Cancelado,4,Sul
+1001,2025-07-06,166,Sr. Miguel Rezende,,+5531920137499,26,Contagem,MG,esporte e lazer,Bicicleta Aro 29,2,899.0,1798.0,Pix,Devolvido,4,Sudeste
+1217,2024-03-29,305,Caio Sá,maria-liz12@example.org,+5521958418939,73,Ribeirão Preto,SP,livro,Livro Técnico,1,89.9,89.9,Pix,Em Transporte,4,Sudeste
+1192,2024-09-23,21,Arthur Gabriel Câmara,amandapimenta@example.net,+5571994624810,53,Blumenau,SC,beleza,Shampoo Profissional,1,29.9,29.9,Cartão De Crédito,Processando,3,Sul
+1158,2024-04-10,28,Marcela Cunha,freitascarolina@example.org,+5571998934005,33,Aracaju,SE,roupa,Vestido Casual,4,159.9,639.6,Cartão De Débito,Processando,4,Nordeste
+1168,2025-11-01,139,Aurora Oliveira,,,67,Contagem,MG,roupa,Calça Jeans,1,129.9,129.9,Pix,Devolvido,4,Sudeste
+1007,2024-12-25,109,Esther Freitas,novaesdavi-lucas@example.net,+5585931429713,67,Santos,SP,roupa,Jaqueta CortaVento,3,199.9,599.7,Cartão De Débito,Devolvido,4,Sudeste
+1221,2024-03-17,265,Luiz Felipe Melo,nascimentopedro@example.net,+5511973448413,59,Nan,RS,eletrônico,Notebook,2,3299.0,6598.0,Boleto Bancário,Devolvido,5,Sul
+1462,2025-08-22,139,Davi Miguel Freitas,guerrarenan@example.org,+5579990279526,36,Duque De Caxias,RJ,roupa,Vestido Casual,2,159.9,319.8,Pix,Cancelado,5,Sudeste
+1083,2023-10-17,224,Allana Rodrigues,enzo-gabrielalves@example.org,+5579961481139,,Sobral,CE,casa e decoração,Luminária De Mesa,1,89.9,89.9,Boleto Bancário,Processando,2,Nordeste
